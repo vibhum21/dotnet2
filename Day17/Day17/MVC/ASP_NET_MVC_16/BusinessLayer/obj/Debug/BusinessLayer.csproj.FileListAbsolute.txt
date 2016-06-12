@@ -1,0 +1,5 @@
+E:\Day_21\ASP_NET_MVC\ASP_NET_MVC_16\BusinessLayer\bin\Debug\BusinessLayer.dll
+E:\Day_21\ASP_NET_MVC\ASP_NET_MVC_16\BusinessLayer\bin\Debug\BusinessLayer.pdb
+E:\Day_21\ASP_NET_MVC\ASP_NET_MVC_16\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+E:\Day_21\ASP_NET_MVC\ASP_NET_MVC_16\BusinessLayer\obj\Debug\BusinessLayer.dll
+E:\Day_21\ASP_NET_MVC\ASP_NET_MVC_16\BusinessLayer\obj\Debug\BusinessLayer.pdb

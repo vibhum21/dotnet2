@@ -1,0 +1,129 @@
+
+Day 17:
+
+ Agenda:
+
+	MVC Internal Application Execution
+	MVC controller Action Methods
+	Associating Model
+	Views ---- Razor Syntax
+
+
+ Initiate a process to completer SunbeamEStore case Study
+
+
+http://localhost:24855/Department/details/34
+http://localhost:24855/Department/details/54
+http://localhost:24855/Department/details/74
+
+
+http://localhost:24855/employee/Create
+
+ShoppingPoral
+
+Business Entities
+Model classes ( POCO classes)
+
+Products
+Categories
+ShoppingCart
+Order
+Payment
+Customer
+
+Controller
+
+ProductController
+	Create GET
+	Create POST
+	Edit GET
+	Edit POST
+	GetByCategory/34
+	Get/
+	Get/34
+	Delete/23
+
+CategoryController
+	Create GET
+	Create POST
+	Edit GET
+	Edit POST
+	Delete
+	
+ShoppingCartController
+	GetByCustomer/34
+	Get
+	AddToCart
+	RemoveFromCart
+	GetSubTotal
+	GetSummary
+
+OrderController
+	Get
+	GetByCustomer
+	GetByProduct
+	GetByDate
+	Edit/23
+	Delete/34
+	Create
+PaymentController
+	Create GET
+	Crete POSt
+	Get/23
+	Get/dues/
+	Edit GET
+	Edit POST
+	DeleteByPayment/paymentId
+	DeleteByCustomer
+	/paymentId
+CustomerController
+	Register
+	Get
+	Get/23
+	Get/PaymentStatus
+	Edit/23/
+	Delete/23/
+
+LoginController
+	Validate
+	ChangePassword
+	RecoverPassword
+	
+45 actions ------- 40 Views-------HTML contols
+				  Actions Links
+				  Div Tags
+				  Validations 
+				  FieldSets
+				  use if required javascripts
+Tasks for building SunbeamEstorePortal.
+1.Create  new blank Solution OnlineShoppingExperience.
+2.Copy all CL ,BOL, DAL projects of ECommerece into SunbeamEstorePortal.
+3.Add existing projects CL ,BOL, DAL projects into SunbeamEstorePortal solution.
+4.Add new asp.NET Application with Empty with MVC folders as SunbeamPuneShoppingWeb.
+5.Add new Controllers LoginController,................
+6.Add action methods..................
+7.Add 45 Views...............
+8.Link all actions using Navigations in Layout.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

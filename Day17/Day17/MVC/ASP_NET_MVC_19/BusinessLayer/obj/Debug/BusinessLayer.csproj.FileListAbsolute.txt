@@ -1,0 +1,16 @@
+E:\Day_21\ASP_NET_MVC\ASP_NET_MVC_19\BusinessLayer\bin\Debug\BusinessLayer.dll.config
+E:\Day_21\ASP_NET_MVC\ASP_NET_MVC_19\BusinessLayer\bin\Debug\BusinessLayer.dll
+E:\Day_21\ASP_NET_MVC\ASP_NET_MVC_19\BusinessLayer\bin\Debug\BusinessLayer.pdb
+E:\Day_21\ASP_NET_MVC\ASP_NET_MVC_19\BusinessLayer\bin\Debug\EntityFramework.dll
+E:\Day_21\ASP_NET_MVC\ASP_NET_MVC_19\BusinessLayer\bin\Debug\EntityFramework.xml
+E:\Day_21\ASP_NET_MVC\ASP_NET_MVC_19\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+E:\Day_21\ASP_NET_MVC\ASP_NET_MVC_19\BusinessLayer\obj\Debug\BusinessLayer.dll
+E:\Day_21\ASP_NET_MVC\ASP_NET_MVC_19\BusinessLayer\obj\Debug\BusinessLayer.pdb
+E:\RaviT\CDACSunbeam\SunbeamPune_Dotnet_May15\15_6_15_Morning\ASP_NET_MVC_19\BusinessLayer\bin\Debug\BusinessLayer.dll.config
+E:\RaviT\CDACSunbeam\SunbeamPune_Dotnet_May15\15_6_15_Morning\ASP_NET_MVC_19\BusinessLayer\bin\Debug\BusinessLayer.dll
+E:\RaviT\CDACSunbeam\SunbeamPune_Dotnet_May15\15_6_15_Morning\ASP_NET_MVC_19\BusinessLayer\bin\Debug\BusinessLayer.pdb
+E:\RaviT\CDACSunbeam\SunbeamPune_Dotnet_May15\15_6_15_Morning\ASP_NET_MVC_19\BusinessLayer\bin\Debug\EntityFramework.dll
+E:\RaviT\CDACSunbeam\SunbeamPune_Dotnet_May15\15_6_15_Morning\ASP_NET_MVC_19\BusinessLayer\bin\Debug\EntityFramework.xml
+E:\RaviT\CDACSunbeam\SunbeamPune_Dotnet_May15\15_6_15_Morning\ASP_NET_MVC_19\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+E:\RaviT\CDACSunbeam\SunbeamPune_Dotnet_May15\15_6_15_Morning\ASP_NET_MVC_19\BusinessLayer\obj\Debug\BusinessLayer.dll
+E:\RaviT\CDACSunbeam\SunbeamPune_Dotnet_May15\15_6_15_Morning\ASP_NET_MVC_19\BusinessLayer\obj\Debug\BusinessLayer.pdb

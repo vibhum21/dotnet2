@@ -1,0 +1,27 @@
+﻿@using BusinessLayer;
+@model Employee
+
+@{
+    ViewBag.Title = "Employee Details";
+}
+
+<h2>Details</h2>
+<table style="font-family:Arial"> 
+    <tr>
+        <td><b>Employee ID :</b></td>
+        <td>@Model.ID</td>
+    </tr>
+    <tr>
+        <td><b>Name :</b></td>
+        <td>@Model.Name</td>
+    </tr>
+    <tr>
+        <td><b>Gender :</b></td>
+        <td>@Model.Gender</td>
+    </tr>
+    <tr>
+        <td><b>City :</b></td>
+        <td>@Model.City</td>
+    </tr>
+
+</table>

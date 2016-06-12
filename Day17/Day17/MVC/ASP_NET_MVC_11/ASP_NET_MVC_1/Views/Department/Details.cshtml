@@ -1,0 +1,19 @@
+﻿@model ASP_NET_MVC_1.Models.Department
+
+@{
+    ViewBag.Title = "Department Details";
+}
+
+<h2>Details</h2>
+<table style="font-family:Arial"> 
+    <tr>
+        <td><b> Department ID:</b></td>
+        <td>@Model.Id</td>
+    </tr>
+    <tr>
+        <td><b>Department Name :</b></td>
+        <td>@Model.Name</td>
+    </tr>
+    
+</table>
+@Html.ActionLink("Back to Employee List", "Index", new { departmentId = @Model.Id })
