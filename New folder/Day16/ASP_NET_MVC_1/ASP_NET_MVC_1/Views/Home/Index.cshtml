@@ -1,0 +1,14 @@
+﻿@{
+    ViewBag.Title = "null";
+}
+
+<h2>Transflower Customer Locations</h2>
+
+<h3>Welcome to Home View access through index action</h3>
+
+<ol>
+    @foreach (string s in (List<string>)ViewData["countries"])
+    {
+        <li>@s</li> 
+    }
+</ol>

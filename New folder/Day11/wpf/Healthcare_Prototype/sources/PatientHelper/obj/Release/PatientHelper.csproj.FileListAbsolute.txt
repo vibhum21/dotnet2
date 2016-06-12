@@ -1,0 +1,96 @@
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\PatientHelper\bin\Release\PatientHelper.dll.config
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\PatientHelper\bin\Release\PatientHelper.dll
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\PatientHelper\bin\Release\PatientHelper.XmlSerializers.dll
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\PatientHelper\bin\Release\PatientHelper.pdb
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\PatientHelper\obj\Release\ResolveAssemblyReference.cache
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\PatientHelper\obj\Release\DocumentWindow.baml
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\PatientHelper\obj\Release\DocumentWindow.g.cs
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\PatientHelper\obj\Release\VideoAnnotationWindow.g.cs
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\PatientHelper\obj\Release\GeneratedInternalTypeHelper.g.cs
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\PatientHelper\obj\Release\PatientHelper_MarkupCompile.cache
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\PatientHelper\obj\Release\PatientHelper_MarkupCompile.lref
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\PatientHelper\obj\Release\VideoAnnotationWindow.baml
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\PatientHelper\obj\Release\PatientHelper.g.resources
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\PatientHelper\obj\Release\PatientHelper.dll
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\PatientHelper\obj\Release\PatientHelper.pdb
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\PatientHelper\obj\Release\PatientHelper.XmlSerializers.dll
+E:\Simphany\Healthcare_Prototype\sources\PatientHelper\bin\Release\PatientHelper.dll.config
+E:\Simphany\Healthcare_Prototype\sources\PatientHelper\bin\Release\PatientHelper.dll
+E:\Simphany\Healthcare_Prototype\sources\PatientHelper\bin\Release\PatientHelper.XmlSerializers.dll
+E:\Simphany\Healthcare_Prototype\sources\PatientHelper\bin\Release\PatientHelper.pdb
+E:\Simphany\Healthcare_Prototype\sources\PatientHelper\obj\Release\ResolveAssemblyReference.cache
+E:\Simphany\Healthcare_Prototype\sources\PatientHelper\obj\Release\DocumentWindow.baml
+E:\Simphany\Healthcare_Prototype\sources\PatientHelper\obj\Release\DocumentWindow.g.cs
+E:\Simphany\Healthcare_Prototype\sources\PatientHelper\obj\Release\VideoAnnotationWindow.g.cs
+E:\Simphany\Healthcare_Prototype\sources\PatientHelper\obj\Release\GeneratedInternalTypeHelper.g.cs
+E:\Simphany\Healthcare_Prototype\sources\PatientHelper\obj\Release\PatientHelper_MarkupCompile.cache
+E:\Simphany\Healthcare_Prototype\sources\PatientHelper\obj\Release\PatientHelper_MarkupCompile.lref
+E:\Simphany\Healthcare_Prototype\sources\PatientHelper\obj\Release\VideoAnnotationWindow.baml
+E:\Simphany\Healthcare_Prototype\sources\PatientHelper\obj\Release\PatientHelper.g.resources
+E:\Simphany\Healthcare_Prototype\sources\PatientHelper\obj\Release\PatientHelper.dll
+E:\Simphany\Healthcare_Prototype\sources\PatientHelper\obj\Release\PatientHelper.pdb
+E:\Simphany\Healthcare_Prototype\sources\PatientHelper\obj\Release\PatientHelper.XmlSerializers.dll
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\PatientHelper\bin\Release\PatientHelper.dll.config
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\PatientHelper\bin\Release\PatientHelper.dll
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\PatientHelper\bin\Release\PatientHelper.XmlSerializers.dll
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\PatientHelper\bin\Release\PatientHelper.pdb
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\PatientHelper\obj\Release\ResolveAssemblyReference.cache
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\PatientHelper\obj\Release\DocumentWindow.baml
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\PatientHelper\obj\Release\DocumentWindow.g.cs
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\PatientHelper\obj\Release\VideoAnnotationWindow.g.cs
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\PatientHelper\obj\Release\GeneratedInternalTypeHelper.g.cs
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\PatientHelper\obj\Release\PatientHelper_MarkupCompile.cache
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\PatientHelper\obj\Release\PatientHelper_MarkupCompile.lref
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\PatientHelper\obj\Release\VideoAnnotationWindow.baml
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\PatientHelper\obj\Release\PatientHelper.g.resources
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\PatientHelper\obj\Release\PatientHelper.dll
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\PatientHelper\obj\Release\PatientHelper.pdb
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\PatientHelper\obj\Release\PatientHelper.XmlSerializers.dll
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\PatientHelper\bin\Release\PatientHelper.dll.config
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\PatientHelper\bin\Release\PatientHelper.dll
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\PatientHelper\bin\Release\PatientHelper.XmlSerializers.dll
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\PatientHelper\bin\Release\PatientHelper.pdb
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\PatientHelper\obj\Release\ResolveAssemblyReference.cache
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\PatientHelper\obj\Release\DocumentWindow.baml
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\PatientHelper\obj\Release\DocumentWindow.g.cs
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\PatientHelper\obj\Release\VideoAnnotationWindow.g.cs
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\PatientHelper\obj\Release\GeneratedInternalTypeHelper.g.cs
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\PatientHelper\obj\Release\PatientHelper_MarkupCompile.cache
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\PatientHelper\obj\Release\PatientHelper_MarkupCompile.lref
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\PatientHelper\obj\Release\VideoAnnotationWindow.baml
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\PatientHelper\obj\Release\PatientHelper.g.resources
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\PatientHelper\obj\Release\PatientHelper.dll
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\PatientHelper\obj\Release\PatientHelper.pdb
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\PatientHelper\obj\Release\PatientHelper.XmlSerializers.dll
+D:\Ravi\DotNet_35\Simphany\Healthcare_Prototype\sources\PatientHelper\bin\Release\PatientHelper.dll.config
+D:\Ravi\DotNet_35\Simphany\Healthcare_Prototype\sources\PatientHelper\bin\Release\PatientHelper.dll
+D:\Ravi\DotNet_35\Simphany\Healthcare_Prototype\sources\PatientHelper\bin\Release\PatientHelper.XmlSerializers.dll
+D:\Ravi\DotNet_35\Simphany\Healthcare_Prototype\sources\PatientHelper\bin\Release\PatientHelper.pdb
+D:\Ravi\DotNet_35\Simphany\Healthcare_Prototype\sources\PatientHelper\obj\Release\ResolveAssemblyReference.cache
+D:\Ravi\DotNet_35\Simphany\Healthcare_Prototype\sources\PatientHelper\obj\Release\DocumentWindow.baml
+D:\Ravi\DotNet_35\Simphany\Healthcare_Prototype\sources\PatientHelper\obj\Release\DocumentWindow.g.cs
+D:\Ravi\DotNet_35\Simphany\Healthcare_Prototype\sources\PatientHelper\obj\Release\VideoAnnotationWindow.g.cs
+D:\Ravi\DotNet_35\Simphany\Healthcare_Prototype\sources\PatientHelper\obj\Release\GeneratedInternalTypeHelper.g.cs
+D:\Ravi\DotNet_35\Simphany\Healthcare_Prototype\sources\PatientHelper\obj\Release\PatientHelper_MarkupCompile.cache
+D:\Ravi\DotNet_35\Simphany\Healthcare_Prototype\sources\PatientHelper\obj\Release\PatientHelper_MarkupCompile.lref
+D:\Ravi\DotNet_35\Simphany\Healthcare_Prototype\sources\PatientHelper\obj\Release\VideoAnnotationWindow.baml
+D:\Ravi\DotNet_35\Simphany\Healthcare_Prototype\sources\PatientHelper\obj\Release\PatientHelper.g.resources
+D:\Ravi\DotNet_35\Simphany\Healthcare_Prototype\sources\PatientHelper\obj\Release\PatientHelper.dll
+D:\Ravi\DotNet_35\Simphany\Healthcare_Prototype\sources\PatientHelper\obj\Release\PatientHelper.pdb
+D:\Ravi\DotNet_35\Simphany\Healthcare_Prototype\sources\PatientHelper\obj\Release\PatientHelper.XmlSerializers.dll
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\PatientHelper\bin\Release\PatientHelper.dll.config
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\PatientHelper\bin\Release\PatientHelper.dll
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\PatientHelper\bin\Release\PatientHelper.XmlSerializers.dll
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\PatientHelper\bin\Release\PatientHelper.pdb
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\PatientHelper\obj\Release\ResolveAssemblyReference.cache
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\PatientHelper\obj\Release\DocumentWindow.baml
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\PatientHelper\obj\Release\DocumentWindow.g.cs
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\PatientHelper\obj\Release\VideoAnnotationWindow.g.cs
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\PatientHelper\obj\Release\GeneratedInternalTypeHelper.g.cs
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\PatientHelper\obj\Release\PatientHelper_MarkupCompile.cache
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\PatientHelper\obj\Release\PatientHelper_MarkupCompile.lref
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\PatientHelper\obj\Release\VideoAnnotationWindow.baml
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\PatientHelper\obj\Release\PatientHelper.g.resources
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\PatientHelper\obj\Release\PatientHelper.dll
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\PatientHelper\obj\Release\PatientHelper.pdb
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\PatientHelper\obj\Release\PatientHelper.XmlSerializers.dll

@@ -1,0 +1,126 @@
+.\bin\Release\Resources\Documents\NephrolDialTransplant.xaml
+.\bin\Release\Avalon Patient Monitoring.exe.config
+.\bin\Release\Resources\Images\Andrew-Cencini.png
+.\bin\Release\Resources\Images\Anne-Wallace.png
+.\bin\Release\Resources\Images\Axel-Delgado.png
+.\bin\Release\Resources\Images\Brian-Cox,-MD.png
+.\bin\Release\Resources\Images\Chris-Gallagher.png
+.\bin\Release\Resources\Images\David-Probst.png
+.\bin\Release\Resources\Images\Dennis-Dehenne.png
+.\bin\Release\Resources\Images\dudepic.PNG
+.\bin\Release\Resources\Images\Esko-Sario,-MD.png
+.\bin\Release\Resources\Images\Eva-Valverde,-MD.png
+.\bin\Release\Resources\Images\Fred-Viidul.png
+.\bin\Release\Resources\Images\GracyOMalley.png
+.\bin\Release\Resources\Images\Grigory-Pogulsky.png
+.\bin\Release\Resources\Images\Jeff-Price.png
+.\bin\Release\Resources\Images\Jesper-Aaberg.png
+.\bin\Release\Resources\Images\Katie-Jordan,-MD.png
+.\bin\Release\Resources\Images\Kim-Abercrombie.png
+.\bin\Release\Resources\Images\Lene-Aaling.png
+.\bin\Release\Resources\Images\Molly-Dempsey.png
+.\bin\Release\Resources\Images\Nancy-Freehafer.png
+.\bin\Release\Resources\Images\Raffaella-Bonaldi.png
+.\bin\Release\Resources\Images\Shirleen-Travers,-MD.png
+.\bin\Release\Resources\Media\HeartUltrasound.wmv
+.\bin\Release\Resources\Media\Intro.wmv
+.\bin\Release\XML\TestData.xml
+.\bin\Release\XML\WLTestData.xml
+.\bin\Release\Images\Andrew-Cencini.png
+.\bin\Release\Images\Anne-Wallace.png
+.\bin\Release\Images\Axel-Delgado.png
+.\bin\Release\Images\BariumSwallowFig2.png
+.\bin\Release\Images\BariumSwallowFig3.png
+.\bin\Release\Images\Brian-Cox,-MD.png
+.\bin\Release\Images\Chris-Gallagher.png
+.\bin\Release\Images\contoso.png
+.\bin\Release\Images\David-Probst.png
+.\bin\Release\Images\Dennis-Dehenne.png
+.\bin\Release\Images\docviewerButtons.png
+.\bin\Release\Images\dudepic.PNG
+.\bin\Release\Images\Esko-Sario,-MD.png
+.\bin\Release\Images\Eva-Valverde,-MD.png
+.\bin\Release\Images\Fred-Viidul.png
+.\bin\Release\Images\GracyOMalley.png
+.\bin\Release\Images\Graph.png
+.\bin\Release\Images\Graph_Button.png
+.\bin\Release\Images\Graph_DateTime.png
+.\bin\Release\Images\gridchart.png
+.\bin\Release\Images\Grigory-Pogulsky.png
+.\bin\Release\Images\icon.png
+.\bin\Release\Images\icon2.ico
+.\bin\Release\Images\Jeff-Price.png
+.\bin\Release\Images\Jesper-Aaberg.png
+.\bin\Release\Images\Katie-Jordan,-MD.png
+.\bin\Release\Images\Kim-Abercrombie.png
+.\bin\Release\Images\Lene-Aaling.png
+.\bin\Release\Images\Media_PatientProtal.png
+.\bin\Release\Images\Media_UltrasoundPortal.png
+.\bin\Release\Images\mediaShadow.png
+.\bin\Release\Images\Molly-Dempsey.png
+.\bin\Release\Images\Nancy-Freehafer.png
+.\bin\Release\Images\pageDown.png
+.\bin\Release\Images\pageUp.png
+.\bin\Release\Images\PatientDetail_PanelButton.png
+.\bin\Release\Images\PatientDetailBar_Bar.png
+.\bin\Release\Images\PatientDetailBar_Button.png
+.\bin\Release\Images\patientdetails.png
+.\bin\Release\Images\people pics.psd
+.\bin\Release\Images\Raffaella-Bonaldi.png
+.\bin\Release\Images\Shirleen-Travers,-MD.png
+.\bin\Release\Images\squareShadow.png
+.\bin\Release\Images\SStatus_Graph.png
+.\bin\Release\Images\SStatus_TabControl.png
+.\bin\Release\Images\Steve-Schmidt.png
+.\bin\Release\Images\TaskList_EnterAnOrderButton.png
+.\bin\Release\Images\Thumbs.db
+.\bin\Release\Images\xray1.png
+.\bin\Release\Images\xray2.png
+.\bin\Release\Images\zoomMinus.png
+.\bin\Release\Images\zoomPlus.png
+.\bin\Release\WaveformData.xml
+.\bin\Release\Avalon Patient Monitoring.exe
+.\bin\Release\Avalon Patient Monitoring.pdb
+.\bin\Release\Chart.dll
+.\bin\Release\ChartData.dll
+.\bin\Release\ChartRotator.dll
+.\bin\Release\ChartVisuals.dll
+.\bin\Release\Flipper3DTransition.dll
+.\bin\Release\PatientHelper.dll
+.\bin\Release\Rotater3DTransition.dll
+.\bin\Release\Flipper3DTransition.pdb
+.\bin\Release\ChartData.pdb
+.\bin\Release\Rotater3DTransition.pdb
+.\bin\Release\ChartVisuals.pdb
+.\bin\Release\Chart.pdb
+.\bin\Release\ChartRotator.pdb
+.\bin\Release\PatientHelper.pdb
+.\bin\Release\PatientHelper.XmlSerializers.dll
+obj\Release\ResolveAssemblyReference.cache
+C:\demos\rc1\Allscripts Healthcare v2\Allscripts Healthcare v2\PatientMonitoring\sources\Avalon Patient Monitoring\obj\Release\IdentityMineAboutDialogWindow.baml
+C:\demos\rc1\Allscripts Healthcare v2\Allscripts Healthcare v2\PatientMonitoring\sources\Avalon Patient Monitoring\obj\Release\Resources\BrandingVisualsResourceDictionary.baml
+C:\demos\rc1\Allscripts Healthcare v2\Allscripts Healthcare v2\PatientMonitoring\sources\Avalon Patient Monitoring\obj\Release\Resources\ButtonStyle.baml
+C:\demos\rc1\Allscripts Healthcare v2\Allscripts Healthcare v2\PatientMonitoring\sources\Avalon Patient Monitoring\obj\Release\Resources\ChartsResourceDictionary.baml
+C:\demos\rc1\Allscripts Healthcare v2\Allscripts Healthcare v2\PatientMonitoring\sources\Avalon Patient Monitoring\obj\Release\Resources\LogoResourceDictionary.baml
+C:\demos\rc1\Allscripts Healthcare v2\Allscripts Healthcare v2\PatientMonitoring\sources\Avalon Patient Monitoring\obj\Release\Resources\PatientDetailExpanderDictionary.baml
+C:\demos\rc1\Allscripts Healthcare v2\Allscripts Healthcare v2\PatientMonitoring\sources\Avalon Patient Monitoring\obj\Release\Resources\ScrollBarStyle.baml
+C:\demos\rc1\Allscripts Healthcare v2\Allscripts Healthcare v2\PatientMonitoring\sources\Avalon Patient Monitoring\obj\Release\Resources\Shared.baml
+C:\demos\rc1\Allscripts Healthcare v2\Allscripts Healthcare v2\PatientMonitoring\sources\Avalon Patient Monitoring\obj\Release\Resources\SliderStyle.baml
+C:\demos\rc1\Allscripts Healthcare v2\Allscripts Healthcare v2\PatientMonitoring\sources\Avalon Patient Monitoring\obj\Release\Resources\StoryboardAnimationResourceDictionary.baml
+C:\demos\rc1\Allscripts Healthcare v2\Allscripts Healthcare v2\PatientMonitoring\sources\Avalon Patient Monitoring\obj\Release\AppWindow.baml
+C:\demos\rc1\Allscripts Healthcare v2\Allscripts Healthcare v2\PatientMonitoring\sources\Avalon Patient Monitoring\obj\Release\IdentityMineAboutDialogWindow.g.cs
+C:\demos\rc1\Allscripts Healthcare v2\Allscripts Healthcare v2\PatientMonitoring\sources\Avalon Patient Monitoring\obj\Release\Resources\ButtonStyle.g.cs
+C:\demos\rc1\Allscripts Healthcare v2\Allscripts Healthcare v2\PatientMonitoring\sources\Avalon Patient Monitoring\obj\Release\Resources\ScrollBarStyle.g.cs
+C:\demos\rc1\Allscripts Healthcare v2\Allscripts Healthcare v2\PatientMonitoring\sources\Avalon Patient Monitoring\obj\Release\AppWindow.g.cs
+C:\demos\rc1\Allscripts Healthcare v2\Allscripts Healthcare v2\PatientMonitoring\sources\Avalon Patient Monitoring\obj\Release\MyApp.g.cs
+C:\demos\rc1\Allscripts Healthcare v2\Allscripts Healthcare v2\PatientMonitoring\sources\Avalon Patient Monitoring\obj\Release\Avalon Patient Monitoring_Content.g.cs
+C:\demos\rc1\Allscripts Healthcare v2\Allscripts Healthcare v2\PatientMonitoring\sources\Avalon Patient Monitoring\obj\Release\Avalon Patient Monitoring_MarkupCompile.cache
+C:\demos\rc1\Allscripts Healthcare v2\Allscripts Healthcare v2\PatientMonitoring\sources\Avalon Patient Monitoring\obj\Release\Avalon Patient Monitoring_MarkupCompile.lref
+C:\demos\rc1\Allscripts Healthcare v2\Allscripts Healthcare v2\PatientMonitoring\sources\Avalon Patient Monitoring\obj\Release\MyApp.baml
+C:\demos\rc1\Allscripts Healthcare v2\Allscripts Healthcare v2\PatientMonitoring\sources\Avalon Patient Monitoring\obj\Release\Resources\ControlStylesandTemplatesResourceDictionary.baml
+C:\demos\rc1\Allscripts Healthcare v2\Allscripts Healthcare v2\PatientMonitoring\sources\Avalon Patient Monitoring\obj\Release\Resources\PatientRosterListResourceDictionary.baml
+obj\Release\Avalon Patient Monitoring.g.resources
+obj\Release\Avalon_Patient_Monitoring.Properties.Resources.resources
+obj\Release\Avalon Patient Monitoring.csproj.GenerateResource.Cache
+obj\Release\Avalon Patient Monitoring.exe
+obj\Release\Avalon Patient Monitoring.pdb

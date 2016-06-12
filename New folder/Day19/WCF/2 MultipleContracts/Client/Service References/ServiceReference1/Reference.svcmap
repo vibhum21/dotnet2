@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="870cd725-ce27-4966-9507-048d7bd5b2ad" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:8000/EssentialWCF/" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="item.xsd" MetadataType="Schema" ID="a00243c4-6823-4d95-aa3b-13fe3f59a273" SourceId="1" SourceUrl="http://localhost:8000/EssentialWCF/?xsd=xsd0" />
+    <MetadataFile FileName="AllStockServices.wsdl" MetadataType="Wsdl" ID="fc9572be-6340-4f23-9f20-57fc1e476b3c" SourceId="1" SourceUrl="http://localhost:8000/EssentialWCF/?wsdl" />
+    <MetadataFile FileName="item1.xsd" MetadataType="Schema" ID="57c37d3f-6f33-493f-a5a8-b33c5d3ed1a5" SourceId="1" SourceUrl="http://localhost:8000/EssentialWCF/?xsd=xsd1" />
+    <MetadataFile FileName="item.disco" MetadataType="Disco" ID="6a1a605a-7fe2-4801-8ed6-a90d01d1a146" SourceId="1" SourceUrl="http://localhost:8000/EssentialWCF/?disco" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

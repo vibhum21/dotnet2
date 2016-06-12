@@ -1,0 +1,12 @@
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Chart\bin\Release\Chart.dll
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Chart\bin\Release\Chart.pdb
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Chart\obj\Release\ResolveAssemblyReference.cache
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Chart\obj\Release\GeneratedInternalTypeHelper.g.cs
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Chart\obj\Release\Chart_MarkupCompile.cache
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Chart\obj\Release\Chart_MarkupCompile.lref
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Chart\obj\Release\IdentityMine.Avalon.Controls.Properties.Resources.resources
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Chart\obj\Release\Chart.csproj.GenerateResource.Cache
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Chart\obj\Release\Chart.dll
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Chart\obj\Release\Chart.pdb
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Chart\obj\Release\themes\generic.baml
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Chart\obj\Release\Chart.g.resources

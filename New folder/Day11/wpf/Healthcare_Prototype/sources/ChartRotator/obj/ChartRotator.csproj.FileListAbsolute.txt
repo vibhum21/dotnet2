@@ -1,0 +1,13 @@
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\ChartRotator\bin\Release\ChartRotator.dll
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\ChartRotator\bin\Release\ChartRotator.pdb
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\ChartRotator\obj\Release\ResolveAssemblyReference.cache
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\ChartRotator\obj\Release\ChartRotator.baml
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\ChartRotator\obj\Release\ChartRotator.g.cs
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\ChartRotator\obj\Release\GeneratedInternalTypeHelper.g.cs
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\ChartRotator\obj\Release\ChartRotator_MarkupCompile.cache
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\ChartRotator\obj\Release\ChartRotator_MarkupCompile.lref
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\ChartRotator\obj\Release\ChartRotator.g.resources
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\ChartRotator\obj\Release\IdentityMine.Avalon.Controls.Properties.Resources.resources
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\ChartRotator\obj\Release\ChartRotator.csproj.GenerateResource.Cache
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\ChartRotator\obj\Release\ChartRotator.dll
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\ChartRotator\obj\Release\ChartRotator.pdb

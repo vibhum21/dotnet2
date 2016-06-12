@@ -1,0 +1,55 @@
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Rotater3DTransition\bin\Release\Rotater3DTransition.dll
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Rotater3DTransition\obj\Release\ResolveAssemblyReference.cache
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Rotater3DTransition\obj\Release\Rotater3DTransition.baml
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Rotater3DTransition\obj\Release\Rotater3DTransition.g.cs
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Rotater3DTransition\obj\Release\Rotater3DTransition_MarkupCompile.cache
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Rotater3DTransition\obj\Release\Rotater3DTransition.g.resources
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Rotater3DTransition\obj\Release\Rotater3DTransition.Properties.Resources.resources
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Rotater3DTransition\obj\Release\Rotater3DTransition.csproj.GenerateResource.Cache
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Rotater3DTransition\obj\Release\Rotater3DTransition.dll
+E:\Simphany\Healthcare_Prototype\sources\Rotater3DTransition\bin\Release\Rotater3DTransition.dll
+E:\Simphany\Healthcare_Prototype\sources\Rotater3DTransition\obj\Release\ResolveAssemblyReference.cache
+E:\Simphany\Healthcare_Prototype\sources\Rotater3DTransition\obj\Release\Rotater3DTransition.baml
+E:\Simphany\Healthcare_Prototype\sources\Rotater3DTransition\obj\Release\Rotater3DTransition.g.cs
+E:\Simphany\Healthcare_Prototype\sources\Rotater3DTransition\obj\Release\Rotater3DTransition_MarkupCompile.cache
+E:\Simphany\Healthcare_Prototype\sources\Rotater3DTransition\obj\Release\Rotater3DTransition.g.resources
+E:\Simphany\Healthcare_Prototype\sources\Rotater3DTransition\obj\Release\Rotater3DTransition.Properties.Resources.resources
+E:\Simphany\Healthcare_Prototype\sources\Rotater3DTransition\obj\Release\Rotater3DTransition.csproj.GenerateResource.Cache
+E:\Simphany\Healthcare_Prototype\sources\Rotater3DTransition\obj\Release\Rotater3DTransition.dll
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\Rotater3DTransition\bin\Release\Rotater3DTransition.dll
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\Rotater3DTransition\obj\Release\ResolveAssemblyReference.cache
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\Rotater3DTransition\obj\Release\Rotater3DTransition.baml
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\Rotater3DTransition\obj\Release\Rotater3DTransition.g.cs
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\Rotater3DTransition\obj\Release\Rotater3DTransition_MarkupCompile.cache
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\Rotater3DTransition\obj\Release\Rotater3DTransition.g.resources
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\Rotater3DTransition\obj\Release\Rotater3DTransition.Properties.Resources.resources
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\Rotater3DTransition\obj\Release\Rotater3DTransition.csproj.GenerateResource.Cache
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\Rotater3DTransition\obj\Release\Rotater3DTransition.dll
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\Rotater3DTransition\bin\Release\Rotater3DTransition.dll
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\Rotater3DTransition\obj\Release\ResolveAssemblyReference.cache
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\Rotater3DTransition\obj\Release\Rotater3DTransition.baml
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\Rotater3DTransition\obj\Release\Rotater3DTransition.g.cs
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\Rotater3DTransition\obj\Release\Rotater3DTransition_MarkupCompile.cache
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\Rotater3DTransition\obj\Release\Rotater3DTransition.g.resources
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\Rotater3DTransition\obj\Release\Rotater3DTransition.Properties.Resources.resources
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\Rotater3DTransition\obj\Release\Rotater3DTransition.csproj.GenerateResource.Cache
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\Rotater3DTransition\obj\Release\Rotater3DTransition.dll
+D:\Ravi\DotNet_35\Simphany\Healthcare_Prototype\sources\Rotater3DTransition\bin\Release\Rotater3DTransition.dll
+D:\Ravi\DotNet_35\Simphany\Healthcare_Prototype\sources\Rotater3DTransition\obj\Release\ResolveAssemblyReference.cache
+D:\Ravi\DotNet_35\Simphany\Healthcare_Prototype\sources\Rotater3DTransition\obj\Release\Rotater3DTransition.baml
+D:\Ravi\DotNet_35\Simphany\Healthcare_Prototype\sources\Rotater3DTransition\obj\Release\Rotater3DTransition.g.cs
+D:\Ravi\DotNet_35\Simphany\Healthcare_Prototype\sources\Rotater3DTransition\obj\Release\Rotater3DTransition_MarkupCompile.cache
+D:\Ravi\DotNet_35\Simphany\Healthcare_Prototype\sources\Rotater3DTransition\obj\Release\Rotater3DTransition.g.resources
+D:\Ravi\DotNet_35\Simphany\Healthcare_Prototype\sources\Rotater3DTransition\obj\Release\Rotater3DTransition.Properties.Resources.resources
+D:\Ravi\DotNet_35\Simphany\Healthcare_Prototype\sources\Rotater3DTransition\obj\Release\Rotater3DTransition.csproj.GenerateResource.Cache
+D:\Ravi\DotNet_35\Simphany\Healthcare_Prototype\sources\Rotater3DTransition\obj\Release\Rotater3DTransition.dll
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\Rotater3DTransition\bin\Release\Rotater3DTransition.dll
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\Rotater3DTransition\obj\Release\ResolveAssemblyReference.cache
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\Rotater3DTransition\obj\Release\Rotater3DTransition.baml
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\Rotater3DTransition\obj\Release\Rotater3DTransition.g.cs
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\Rotater3DTransition\obj\Release\Rotater3DTransition_MarkupCompile.cache
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\Rotater3DTransition\obj\Release\Rotater3DTransition.g.resources
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\Rotater3DTransition\obj\Release\Rotater3DTransition.Properties.Resources.resources
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\Rotater3DTransition\obj\Release\ResGen.read.1.tlog
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\Rotater3DTransition\obj\Release\ResGen.write.1.tlog
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\Rotater3DTransition\obj\Release\Rotater3DTransition.dll

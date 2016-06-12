@@ -1,0 +1,11 @@
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Flipper3DTransition\bin\Release\Flipper3DTransition.dll
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Flipper3DTransition\bin\Release\Flipper3DTransition.pdb
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Flipper3DTransition\obj\Release\ResolveAssemblyReference.cache
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Flipper3DTransition\obj\Release\Flipper3DTransition.baml
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Flipper3DTransition\obj\Release\Flipper3DTransition.g.cs
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Flipper3DTransition\obj\Release\Flipper3DTransition_MarkupCompile.cache
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Flipper3DTransition\obj\Release\Flipper3DTransition.g.resources
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Flipper3DTransition\obj\Release\Flipper3DTransition.Properties.Resources.resources
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Flipper3DTransition\obj\Release\Flipper3DTransition.csproj.GenerateResource.Cache
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Flipper3DTransition\obj\Release\Flipper3DTransition.dll
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Flipper3DTransition\obj\Release\Flipper3DTransition.pdb

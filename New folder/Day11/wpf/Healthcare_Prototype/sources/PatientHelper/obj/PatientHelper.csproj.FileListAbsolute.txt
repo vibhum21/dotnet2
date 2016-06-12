@@ -1,0 +1,15 @@
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\PatientHelper\bin\Release\PatientHelper.dll.config
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\PatientHelper\bin\Release\PatientHelper.dll
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\PatientHelper\bin\Release\PatientHelper.XmlSerializers.dll
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\PatientHelper\bin\Release\PatientHelper.pdb
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\PatientHelper\obj\Release\ResolveAssemblyReference.cache
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\PatientHelper\obj\Release\DocumentWindow.baml
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\PatientHelper\obj\Release\DocumentWindow.g.cs
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\PatientHelper\obj\Release\VideoAnnotationWindow.g.cs
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\PatientHelper\obj\Release\GeneratedInternalTypeHelper.g.cs
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\PatientHelper\obj\Release\PatientHelper_MarkupCompile.cache
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\PatientHelper\obj\Release\PatientHelper_MarkupCompile.lref
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\PatientHelper\obj\Release\PatientHelper.g.resources
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\PatientHelper\obj\Release\PatientHelper.dll
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\PatientHelper\obj\Release\PatientHelper.pdb
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\PatientHelper\obj\Release\PatientHelper.XmlSerializers.dll

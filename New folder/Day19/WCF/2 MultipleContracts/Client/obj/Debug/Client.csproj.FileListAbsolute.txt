@@ -1,0 +1,21 @@
+C:\Ravi\WCF\Workshop\WCF_Workshop\Solutions\Day 1\3 Contracts\1Service\2 MultipleContracts\Client\bin\Debug\Client.exe.config
+C:\Ravi\WCF\Workshop\WCF_Workshop\Solutions\Day 1\3 Contracts\1Service\2 MultipleContracts\Client\bin\Debug\Client.exe
+C:\Ravi\WCF\Workshop\WCF_Workshop\Solutions\Day 1\3 Contracts\1Service\2 MultipleContracts\Client\bin\Debug\Client.pdb
+C:\Ravi\WCF\Workshop\WCF_Workshop\Solutions\Day 1\3 Contracts\1Service\2 MultipleContracts\Client\obj\Debug\ResolveAssemblyReference.cache
+C:\Ravi\WCF\Workshop\WCF_Workshop\Solutions\Day 1\3 Contracts\1Service\2 MultipleContracts\Client\obj\Debug\Client.exe
+C:\Ravi\WCF\Workshop\WCF_Workshop\Solutions\Day 1\3 Contracts\1Service\2 MultipleContracts\Client\obj\Debug\Client.pdb
+C:\Ravi\WCF_Workshop\Solutions\Day 1\3 Contracts\1Service\2 MultipleContracts\Client\bin\Debug\Client.exe.config
+C:\Ravi\WCF_Workshop\Solutions\Day 1\3 Contracts\1Service\2 MultipleContracts\Client\obj\Debug\Client.exe
+C:\Ravi\WCF_Workshop\Solutions\Day 1\3 Contracts\1Service\2 MultipleContracts\Client\obj\Debug\Client.pdb
+C:\Ravi\WCF_Workshop\Solutions\Day 1\2 Contracts\1Service\2 MultipleContracts\Client\bin\Debug\Client.exe.config
+C:\Ravi\WCF_Workshop\Solutions\Day 1\2 Contracts\1Service\2 MultipleContracts\Client\obj\Debug\Client.exe
+C:\Ravi\WCF_Workshop\Solutions\Day 1\2 Contracts\1Service\2 MultipleContracts\Client\obj\Debug\Client.pdb
+E:\Day19\WCF\2 MultipleContracts\Client\bin\Debug\Client.exe.config
+E:\Day19\WCF\2 MultipleContracts\Client\obj\Debug\Client.exe
+E:\Day19\WCF\2 MultipleContracts\Client\obj\Debug\Client.pdb
+E:\Day19\WCF\2 MultipleContracts\Client\bin\Debug\Client.exe
+E:\Day19\WCF\2 MultipleContracts\Client\bin\Debug\Client.pdb
+E:\Day19\WCF\2 MultipleContracts\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\SunBeam\DotNet\Day19\WCF\2 MultipleContracts\Client\bin\Debug\Client.exe.config
+C:\Users\user\Documents\SunBeam\DotNet\Day19\WCF\2 MultipleContracts\Client\obj\Debug\Client.exe
+C:\Users\user\Documents\SunBeam\DotNet\Day19\WCF\2 MultipleContracts\Client\obj\Debug\Client.pdb

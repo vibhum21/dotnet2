@@ -1,0 +1,33 @@
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\ChartVisuals\bin\Release\ChartVisuals.dll
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\ChartVisuals\bin\Release\ChartVisuals.pdb
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\ChartVisuals\bin\Release\PresentationCore.dll
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\ChartVisuals\bin\Release\System.Printing.dll
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\ChartVisuals\bin\Release\PresentationCore.xml
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\ChartVisuals\bin\Release\System.Printing.xml
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\ChartVisuals\obj\Release\ResolveAssemblyReference.cache
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\ChartVisuals\obj\Release\ChartVisuals.dll
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\ChartVisuals\obj\Release\ChartVisuals.pdb
+E:\Simphany\Healthcare_Prototype\sources\ChartVisuals\bin\Release\ChartVisuals.dll
+E:\Simphany\Healthcare_Prototype\sources\ChartVisuals\bin\Release\ChartVisuals.pdb
+E:\Simphany\Healthcare_Prototype\sources\ChartVisuals\bin\Release\PresentationCore.dll
+E:\Simphany\Healthcare_Prototype\sources\ChartVisuals\bin\Release\System.Printing.dll
+E:\Simphany\Healthcare_Prototype\sources\ChartVisuals\obj\Release\ResolveAssemblyReference.cache
+E:\Simphany\Healthcare_Prototype\sources\ChartVisuals\obj\Release\ChartVisuals.dll
+E:\Simphany\Healthcare_Prototype\sources\ChartVisuals\obj\Release\ChartVisuals.pdb
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\ChartVisuals\bin\Release\ChartVisuals.dll
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\ChartVisuals\bin\Release\ChartVisuals.pdb
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\ChartVisuals\bin\Release\PresentationCore.dll
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\ChartVisuals\bin\Release\System.Printing.dll
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\ChartVisuals\obj\Release\ResolveAssemblyReference.cache
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\ChartVisuals\obj\Release\ChartVisuals.dll
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\ChartVisuals\obj\Release\ChartVisuals.pdb
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\ChartVisuals\bin\Release\ChartVisuals.dll
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\ChartVisuals\bin\Release\ChartVisuals.pdb
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\ChartVisuals\bin\Release\PresentationCore.dll
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\ChartVisuals\bin\Release\System.Printing.dll
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\ChartVisuals\obj\Release\ResolveAssemblyReference.cache
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\ChartVisuals\obj\Release\ChartVisuals.dll
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\ChartVisuals\obj\Release\ChartVisuals.pdb
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\ChartVisuals\obj\Release\ResolveAssemblyReference.cache
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\ChartVisuals\obj\Release\ChartVisuals.dll
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\ChartVisuals\obj\Release\ChartVisuals.pdb

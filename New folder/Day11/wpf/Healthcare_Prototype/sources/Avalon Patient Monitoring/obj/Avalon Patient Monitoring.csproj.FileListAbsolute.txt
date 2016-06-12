@@ -1,0 +1,126 @@
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\Avalon Patient Monitoring.exe
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\Avalon Patient Monitoring.pdb
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Documents\NephrolDialTransplant.xaml
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Avalon Patient Monitoring.exe.config
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Images\Andrew-Cencini.png
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Images\Anne-Wallace.png
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Images\Axel-Delgado.png
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Images\Brian-Cox,-MD.png
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Images\Chris-Gallagher.png
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Images\David-Probst.png
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Images\Dennis-Dehenne.png
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Images\dudepic.PNG
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Images\Esko-Sario,-MD.png
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Images\Eva-Valverde,-MD.png
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Images\Fred-Viidul.png
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Images\GracyOMalley.png
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Images\Grigory-Pogulsky.png
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Images\Jeff-Price.png
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Images\Jesper-Aaberg.png
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Images\Katie-Jordan,-MD.png
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Images\Kim-Abercrombie.png
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Images\Lene-Aaling.png
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Images\Molly-Dempsey.png
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Images\Nancy-Freehafer.png
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Images\Raffaella-Bonaldi.png
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Images\Shirleen-Travers,-MD.png
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Media\HeartUltrasound.wmv
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Media\Intro.wmv
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\XML\TestData.xml
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\XML\WLTestData.xml
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Andrew-Cencini.png
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Anne-Wallace.png
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Axel-Delgado.png
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\BariumSwallowFig2.png
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\BariumSwallowFig3.png
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Brian-Cox,-MD.png
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Chris-Gallagher.png
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\contoso.png
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\David-Probst.png
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Dennis-Dehenne.png
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\docviewerButtons.png
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\dudepic.PNG
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Esko-Sario,-MD.png
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Eva-Valverde,-MD.png
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Fred-Viidul.png
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\GracyOMalley.png
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Graph.png
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Graph_Button.png
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Graph_DateTime.png
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\gridchart.png
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Grigory-Pogulsky.png
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\icon.png
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\icon2.ico
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Jeff-Price.png
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Jesper-Aaberg.png
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Katie-Jordan,-MD.png
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Kim-Abercrombie.png
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Lene-Aaling.png
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Media_PatientProtal.png
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Media_UltrasoundPortal.png
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\mediaShadow.png
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Molly-Dempsey.png
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Nancy-Freehafer.png
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\pageDown.png
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\pageUp.png
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\PatientDetail_PanelButton.png
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\PatientDetailBar_Bar.png
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\PatientDetailBar_Button.png
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\patientdetails.png
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\people pics.psd
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Raffaella-Bonaldi.png
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Shirleen-Travers,-MD.png
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\squareShadow.png
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\SStatus_Graph.png
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\SStatus_TabControl.png
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Steve-Schmidt.png
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\TaskList_EnterAnOrderButton.png
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Thumbs.db
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\xray1.png
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\xray2.png
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\zoomMinus.png
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\zoomPlus.png
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\WaveformData.xml
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Avalon Patient Monitoring.exe
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Avalon Patient Monitoring.pdb
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Chart.dll
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\ChartData.dll
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\ChartRotator.dll
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\ChartVisuals.dll
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Flipper3DTransition.dll
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\PatientHelper.dll
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Rotater3DTransition.dll
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Flipper3DTransition.pdb
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\ChartData.pdb
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Rotater3DTransition.pdb
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\ChartVisuals.pdb
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Chart.pdb
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\ChartRotator.pdb
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\PatientHelper.pdb
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\PatientHelper.XmlSerializers.dll
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\ResolveAssemblyReference.cache
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\IdentityMineAboutDialogWindow.baml
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\Resources\BrandingVisualsResourceDictionary.baml
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\Resources\ButtonStyle.baml
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\Resources\ChartsResourceDictionary.baml
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\Resources\LogoResourceDictionary.baml
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\Resources\PatientDetailExpanderDictionary.baml
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\Resources\ScrollBarStyle.baml
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\Resources\Shared.baml
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\Resources\SliderStyle.baml
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\Resources\StoryboardAnimationResourceDictionary.baml
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\AppWindow.baml
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\IdentityMineAboutDialogWindow.g.cs
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\Resources\ButtonStyle.g.cs
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\Resources\ScrollBarStyle.g.cs
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\AppWindow.g.cs
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\MyApp.g.cs
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\Avalon Patient Monitoring_Content.g.cs
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\Avalon Patient Monitoring_MarkupCompile.cache
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\Avalon Patient Monitoring_MarkupCompile.lref
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\MyApp.baml
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\Resources\ControlStylesandTemplatesResourceDictionary.baml
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\Resources\PatientRosterListResourceDictionary.baml
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\Avalon Patient Monitoring.g.resources
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\Avalon_Patient_Monitoring.Properties.Resources.resources
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\Avalon Patient Monitoring.csproj.GenerateResource.Cache

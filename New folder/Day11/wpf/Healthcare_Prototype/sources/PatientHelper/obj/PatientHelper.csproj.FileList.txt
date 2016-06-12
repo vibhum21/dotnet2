@@ -1,0 +1,37 @@
+bin\Debug\PatientHelper.dll.config
+bin\Debug\PatientHelper.dll
+bin\Debug\PatientHelper.pdb
+obj\Debug\ResolveAssemblyReference.cache
+C:\Users\karstenj\Desktop\Avalon Patient Monitoring\Avalon Patient Monitoring\PatientHelper\obj\Debug\DocumentWindow.baml
+C:\Users\karstenj\Desktop\Avalon Patient Monitoring\Avalon Patient Monitoring\PatientHelper\obj\Debug\DocumentWindow.g.cs
+C:\Users\karstenj\Desktop\Avalon Patient Monitoring\Avalon Patient Monitoring\PatientHelper\obj\Debug\VideoAnnotationWindow.g.cs
+C:\Users\karstenj\Desktop\Avalon Patient Monitoring\Avalon Patient Monitoring\PatientHelper\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\karstenj\Desktop\Avalon Patient Monitoring\Avalon Patient Monitoring\PatientHelper\obj\Debug\PatientHelper_MarkupCompile.cache
+C:\Users\karstenj\Desktop\Avalon Patient Monitoring\Avalon Patient Monitoring\PatientHelper\obj\Debug\PatientHelper_MarkupCompile.lref
+C:\Users\karstenj\Desktop\Avalon Patient Monitoring\Avalon Patient Monitoring\PatientHelper\obj\Debug\VideoAnnotationWindow.baml
+obj\Debug\PatientHelper.g.resources
+obj\Debug\PatientHelper.dll
+obj\Debug\PatientHelper.pdb
+C:\demos\rc1\Allscripts Healthcare v2\Allscripts Healthcare v2\PatientMonitoring\sources\PatientHelper\obj\Debug\DocumentWindow.baml
+C:\demos\rc1\Allscripts Healthcare v2\Allscripts Healthcare v2\PatientMonitoring\sources\PatientHelper\obj\Debug\DocumentWindow.g.cs
+C:\demos\rc1\Allscripts Healthcare v2\Allscripts Healthcare v2\PatientMonitoring\sources\PatientHelper\obj\Debug\VideoAnnotationWindow.g.cs
+C:\demos\rc1\Allscripts Healthcare v2\Allscripts Healthcare v2\PatientMonitoring\sources\PatientHelper\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\demos\rc1\Allscripts Healthcare v2\Allscripts Healthcare v2\PatientMonitoring\sources\PatientHelper\obj\Debug\PatientHelper_MarkupCompile.cache
+C:\demos\rc1\Allscripts Healthcare v2\Allscripts Healthcare v2\PatientMonitoring\sources\PatientHelper\obj\Debug\PatientHelper_MarkupCompile.lref
+C:\demos\rc1\Allscripts Healthcare v2\Allscripts Healthcare v2\PatientMonitoring\sources\PatientHelper\obj\Debug\VideoAnnotationWindow.baml
+bin\Release\PatientHelper.dll.config
+bin\Release\PatientHelper.dll
+bin\Release\PatientHelper.XmlSerializers.dll
+bin\Release\PatientHelper.pdb
+obj\Release\ResolveAssemblyReference.cache
+C:\demos\rc1\Allscripts Healthcare v2\Allscripts Healthcare v2\PatientMonitoring\sources\PatientHelper\obj\Release\DocumentWindow.baml
+C:\demos\rc1\Allscripts Healthcare v2\Allscripts Healthcare v2\PatientMonitoring\sources\PatientHelper\obj\Release\DocumentWindow.g.cs
+C:\demos\rc1\Allscripts Healthcare v2\Allscripts Healthcare v2\PatientMonitoring\sources\PatientHelper\obj\Release\VideoAnnotationWindow.g.cs
+C:\demos\rc1\Allscripts Healthcare v2\Allscripts Healthcare v2\PatientMonitoring\sources\PatientHelper\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\demos\rc1\Allscripts Healthcare v2\Allscripts Healthcare v2\PatientMonitoring\sources\PatientHelper\obj\Release\PatientHelper_MarkupCompile.cache
+C:\demos\rc1\Allscripts Healthcare v2\Allscripts Healthcare v2\PatientMonitoring\sources\PatientHelper\obj\Release\PatientHelper_MarkupCompile.lref
+C:\demos\rc1\Allscripts Healthcare v2\Allscripts Healthcare v2\PatientMonitoring\sources\PatientHelper\obj\Release\VideoAnnotationWindow.baml
+obj\Release\PatientHelper.g.resources
+obj\Release\PatientHelper.dll
+obj\Release\PatientHelper.pdb
+obj\Release\PatientHelper.XmlSerializers.dll

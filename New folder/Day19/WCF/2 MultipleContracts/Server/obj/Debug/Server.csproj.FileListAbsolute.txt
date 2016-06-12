@@ -1,0 +1,28 @@
+D:\Ravi\WCF\SPIC\Solved Solutions\Day 2\3 Contracts\Service\MultipleContracts\Server\bin\Server.exe.config
+D:\Ravi\WCF\SPIC\Solved Solutions\Day 2\3 Contracts\1Service\2 MultipleContracts\Server\bin\Server.exe.config
+D:\Ravi\WCF\SPIC\Solved Solutions\Day 3\3 Contracts\1Service\2 MultipleContracts\Server\bin\Server.exe.config
+C:\Users\Administrator.RAVI-LAPTOP.000\Desktop\WCF\Solutions\Day 1\3 Contracts\1Service\2 MultipleContracts\Server\bin\Server.exe.config
+C:\Ravi\WCF\Workshop\WCF_Workshop\Solutions\Day 1\3 Contracts\1Service\2 MultipleContracts\Server\bin\Server.exe.config
+C:\Ravi\WCF\Workshop\WCF_Workshop\Solutions\Day 1\3 Contracts\1Service\2 MultipleContracts\Server\bin\Server.exe
+C:\Ravi\WCF\Workshop\WCF_Workshop\Solutions\Day 1\3 Contracts\1Service\2 MultipleContracts\Server\bin\Server.pdb
+C:\Ravi\WCF\Workshop\WCF_Workshop\Solutions\Day 1\3 Contracts\1Service\2 MultipleContracts\Server\obj\Debug\ResolveAssemblyReference.cache
+C:\Ravi\WCF\Workshop\WCF_Workshop\Solutions\Day 1\3 Contracts\1Service\2 MultipleContracts\Server\obj\Debug\Server.exe
+C:\Ravi\WCF\Workshop\WCF_Workshop\Solutions\Day 1\3 Contracts\1Service\2 MultipleContracts\Server\obj\Debug\Server.pdb
+C:\Ravi\WCF_Workshop\Solutions\Day 1\3 Contracts\1Service\2 MultipleContracts\Server\bin\Server.exe.config
+C:\Ravi\WCF_Workshop\Solutions\Day 1\3 Contracts\1Service\2 MultipleContracts\Server\obj\Debug\Server.exe
+C:\Ravi\WCF_Workshop\Solutions\Day 1\3 Contracts\1Service\2 MultipleContracts\Server\obj\Debug\Server.pdb
+C:\Ravi\WCF_Workshop\Solutions\Day 1\3 Contracts\1Service\2 MultipleContracts\Server\bin\Server.exe
+C:\Ravi\WCF_Workshop\Solutions\Day 1\3 Contracts\1Service\2 MultipleContracts\Server\bin\Server.pdb
+C:\Ravi\WCF_Workshop\Solutions\Day 1\3 Contracts\1Service\2 MultipleContracts\Server\obj\Debug\ResolveAssemblyReference.cache
+C:\Ravi\WCF_Workshop\Solutions\Day 1\2 Contracts\1Service\2 MultipleContracts\Server\bin\Server.exe.config
+C:\Ravi\WCF_Workshop\Solutions\Day 1\2 Contracts\1Service\2 MultipleContracts\Server\obj\Debug\Server.exe
+C:\Ravi\WCF_Workshop\Solutions\Day 1\2 Contracts\1Service\2 MultipleContracts\Server\obj\Debug\Server.pdb
+E:\Day19\WCF\2 MultipleContracts\Server\bin\Server.exe.config
+E:\Day19\WCF\2 MultipleContracts\Server\obj\Debug\Server.exe
+E:\Day19\WCF\2 MultipleContracts\Server\obj\Debug\Server.pdb
+E:\Day19\WCF\2 MultipleContracts\Server\bin\Server.exe
+E:\Day19\WCF\2 MultipleContracts\Server\bin\Server.pdb
+E:\Day19\WCF\2 MultipleContracts\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\SunBeam\DotNet\Day19\WCF\2 MultipleContracts\Server\bin\Server.exe.config
+C:\Users\user\Documents\SunBeam\DotNet\Day19\WCF\2 MultipleContracts\Server\obj\Debug\Server.exe
+C:\Users\user\Documents\SunBeam\DotNet\Day19\WCF\2 MultipleContracts\Server\obj\Debug\Server.pdb

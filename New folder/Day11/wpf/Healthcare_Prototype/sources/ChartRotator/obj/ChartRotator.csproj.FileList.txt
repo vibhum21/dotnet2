@@ -1,0 +1,34 @@
+.\bin\Debug\ChartRotator.dll
+.\bin\Debug\ChartRotator.pdb
+obj\Debug\ResolveAssemblyReference.cache
+C:\Users\karstenj\Desktop\Avalon Patient Monitoring\Avalon Patient Monitoring\ChartRotator\obj\Debug\ChartRotator.baml
+C:\Users\karstenj\Desktop\Avalon Patient Monitoring\Avalon Patient Monitoring\ChartRotator\obj\Debug\ChartRotator.g.cs
+C:\Users\karstenj\Desktop\Avalon Patient Monitoring\Avalon Patient Monitoring\ChartRotator\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\karstenj\Desktop\Avalon Patient Monitoring\Avalon Patient Monitoring\ChartRotator\obj\Debug\ChartRotator_MarkupCompile.cache
+C:\Users\karstenj\Desktop\Avalon Patient Monitoring\Avalon Patient Monitoring\ChartRotator\obj\Debug\ChartRotator_MarkupCompile.lref
+obj\Debug\IdentityMine.Avalon.Controls.Properties.Resources.resources
+obj\Debug\ChartRotator.csproj.GenerateResource.Cache
+C:\Users\karstenj\Desktop\Avalon Patient Monitoring\Avalon Patient Monitoring\ChartRotator\obj\Debug\themes\generic.baml
+obj\Debug\ChartRotator.dll
+obj\Debug\ChartRotator.pdb
+C:\demos\rc1\Allscripts Healthcare v2\Allscripts Healthcare v2\PatientMonitoring\sources\ChartRotator\obj\Debug\themes\generic.baml
+C:\demos\rc1\Allscripts Healthcare v2\Allscripts Healthcare v2\PatientMonitoring\sources\ChartRotator\obj\Debug\ChartRotator.baml
+C:\demos\rc1\Allscripts Healthcare v2\Allscripts Healthcare v2\PatientMonitoring\sources\ChartRotator\obj\Debug\ChartRotator.g.cs
+C:\demos\rc1\Allscripts Healthcare v2\Allscripts Healthcare v2\PatientMonitoring\sources\ChartRotator\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\demos\rc1\Allscripts Healthcare v2\Allscripts Healthcare v2\PatientMonitoring\sources\ChartRotator\obj\Debug\ChartRotator_MarkupCompile.cache
+C:\demos\rc1\Allscripts Healthcare v2\Allscripts Healthcare v2\PatientMonitoring\sources\ChartRotator\obj\Debug\ChartRotator_MarkupCompile.lref
+obj\Debug\ChartRotator.g.resources
+.\bin\Release\ChartRotator.dll
+.\bin\Release\ChartRotator.pdb
+obj\Release\ResolveAssemblyReference.cache
+C:\demos\rc1\Allscripts Healthcare v2\Allscripts Healthcare v2\PatientMonitoring\sources\ChartRotator\obj\Release\ChartRotator.baml
+C:\demos\rc1\Allscripts Healthcare v2\Allscripts Healthcare v2\PatientMonitoring\sources\ChartRotator\obj\Release\ChartRotator.g.cs
+C:\demos\rc1\Allscripts Healthcare v2\Allscripts Healthcare v2\PatientMonitoring\sources\ChartRotator\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\demos\rc1\Allscripts Healthcare v2\Allscripts Healthcare v2\PatientMonitoring\sources\ChartRotator\obj\Release\ChartRotator_MarkupCompile.cache
+C:\demos\rc1\Allscripts Healthcare v2\Allscripts Healthcare v2\PatientMonitoring\sources\ChartRotator\obj\Release\ChartRotator_MarkupCompile.lref
+C:\demos\rc1\Allscripts Healthcare v2\Allscripts Healthcare v2\PatientMonitoring\sources\ChartRotator\obj\Release\themes\generic.baml
+obj\Release\ChartRotator.g.resources
+obj\Release\IdentityMine.Avalon.Controls.Properties.Resources.resources
+obj\Release\ChartRotator.csproj.GenerateResource.Cache
+obj\Release\ChartRotator.dll
+obj\Release\ChartRotator.pdb

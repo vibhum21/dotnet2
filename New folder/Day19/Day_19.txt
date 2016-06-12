@@ -1,0 +1,67 @@
+
+REST
+	Representional State Transfer
+
+
+Client will use URL------------ Process URL
+				<-------JSON
+
+				WebAPI
+				stateLess API's
+				HTTP API's
+
+
+
+URL---HTTPWebRequest packet
+
+     verb:GET
+	  POST
+	  DELETE
+	  PUT
+     Name of server
+     Port Number
+     Controller/action
+
+http://IMSWeb.gov.in:8989/api/weather/mumbai
+http://IMSWeb.gov.in:8989/api/humidity/mumbai
+
+http://www.metropolis.in:8989/api/Show/first/
+http://www.metropolis.in:8989/api/Show/first$city=pune
+
+http://www.metropolis.in:8989/api/Show/first$state=mh
+
+http://www.metropolis.in:8989/api/Report/
+
+
+protocol://server/api/APIContoller/action/paramter
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ravi.tambade@transflower.in
+9881735801
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		

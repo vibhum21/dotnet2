@@ -1,0 +1,61 @@
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Chart\bin\Release\Chart.dll
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Chart\obj\Release\ResolveAssemblyReference.cache
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Chart\obj\Release\GeneratedInternalTypeHelper.g.cs
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Chart\obj\Release\Chart_MarkupCompile.cache
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Chart\obj\Release\Chart_MarkupCompile.lref
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Chart\obj\Release\themes\generic.baml
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Chart\obj\Release\Chart.g.resources
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Chart\obj\Release\IdentityMine.Avalon.Controls.Properties.Resources.resources
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Chart\obj\Release\Chart.csproj.GenerateResource.Cache
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Chart\obj\Release\Chart.dll
+E:\Simphany\Healthcare_Prototype\sources\Chart\bin\Release\Chart.dll
+E:\Simphany\Healthcare_Prototype\sources\Chart\obj\Release\ResolveAssemblyReference.cache
+E:\Simphany\Healthcare_Prototype\sources\Chart\obj\Release\GeneratedInternalTypeHelper.g.cs
+E:\Simphany\Healthcare_Prototype\sources\Chart\obj\Release\Chart_MarkupCompile.cache
+E:\Simphany\Healthcare_Prototype\sources\Chart\obj\Release\Chart_MarkupCompile.lref
+E:\Simphany\Healthcare_Prototype\sources\Chart\obj\Release\themes\generic.baml
+E:\Simphany\Healthcare_Prototype\sources\Chart\obj\Release\Chart.g.resources
+E:\Simphany\Healthcare_Prototype\sources\Chart\obj\Release\IdentityMine.Avalon.Controls.Properties.Resources.resources
+E:\Simphany\Healthcare_Prototype\sources\Chart\obj\Release\Chart.csproj.GenerateResource.Cache
+E:\Simphany\Healthcare_Prototype\sources\Chart\obj\Release\Chart.dll
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\Chart\bin\Release\Chart.dll
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\Chart\obj\Release\ResolveAssemblyReference.cache
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\Chart\obj\Release\GeneratedInternalTypeHelper.g.cs
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\Chart\obj\Release\Chart_MarkupCompile.cache
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\Chart\obj\Release\Chart_MarkupCompile.lref
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\Chart\obj\Release\themes\generic.baml
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\Chart\obj\Release\Chart.g.resources
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\Chart\obj\Release\IdentityMine.Avalon.Controls.Properties.Resources.resources
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\Chart\obj\Release\Chart.csproj.GenerateResource.Cache
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\Chart\obj\Release\Chart.dll
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\Chart\bin\Release\Chart.dll
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\Chart\obj\Release\ResolveAssemblyReference.cache
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\Chart\obj\Release\GeneratedInternalTypeHelper.g.cs
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\Chart\obj\Release\Chart_MarkupCompile.cache
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\Chart\obj\Release\Chart_MarkupCompile.lref
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\Chart\obj\Release\themes\generic.baml
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\Chart\obj\Release\Chart.g.resources
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\Chart\obj\Release\IdentityMine.Avalon.Controls.Properties.Resources.resources
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\Chart\obj\Release\Chart.csproj.GenerateResource.Cache
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\Chart\obj\Release\Chart.dll
+D:\Ravi\DotNet_35\Simphany\Healthcare_Prototype\sources\Chart\bin\Release\Chart.dll
+D:\Ravi\DotNet_35\Simphany\Healthcare_Prototype\sources\Chart\obj\Release\ResolveAssemblyReference.cache
+D:\Ravi\DotNet_35\Simphany\Healthcare_Prototype\sources\Chart\obj\Release\GeneratedInternalTypeHelper.g.cs
+D:\Ravi\DotNet_35\Simphany\Healthcare_Prototype\sources\Chart\obj\Release\Chart_MarkupCompile.cache
+D:\Ravi\DotNet_35\Simphany\Healthcare_Prototype\sources\Chart\obj\Release\Chart_MarkupCompile.lref
+D:\Ravi\DotNet_35\Simphany\Healthcare_Prototype\sources\Chart\obj\Release\themes\generic.baml
+D:\Ravi\DotNet_35\Simphany\Healthcare_Prototype\sources\Chart\obj\Release\Chart.g.resources
+D:\Ravi\DotNet_35\Simphany\Healthcare_Prototype\sources\Chart\obj\Release\IdentityMine.Avalon.Controls.Properties.Resources.resources
+D:\Ravi\DotNet_35\Simphany\Healthcare_Prototype\sources\Chart\obj\Release\Chart.csproj.GenerateResource.Cache
+D:\Ravi\DotNet_35\Simphany\Healthcare_Prototype\sources\Chart\obj\Release\Chart.dll
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\Chart\bin\Release\Chart.dll
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\Chart\obj\Release\ResolveAssemblyReference.cache
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\Chart\obj\Release\GeneratedInternalTypeHelper.g.cs
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\Chart\obj\Release\Chart_MarkupCompile.cache
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\Chart\obj\Release\Chart_MarkupCompile.lref
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\Chart\obj\Release\themes\generic.baml
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\Chart\obj\Release\Chart.g.resources
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\Chart\obj\Release\IdentityMine.Avalon.Controls.Properties.Resources.resources
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\Chart\obj\Release\ResGen.read.1.tlog
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\Chart\obj\Release\ResGen.write.1.tlog
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\Chart\obj\Release\Chart.dll

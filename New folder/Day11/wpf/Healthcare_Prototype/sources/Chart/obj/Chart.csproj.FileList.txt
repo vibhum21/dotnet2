@@ -1,0 +1,28 @@
+.\bin\Debug\Chart.dll
+.\bin\Debug\Chart.pdb
+obj\Debug\ResolveAssemblyReference.cache
+C:\Users\karstenj\Desktop\Avalon Patient Monitoring\Avalon Patient Monitoring\Chart\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\karstenj\Desktop\Avalon Patient Monitoring\Avalon Patient Monitoring\Chart\obj\Debug\Chart_MarkupCompile.cache
+C:\Users\karstenj\Desktop\Avalon Patient Monitoring\Avalon Patient Monitoring\Chart\obj\Debug\Chart_MarkupCompile.lref
+obj\Debug\IdentityMine.Avalon.Controls.Properties.Resources.resources
+obj\Debug\Chart.csproj.GenerateResource.Cache
+C:\Users\karstenj\Desktop\Avalon Patient Monitoring\Avalon Patient Monitoring\Chart\obj\Debug\themes\generic.baml
+obj\Debug\Chart.dll
+obj\Debug\Chart.pdb
+C:\demos\rc1\Allscripts Healthcare v2\Allscripts Healthcare v2\PatientMonitoring\sources\Chart\obj\Debug\themes\generic.baml
+C:\demos\rc1\Allscripts Healthcare v2\Allscripts Healthcare v2\PatientMonitoring\sources\Chart\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\demos\rc1\Allscripts Healthcare v2\Allscripts Healthcare v2\PatientMonitoring\sources\Chart\obj\Debug\Chart_MarkupCompile.cache
+C:\demos\rc1\Allscripts Healthcare v2\Allscripts Healthcare v2\PatientMonitoring\sources\Chart\obj\Debug\Chart_MarkupCompile.lref
+obj\Debug\Chart.g.resources
+.\bin\Release\Chart.dll
+.\bin\Release\Chart.pdb
+obj\Release\ResolveAssemblyReference.cache
+C:\demos\rc1\Allscripts Healthcare v2\Allscripts Healthcare v2\PatientMonitoring\sources\Chart\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\demos\rc1\Allscripts Healthcare v2\Allscripts Healthcare v2\PatientMonitoring\sources\Chart\obj\Release\Chart_MarkupCompile.cache
+C:\demos\rc1\Allscripts Healthcare v2\Allscripts Healthcare v2\PatientMonitoring\sources\Chart\obj\Release\Chart_MarkupCompile.lref
+C:\demos\rc1\Allscripts Healthcare v2\Allscripts Healthcare v2\PatientMonitoring\sources\Chart\obj\Release\themes\generic.baml
+obj\Release\Chart.g.resources
+obj\Release\IdentityMine.Avalon.Controls.Properties.Resources.resources
+obj\Release\Chart.csproj.GenerateResource.Cache
+obj\Release\Chart.dll
+obj\Release\Chart.pdb

@@ -1,0 +1,9 @@
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\ChartVisuals\bin\Release\ChartVisuals.dll
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\ChartVisuals\bin\Release\ChartVisuals.pdb
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\ChartVisuals\bin\Release\PresentationCore.dll
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\ChartVisuals\bin\Release\System.Printing.dll
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\ChartVisuals\bin\Release\PresentationCore.xml
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\ChartVisuals\bin\Release\System.Printing.xml
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\ChartVisuals\obj\Release\ResolveAssemblyReference.cache
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\ChartVisuals\obj\Release\ChartVisuals.dll
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\ChartVisuals\obj\Release\ChartVisuals.pdb

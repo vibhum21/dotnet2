@@ -1,0 +1,11 @@
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Rotater3DTransition\bin\Release\Rotater3DTransition.dll
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Rotater3DTransition\bin\Release\Rotater3DTransition.pdb
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Rotater3DTransition\obj\Release\ResolveAssemblyReference.cache
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Rotater3DTransition\obj\Release\Rotater3DTransition.baml
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Rotater3DTransition\obj\Release\Rotater3DTransition.g.cs
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Rotater3DTransition\obj\Release\Rotater3DTransition_MarkupCompile.cache
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Rotater3DTransition\obj\Release\Rotater3DTransition.g.resources
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Rotater3DTransition\obj\Release\Rotater3DTransition.Properties.Resources.resources
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Rotater3DTransition\obj\Release\Rotater3DTransition.csproj.GenerateResource.Cache
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Rotater3DTransition\obj\Release\Rotater3DTransition.dll
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Rotater3DTransition\obj\Release\Rotater3DTransition.pdb

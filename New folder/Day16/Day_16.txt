@@ -1,0 +1,132 @@
+Day 16
+
+machine.config--------per framwork version
+app.config-------------console App, windows app
+config/web.config-------configuration settings 
+			  .NET framework specific
+web.config------------
+			configuration settings
+			    application specific
+
+Design Apporach
+Database  first ----------RDMBS
+Object    first ----------OOD
+		---------- SOA
+	using Requests		--------set of Services
+
+        send Responses          ---------
+
+Solution will be composed of USECASES
+	USECASES---
+	   Scenario------Context of requests
+
+KisanMitra Web Portal Requirements
+Abstration:
+Small Farmer Perspective:
+	Get All AgriProducts
+	plain Text URL
+	SEO URL
+		http://kisanmitra.com/AgriProduct/
+	Get All AgriProducts based on Category
+		http://kisanmitra.com/AgriProduct/rabbimansoon/
+	http://kisanmitra.com/AgriProduct/index/
+	http://kisanmitra.com/AgriProduct/details/
+	http://kisanmitra.com/AgriProduct/4533/
+		
+	AGriProducts------business Data
+			Actions	 CRUD Operations
+	
+Controller : AgriProductController
+		   GET--------Action
+		   INDEX------Action-----Model
+			       <----View----
+		
+		Actions
+		   DETAILS
+		   PUT
+		   POST
+		   DELETE
+
+
+	Get All AgriProducts based on current Trend
+		http://kisanmitra.com/AgriProduct/social/latest/
+
+	
+Small Farmer as Consumer:
+	Purchase
+	Registraion
+	Data Analysis
+	interaction  with Web portal
+	Purchase a Product from Product Catalog
+	Perform fundsTransfer for Online Payment
+	Filter Information based on Trend
+
+Web Requests
+
+60%--------Design consideration time to be spent
+30%------  ASP.NET  -----Development time to be spent
+	Choose different Application Platforms
+ 
+		  Struts
+		  Hibernate
+	   	  Entity Framework
+10 %-------Testing Time to be spent
+
+
+URL
+	
+
+Identify  System Requirements  (SRS)
+Identity   UseCases
+Identity   Flow of Events
+Identity   MVC
+Choosed  MVC Framework and Targetted Technology
+Create POC
+Test POC
+
+Start core development
+
+
+
+http://localhost:9889/product/
+http://localhost://9889/product/Show/
+http://localhost://9889/product/Show/12
+http://localhost://9889/product/Show/tablet/
+http://localhost://9889/product/Show/laptop/
+http://localhost://9889/product/Show/smartphone/asc
+http://localhost://9889/product/delete/12
+http://localhost://9889/product/insert/23
+http://localhost://9889/product/update/23
+
+
+___________________________________________________________________________________
+
+Tasks for  ASP.NET MVC
+
+1.Add a Blank Solution MVCWebPortal using Visual Studio .net 2013.
+2.Add new Webapplication with Empty and MVC Folder ShopOnline in the solution.
+3.Add  Home Controller in project
+4.Explore global.asax, App_start Folder.
+5.Visualize asp.net mvc application Execution Life cycle.
+6.Compare with asp.net Webforms Page life Cycle.
+7. Add Index and Details Action in Home Controller
+8. Add Views for Index , Details action for Home Controller
+9. Create Model Employee with First name, Last Name, Gender, City properties
+10.Add App_Data folder to the Website.
+11.Copy and paste ECommerceDB Database in App_Data folder.
+12.Add connection string to the Website.
+13.Show all Customers in index method fetched from Context layer, DaLLayer, Database.
+   in home controller.
+14.Debug asp.net mvc Websiet.
+Link with N-Tier application you build with HRSSolution libraries
+
+
+
+
+
+
+
+
+
+
+

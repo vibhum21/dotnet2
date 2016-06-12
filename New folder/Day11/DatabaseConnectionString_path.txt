@@ -1,0 +1,5 @@
+ <connectionStrings>
+    <add name="ConnectionString"
+          connectionString="Data Source=(LocalDB)\v11.0;AttachDbFilename=|DataDirectory|\eCommerseDB.mdf;Integrated Security=True"
+          providerName="System.Data.SqlClient" />
+  </connectionStrings>

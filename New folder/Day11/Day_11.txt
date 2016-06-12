@@ -1,0 +1,104 @@
+Day 11:
+
+Introduction to ASP.NET 
+	Web Application Development using ASP.NET
+
+
+1.Webforms (SharePoint 2016)
+	4 Days 
+2.ASP.NET MVC 6 Days
+3.SOA
+
+
+Web Applications:
+	Web Environment
+	(internet)
+	 http:
+	   Connectionless Communicatin Protocol
+	tcp/ip:
+	   Connectionoriented Protocol
+	   p-2-p applications
+	
+	Internet Website (public)
+		url  --> http://
+	Intranet Websites (Intranet Portal)
+		http://
+	Extranet Websites ( SSL)
+		https://........
+
+
+
+
+  Connectionless Communicatin Protocol
+
+	Request to Respose Model
+
+HttpWebRequest-------------internet------WebSever(IIS)
+					 Application Server
+				         Database Server		browser	<--------------HTML
+					HTTPWebResponse
+your application
+thin client--browser
+App 
+
+
+Open Source	  JAVA			MS
+							  office365
+Jhoomla-----------IBM WebSphere-----------SharePoint
+Drupal		  Oracle Portal		
+LAMP		  Oracle Stack		  MS Stack
+
+BPM
+PMS
+LMS
+KMS
+IMS
+
+
+
+aspx-----------------Webform
+asax-----------------application Global file
+ascx-----------------User control
+ashx-----------------custom HTTP Handler
+axd------------------Tracing Module
+asmx-----------------ASP.NET XML Webservice
+ Programmable business Logic accessed via SOAP Protocol
+.svc-----------------WCF Service
+		     WCF Data Services (REST full WCF service)
+
+WEB API--------------REST Web API
+
+1.Creat a blank solution OLX using visual studio .NET 2013.
+2.Add a new Web application WheelsInCloud as Empty template.
+3.Add Session_start, Application_Start, Application_Stop, Session_End Event
+  handlers to global.asax file.
+4.Add new Service Database in App_Data folder with name Tatadb.mdf.
+5.Add new Table with name Credentials.
+6.Add Id, LoginName, Password in Table Credentials
+7.Add 10 recrods with username and password.
+8.Add a new class Library Project TATAIdentityLib in existing solution OLX.
+9.Add new class CredentialManager with following Static Methods
+	bool Validate(string userName, string password)
+        bool ChangePassword(string userName, string oldPassword, string newPassword)
+10.Add new classLibrary TATADALLib in OLX Solution.
+11.Add new class CredentialDAL with Validate, Get, GetAll and CRUD Operations handlers with Table Credentials.
+12.Add new form home.apsx to Web application WheelsInCloud.
+13.Add new form login.aspx with textBox and label controls using Table layout.
+14.Implement LoginButton Click Event Handler to Validate credentials of user using TATAIdentityLib which internally invokes DAL Logic.
+15.Based on Successful login redirect user request to home.aspx Webform.
+16.Design home.aspx webform as landing page using company Logo, Title and Links to other Webforms Navigation
+17.Add new Webforms ProductCatalog.aspx, news.aspx, contact.aspx, aboutus.aspx in web Application wheelsInCloud.
+18.Build and explore ASP.NET WEB application using Visual Studio .NET.
+
+
+
+
+
+
+
+
+
+
+
+	
+

@@ -1,0 +1,10 @@
+bin\Debug\ChartData.dll
+bin\Debug\ChartData.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\ChartData.dll
+obj\Debug\ChartData.pdb
+bin\Release\ChartData.dll
+bin\Release\ChartData.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\ChartData.dll
+obj\Release\ChartData.pdb

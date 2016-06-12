@@ -1,0 +1,751 @@
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\Avalon Patient Monitoring.exe
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Documents\NephrolDialTransplant.xaml
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Avalon Patient Monitoring.exe.config
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Images\Andrew-Cencini.png
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Images\Anne-Wallace.png
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Images\Axel-Delgado.png
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Images\Brian-Cox,-MD.png
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Images\Chris-Gallagher.png
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Images\David-Probst.png
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Images\Dennis-Dehenne.png
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Images\dudepic.PNG
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Images\Esko-Sario,-MD.png
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Images\Eva-Valverde,-MD.png
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Images\Fred-Viidul.png
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Images\GracyOMalley.png
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Images\Grigory-Pogulsky.png
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Images\Jeff-Price.png
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Images\Jesper-Aaberg.png
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Images\Katie-Jordan,-MD.png
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Images\Kim-Abercrombie.png
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Images\Lene-Aaling.png
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Images\Molly-Dempsey.png
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Images\Nancy-Freehafer.png
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Images\Raffaella-Bonaldi.png
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Images\Shirleen-Travers,-MD.png
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Media\HeartUltrasound.wmv
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Media\Intro.wmv
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\XML\TestData.xml
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\XML\WLTestData.xml
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Andrew-Cencini.png
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Anne-Wallace.png
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Axel-Delgado.png
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\BariumSwallowFig2.png
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\BariumSwallowFig3.png
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Brian-Cox,-MD.png
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Chris-Gallagher.png
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\contoso.png
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\David-Probst.png
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Dennis-Dehenne.png
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\docviewerButtons.png
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\dudepic.PNG
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Esko-Sario,-MD.png
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Eva-Valverde,-MD.png
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Fred-Viidul.png
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\GracyOMalley.png
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Graph.png
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Graph_Button.png
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Graph_DateTime.png
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\gridchart.png
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Grigory-Pogulsky.png
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\icon.png
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\icon2.ico
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Jeff-Price.png
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Jesper-Aaberg.png
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Katie-Jordan,-MD.png
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Kim-Abercrombie.png
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Lene-Aaling.png
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Media_PatientProtal.png
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Media_UltrasoundPortal.png
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\mediaShadow.png
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Molly-Dempsey.png
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Nancy-Freehafer.png
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\pageDown.png
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\pageUp.png
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\PatientDetail_PanelButton.png
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\PatientDetailBar_Bar.png
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\PatientDetailBar_Button.png
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\patientdetails.png
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\people pics.psd
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Raffaella-Bonaldi.png
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Shirleen-Travers,-MD.png
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\squareShadow.png
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\SStatus_Graph.png
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\SStatus_TabControl.png
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Steve-Schmidt.png
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\TaskList_EnterAnOrderButton.png
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Thumbs.db
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\xray1.png
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\xray2.png
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\zoomMinus.png
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\zoomPlus.png
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\WaveformData.xml
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Avalon Patient Monitoring.exe
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Chart.dll
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\ChartData.dll
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\ChartRotator.dll
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\ChartVisuals.dll
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Flipper3DTransition.dll
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\PatientHelper.dll
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Rotater3DTransition.dll
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Flipper3DTransition.pdb
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\ChartData.pdb
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Rotater3DTransition.pdb
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\ChartVisuals.pdb
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Chart.pdb
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\ChartRotator.pdb
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\PatientHelper.pdb
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\PatientHelper.XmlSerializers.dll
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\ResolveAssemblyReference.cache
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\IdentityMineAboutDialogWindow.baml
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\Resources\BrandingVisualsResourceDictionary.baml
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\Resources\ButtonStyle.baml
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\Resources\ChartsResourceDictionary.baml
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\Resources\LogoResourceDictionary.baml
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\Resources\PatientDetailExpanderDictionary.baml
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\Resources\ScrollBarStyle.baml
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\Resources\Shared.baml
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\Resources\SliderStyle.baml
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\Resources\StoryboardAnimationResourceDictionary.baml
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\AppWindow.baml
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\IdentityMineAboutDialogWindow.g.cs
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\Resources\ButtonStyle.g.cs
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\Resources\ScrollBarStyle.g.cs
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\AppWindow.g.cs
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\MyApp.g.cs
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\Avalon Patient Monitoring_Content.g.cs
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\Avalon Patient Monitoring_MarkupCompile.cache
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\Avalon Patient Monitoring_MarkupCompile.lref
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\MyApp.baml
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\Resources\ControlStylesandTemplatesResourceDictionary.baml
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\Resources\PatientRosterListResourceDictionary.baml
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\Avalon Patient Monitoring.g.resources
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\Avalon_Patient_Monitoring.Properties.Resources.resources
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\Avalon Patient Monitoring.csproj.GenerateResource.Cache
+E:\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\Avalon Patient Monitoring.exe
+E:\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Documents\NephrolDialTransplant.xaml
+E:\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Avalon Patient Monitoring.exe.config
+E:\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Images\Andrew-Cencini.png
+E:\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Images\Anne-Wallace.png
+E:\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Images\Axel-Delgado.png
+E:\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Images\Brian-Cox,-MD.png
+E:\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Images\Chris-Gallagher.png
+E:\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Images\David-Probst.png
+E:\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Images\Dennis-Dehenne.png
+E:\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Images\dudepic.PNG
+E:\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Images\Esko-Sario,-MD.png
+E:\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Images\Eva-Valverde,-MD.png
+E:\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Images\Fred-Viidul.png
+E:\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Images\GracyOMalley.png
+E:\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Images\Grigory-Pogulsky.png
+E:\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Images\Jeff-Price.png
+E:\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Images\Jesper-Aaberg.png
+E:\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Images\Katie-Jordan,-MD.png
+E:\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Images\Kim-Abercrombie.png
+E:\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Images\Lene-Aaling.png
+E:\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Images\Molly-Dempsey.png
+E:\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Images\Nancy-Freehafer.png
+E:\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Images\Raffaella-Bonaldi.png
+E:\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Images\Shirleen-Travers,-MD.png
+E:\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Media\HeartUltrasound.wmv
+E:\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Media\Intro.wmv
+E:\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\XML\TestData.xml
+E:\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\XML\WLTestData.xml
+E:\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Andrew-Cencini.png
+E:\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Anne-Wallace.png
+E:\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Axel-Delgado.png
+E:\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\BariumSwallowFig2.png
+E:\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\BariumSwallowFig3.png
+E:\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Brian-Cox,-MD.png
+E:\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Chris-Gallagher.png
+E:\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\contoso.png
+E:\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\David-Probst.png
+E:\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Dennis-Dehenne.png
+E:\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\docviewerButtons.png
+E:\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\dudepic.PNG
+E:\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Esko-Sario,-MD.png
+E:\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Eva-Valverde,-MD.png
+E:\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Fred-Viidul.png
+E:\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\GracyOMalley.png
+E:\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Graph.png
+E:\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Graph_Button.png
+E:\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Graph_DateTime.png
+E:\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\gridchart.png
+E:\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Grigory-Pogulsky.png
+E:\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\icon.png
+E:\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\icon2.ico
+E:\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Jeff-Price.png
+E:\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Jesper-Aaberg.png
+E:\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Katie-Jordan,-MD.png
+E:\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Kim-Abercrombie.png
+E:\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Lene-Aaling.png
+E:\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Media_PatientProtal.png
+E:\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Media_UltrasoundPortal.png
+E:\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\mediaShadow.png
+E:\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Molly-Dempsey.png
+E:\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Nancy-Freehafer.png
+E:\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\pageDown.png
+E:\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\pageUp.png
+E:\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\PatientDetail_PanelButton.png
+E:\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\PatientDetailBar_Bar.png
+E:\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\PatientDetailBar_Button.png
+E:\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\patientdetails.png
+E:\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\people pics.psd
+E:\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Raffaella-Bonaldi.png
+E:\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Shirleen-Travers,-MD.png
+E:\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\squareShadow.png
+E:\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\SStatus_Graph.png
+E:\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\SStatus_TabControl.png
+E:\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Steve-Schmidt.png
+E:\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\TaskList_EnterAnOrderButton.png
+E:\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Thumbs.db
+E:\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\xray1.png
+E:\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\xray2.png
+E:\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\zoomMinus.png
+E:\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\zoomPlus.png
+E:\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\WaveformData.xml
+E:\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Avalon Patient Monitoring.exe
+E:\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Chart.dll
+E:\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\ChartData.dll
+E:\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\ChartRotator.dll
+E:\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\ChartVisuals.dll
+E:\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Flipper3DTransition.dll
+E:\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\PatientHelper.dll
+E:\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Rotater3DTransition.dll
+E:\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Flipper3DTransition.pdb
+E:\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\ChartData.pdb
+E:\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Rotater3DTransition.pdb
+E:\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\ChartVisuals.pdb
+E:\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Chart.pdb
+E:\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\ChartRotator.pdb
+E:\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\PatientHelper.pdb
+E:\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\PatientHelper.XmlSerializers.dll
+E:\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\ResolveAssemblyReference.cache
+E:\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\IdentityMineAboutDialogWindow.baml
+E:\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\Resources\BrandingVisualsResourceDictionary.baml
+E:\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\Resources\ButtonStyle.baml
+E:\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\Resources\ChartsResourceDictionary.baml
+E:\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\Resources\LogoResourceDictionary.baml
+E:\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\Resources\PatientDetailExpanderDictionary.baml
+E:\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\Resources\ScrollBarStyle.baml
+E:\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\Resources\Shared.baml
+E:\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\Resources\SliderStyle.baml
+E:\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\Resources\StoryboardAnimationResourceDictionary.baml
+E:\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\AppWindow.baml
+E:\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\IdentityMineAboutDialogWindow.g.cs
+E:\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\Resources\ButtonStyle.g.cs
+E:\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\Resources\ScrollBarStyle.g.cs
+E:\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\AppWindow.g.cs
+E:\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\MyApp.g.cs
+E:\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\Avalon Patient Monitoring_Content.g.cs
+E:\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\Avalon Patient Monitoring_MarkupCompile.cache
+E:\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\Avalon Patient Monitoring_MarkupCompile.lref
+E:\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\MyApp.baml
+E:\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\Resources\ControlStylesandTemplatesResourceDictionary.baml
+E:\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\Resources\PatientRosterListResourceDictionary.baml
+E:\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\Avalon Patient Monitoring.g.resources
+E:\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\Avalon_Patient_Monitoring.Properties.Resources.resources
+E:\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\Avalon Patient Monitoring.csproj.GenerateResource.Cache
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\Avalon Patient Monitoring.exe
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Documents\NephrolDialTransplant.xaml
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Avalon Patient Monitoring.exe.config
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Images\Andrew-Cencini.png
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Images\Anne-Wallace.png
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Images\Axel-Delgado.png
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Images\Brian-Cox,-MD.png
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Images\Chris-Gallagher.png
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Images\David-Probst.png
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Images\Dennis-Dehenne.png
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Images\dudepic.PNG
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Images\Esko-Sario,-MD.png
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Images\Eva-Valverde,-MD.png
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Images\Fred-Viidul.png
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Images\GracyOMalley.png
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Images\Grigory-Pogulsky.png
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Images\Jeff-Price.png
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Images\Jesper-Aaberg.png
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Images\Katie-Jordan,-MD.png
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Images\Kim-Abercrombie.png
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Images\Lene-Aaling.png
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Images\Molly-Dempsey.png
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Images\Nancy-Freehafer.png
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Images\Raffaella-Bonaldi.png
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Images\Shirleen-Travers,-MD.png
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Media\HeartUltrasound.wmv
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Media\Intro.wmv
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\XML\TestData.xml
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\XML\WLTestData.xml
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Andrew-Cencini.png
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Anne-Wallace.png
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Axel-Delgado.png
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\BariumSwallowFig2.png
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\BariumSwallowFig3.png
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Brian-Cox,-MD.png
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Chris-Gallagher.png
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\contoso.png
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\David-Probst.png
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Dennis-Dehenne.png
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\docviewerButtons.png
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\dudepic.PNG
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Esko-Sario,-MD.png
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Eva-Valverde,-MD.png
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Fred-Viidul.png
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\GracyOMalley.png
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Graph.png
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Graph_Button.png
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Graph_DateTime.png
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\gridchart.png
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Grigory-Pogulsky.png
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\icon.png
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\icon2.ico
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Jeff-Price.png
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Jesper-Aaberg.png
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Katie-Jordan,-MD.png
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Kim-Abercrombie.png
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Lene-Aaling.png
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Media_PatientProtal.png
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Media_UltrasoundPortal.png
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\mediaShadow.png
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Molly-Dempsey.png
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Nancy-Freehafer.png
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\pageDown.png
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\pageUp.png
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\PatientDetail_PanelButton.png
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\PatientDetailBar_Bar.png
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\PatientDetailBar_Button.png
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\patientdetails.png
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\people pics.psd
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Raffaella-Bonaldi.png
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Shirleen-Travers,-MD.png
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\squareShadow.png
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\SStatus_Graph.png
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\SStatus_TabControl.png
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Steve-Schmidt.png
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\TaskList_EnterAnOrderButton.png
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Thumbs.db
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\xray1.png
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\xray2.png
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\zoomMinus.png
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\zoomPlus.png
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\WaveformData.xml
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Avalon Patient Monitoring.exe
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Chart.dll
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\ChartData.dll
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\ChartRotator.dll
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\ChartVisuals.dll
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Flipper3DTransition.dll
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\PatientHelper.dll
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Rotater3DTransition.dll
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Flipper3DTransition.pdb
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\ChartData.pdb
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Rotater3DTransition.pdb
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\ChartVisuals.pdb
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Chart.pdb
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\ChartRotator.pdb
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\PatientHelper.pdb
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\PatientHelper.XmlSerializers.dll
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\ResolveAssemblyReference.cache
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\IdentityMineAboutDialogWindow.baml
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\Resources\BrandingVisualsResourceDictionary.baml
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\Resources\ButtonStyle.baml
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\Resources\ChartsResourceDictionary.baml
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\Resources\LogoResourceDictionary.baml
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\Resources\PatientDetailExpanderDictionary.baml
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\Resources\ScrollBarStyle.baml
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\Resources\Shared.baml
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\Resources\SliderStyle.baml
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\Resources\StoryboardAnimationResourceDictionary.baml
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\AppWindow.baml
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\IdentityMineAboutDialogWindow.g.cs
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\Resources\ButtonStyle.g.cs
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\Resources\ScrollBarStyle.g.cs
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\AppWindow.g.cs
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\MyApp.g.cs
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\Avalon Patient Monitoring_Content.g.cs
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\Avalon Patient Monitoring_MarkupCompile.cache
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\Avalon Patient Monitoring_MarkupCompile.lref
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\MyApp.baml
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\Resources\ControlStylesandTemplatesResourceDictionary.baml
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\Resources\PatientRosterListResourceDictionary.baml
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\Avalon Patient Monitoring.g.resources
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\Avalon_Patient_Monitoring.Properties.Resources.resources
+G:\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\Avalon Patient Monitoring.csproj.GenerateResource.Cache
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\Avalon Patient Monitoring.exe
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Documents\NephrolDialTransplant.xaml
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Avalon Patient Monitoring.exe.config
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Images\Andrew-Cencini.png
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Images\Anne-Wallace.png
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Images\Axel-Delgado.png
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Images\Brian-Cox,-MD.png
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Images\Chris-Gallagher.png
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Images\David-Probst.png
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Images\Dennis-Dehenne.png
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Images\dudepic.PNG
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Images\Esko-Sario,-MD.png
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Images\Eva-Valverde,-MD.png
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Images\Fred-Viidul.png
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Images\GracyOMalley.png
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Images\Grigory-Pogulsky.png
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Images\Jeff-Price.png
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Images\Jesper-Aaberg.png
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Images\Katie-Jordan,-MD.png
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Images\Kim-Abercrombie.png
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Images\Lene-Aaling.png
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Images\Molly-Dempsey.png
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Images\Nancy-Freehafer.png
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Images\Raffaella-Bonaldi.png
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Images\Shirleen-Travers,-MD.png
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Media\HeartUltrasound.wmv
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Media\Intro.wmv
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\XML\TestData.xml
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\XML\WLTestData.xml
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Andrew-Cencini.png
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Anne-Wallace.png
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Axel-Delgado.png
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\BariumSwallowFig2.png
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\BariumSwallowFig3.png
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Brian-Cox,-MD.png
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Chris-Gallagher.png
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\contoso.png
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\David-Probst.png
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Dennis-Dehenne.png
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\docviewerButtons.png
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\dudepic.PNG
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Esko-Sario,-MD.png
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Eva-Valverde,-MD.png
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Fred-Viidul.png
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\GracyOMalley.png
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Graph.png
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Graph_Button.png
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Graph_DateTime.png
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\gridchart.png
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Grigory-Pogulsky.png
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\icon.png
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\icon2.ico
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Jeff-Price.png
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Jesper-Aaberg.png
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Katie-Jordan,-MD.png
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Kim-Abercrombie.png
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Lene-Aaling.png
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Media_PatientProtal.png
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Media_UltrasoundPortal.png
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\mediaShadow.png
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Molly-Dempsey.png
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Nancy-Freehafer.png
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\pageDown.png
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\pageUp.png
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\PatientDetail_PanelButton.png
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\PatientDetailBar_Bar.png
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\PatientDetailBar_Button.png
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\patientdetails.png
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\people pics.psd
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Raffaella-Bonaldi.png
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Shirleen-Travers,-MD.png
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\squareShadow.png
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\SStatus_Graph.png
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\SStatus_TabControl.png
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Steve-Schmidt.png
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\TaskList_EnterAnOrderButton.png
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Thumbs.db
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\xray1.png
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\xray2.png
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\zoomMinus.png
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\zoomPlus.png
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\WaveformData.xml
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Avalon Patient Monitoring.exe
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Chart.dll
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\ChartData.dll
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\ChartRotator.dll
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\ChartVisuals.dll
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Flipper3DTransition.dll
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\PatientHelper.dll
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Rotater3DTransition.dll
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Flipper3DTransition.pdb
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\ChartData.pdb
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Rotater3DTransition.pdb
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\ChartVisuals.pdb
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Chart.pdb
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\ChartRotator.pdb
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\PatientHelper.pdb
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\PatientHelper.XmlSerializers.dll
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\ResolveAssemblyReference.cache
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\IdentityMineAboutDialogWindow.baml
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\Resources\BrandingVisualsResourceDictionary.baml
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\Resources\ButtonStyle.baml
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\Resources\ChartsResourceDictionary.baml
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\Resources\LogoResourceDictionary.baml
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\Resources\PatientDetailExpanderDictionary.baml
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\Resources\ScrollBarStyle.baml
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\Resources\Shared.baml
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\Resources\SliderStyle.baml
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\Resources\StoryboardAnimationResourceDictionary.baml
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\AppWindow.baml
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\IdentityMineAboutDialogWindow.g.cs
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\Resources\ButtonStyle.g.cs
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\Resources\ScrollBarStyle.g.cs
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\AppWindow.g.cs
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\MyApp.g.cs
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\Avalon Patient Monitoring_Content.g.cs
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\Avalon Patient Monitoring_MarkupCompile.cache
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\Avalon Patient Monitoring_MarkupCompile.lref
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\MyApp.baml
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\Resources\ControlStylesandTemplatesResourceDictionary.baml
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\Resources\PatientRosterListResourceDictionary.baml
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\Avalon Patient Monitoring.g.resources
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\Avalon_Patient_Monitoring.Properties.Resources.resources
+G:\MAhesh\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\Avalon Patient Monitoring.csproj.GenerateResource.Cache
+D:\Ravi\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\Avalon Patient Monitoring.exe
+D:\Ravi\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Documents\NephrolDialTransplant.xaml
+D:\Ravi\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Avalon Patient Monitoring.exe.config
+D:\Ravi\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Images\Andrew-Cencini.png
+D:\Ravi\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Images\Anne-Wallace.png
+D:\Ravi\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Images\Axel-Delgado.png
+D:\Ravi\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Images\Brian-Cox,-MD.png
+D:\Ravi\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Images\Chris-Gallagher.png
+D:\Ravi\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Images\David-Probst.png
+D:\Ravi\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Images\Dennis-Dehenne.png
+D:\Ravi\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Images\dudepic.PNG
+D:\Ravi\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Images\Esko-Sario,-MD.png
+D:\Ravi\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Images\Eva-Valverde,-MD.png
+D:\Ravi\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Images\Fred-Viidul.png
+D:\Ravi\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Images\GracyOMalley.png
+D:\Ravi\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Images\Grigory-Pogulsky.png
+D:\Ravi\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Images\Jeff-Price.png
+D:\Ravi\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Images\Jesper-Aaberg.png
+D:\Ravi\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Images\Katie-Jordan,-MD.png
+D:\Ravi\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Images\Kim-Abercrombie.png
+D:\Ravi\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Images\Lene-Aaling.png
+D:\Ravi\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Images\Molly-Dempsey.png
+D:\Ravi\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Images\Nancy-Freehafer.png
+D:\Ravi\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Images\Raffaella-Bonaldi.png
+D:\Ravi\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Images\Shirleen-Travers,-MD.png
+D:\Ravi\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Media\HeartUltrasound.wmv
+D:\Ravi\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Media\Intro.wmv
+D:\Ravi\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\XML\TestData.xml
+D:\Ravi\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\XML\WLTestData.xml
+D:\Ravi\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Andrew-Cencini.png
+D:\Ravi\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Anne-Wallace.png
+D:\Ravi\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Axel-Delgado.png
+D:\Ravi\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\BariumSwallowFig2.png
+D:\Ravi\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\BariumSwallowFig3.png
+D:\Ravi\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Brian-Cox,-MD.png
+D:\Ravi\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Chris-Gallagher.png
+D:\Ravi\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\contoso.png
+D:\Ravi\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\David-Probst.png
+D:\Ravi\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Dennis-Dehenne.png
+D:\Ravi\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\docviewerButtons.png
+D:\Ravi\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\dudepic.PNG
+D:\Ravi\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Esko-Sario,-MD.png
+D:\Ravi\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Eva-Valverde,-MD.png
+D:\Ravi\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Fred-Viidul.png
+D:\Ravi\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\GracyOMalley.png
+D:\Ravi\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Graph.png
+D:\Ravi\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Graph_Button.png
+D:\Ravi\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Graph_DateTime.png
+D:\Ravi\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\gridchart.png
+D:\Ravi\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Grigory-Pogulsky.png
+D:\Ravi\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\icon.png
+D:\Ravi\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\icon2.ico
+D:\Ravi\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Jeff-Price.png
+D:\Ravi\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Jesper-Aaberg.png
+D:\Ravi\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Katie-Jordan,-MD.png
+D:\Ravi\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Kim-Abercrombie.png
+D:\Ravi\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Lene-Aaling.png
+D:\Ravi\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Media_PatientProtal.png
+D:\Ravi\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Media_UltrasoundPortal.png
+D:\Ravi\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\mediaShadow.png
+D:\Ravi\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Molly-Dempsey.png
+D:\Ravi\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Nancy-Freehafer.png
+D:\Ravi\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\pageDown.png
+D:\Ravi\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\pageUp.png
+D:\Ravi\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\PatientDetail_PanelButton.png
+D:\Ravi\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\PatientDetailBar_Bar.png
+D:\Ravi\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\PatientDetailBar_Button.png
+D:\Ravi\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\patientdetails.png
+D:\Ravi\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\people pics.psd
+D:\Ravi\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Raffaella-Bonaldi.png
+D:\Ravi\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Shirleen-Travers,-MD.png
+D:\Ravi\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\squareShadow.png
+D:\Ravi\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\SStatus_Graph.png
+D:\Ravi\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\SStatus_TabControl.png
+D:\Ravi\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Steve-Schmidt.png
+D:\Ravi\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\TaskList_EnterAnOrderButton.png
+D:\Ravi\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Thumbs.db
+D:\Ravi\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\xray1.png
+D:\Ravi\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\xray2.png
+D:\Ravi\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\zoomMinus.png
+D:\Ravi\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\zoomPlus.png
+D:\Ravi\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\WaveformData.xml
+D:\Ravi\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Avalon Patient Monitoring.exe
+D:\Ravi\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Chart.dll
+D:\Ravi\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\ChartData.dll
+D:\Ravi\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\ChartRotator.dll
+D:\Ravi\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\ChartVisuals.dll
+D:\Ravi\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Flipper3DTransition.dll
+D:\Ravi\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\PatientHelper.dll
+D:\Ravi\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Rotater3DTransition.dll
+D:\Ravi\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Flipper3DTransition.pdb
+D:\Ravi\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\ChartData.pdb
+D:\Ravi\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Rotater3DTransition.pdb
+D:\Ravi\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\ChartVisuals.pdb
+D:\Ravi\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Chart.pdb
+D:\Ravi\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\ChartRotator.pdb
+D:\Ravi\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\PatientHelper.pdb
+D:\Ravi\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\PatientHelper.XmlSerializers.dll
+D:\Ravi\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\ResolveAssemblyReference.cache
+D:\Ravi\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\IdentityMineAboutDialogWindow.baml
+D:\Ravi\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\Resources\BrandingVisualsResourceDictionary.baml
+D:\Ravi\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\Resources\ButtonStyle.baml
+D:\Ravi\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\Resources\ChartsResourceDictionary.baml
+D:\Ravi\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\Resources\LogoResourceDictionary.baml
+D:\Ravi\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\Resources\PatientDetailExpanderDictionary.baml
+D:\Ravi\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\Resources\ScrollBarStyle.baml
+D:\Ravi\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\Resources\Shared.baml
+D:\Ravi\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\Resources\SliderStyle.baml
+D:\Ravi\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\Resources\StoryboardAnimationResourceDictionary.baml
+D:\Ravi\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\AppWindow.baml
+D:\Ravi\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\IdentityMineAboutDialogWindow.g.cs
+D:\Ravi\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\Resources\ButtonStyle.g.cs
+D:\Ravi\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\Resources\ScrollBarStyle.g.cs
+D:\Ravi\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\AppWindow.g.cs
+D:\Ravi\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\MyApp.g.cs
+D:\Ravi\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\Avalon Patient Monitoring_Content.g.cs
+D:\Ravi\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\Avalon Patient Monitoring_MarkupCompile.cache
+D:\Ravi\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\Avalon Patient Monitoring_MarkupCompile.lref
+D:\Ravi\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\MyApp.baml
+D:\Ravi\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\Resources\ControlStylesandTemplatesResourceDictionary.baml
+D:\Ravi\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\Resources\PatientRosterListResourceDictionary.baml
+D:\Ravi\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\Avalon Patient Monitoring.g.resources
+D:\Ravi\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\Avalon_Patient_Monitoring.Properties.Resources.resources
+D:\Ravi\DotNet_35\Simphany\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\Avalon Patient Monitoring.csproj.GenerateResource.Cache
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\Avalon Patient Monitoring.exe
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Documents\NephrolDialTransplant.xaml
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Avalon Patient Monitoring.exe.config
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Images\Andrew-Cencini.png
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Images\Anne-Wallace.png
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Images\Axel-Delgado.png
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Images\Brian-Cox,-MD.png
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Images\Chris-Gallagher.png
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Images\David-Probst.png
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Images\Dennis-Dehenne.png
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Images\dudepic.PNG
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Images\Esko-Sario,-MD.png
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Images\Eva-Valverde,-MD.png
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Images\Fred-Viidul.png
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Images\GracyOMalley.png
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Images\Grigory-Pogulsky.png
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Images\Jeff-Price.png
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Images\Jesper-Aaberg.png
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Images\Katie-Jordan,-MD.png
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Images\Kim-Abercrombie.png
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Images\Lene-Aaling.png
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Images\Molly-Dempsey.png
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Images\Nancy-Freehafer.png
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Images\Raffaella-Bonaldi.png
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Images\Shirleen-Travers,-MD.png
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Media\HeartUltrasound.wmv
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Resources\Media\Intro.wmv
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\XML\TestData.xml
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\XML\WLTestData.xml
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Andrew-Cencini.png
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Anne-Wallace.png
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Axel-Delgado.png
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\BariumSwallowFig2.png
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\BariumSwallowFig3.png
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Brian-Cox,-MD.png
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Chris-Gallagher.png
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\contoso.png
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\David-Probst.png
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Dennis-Dehenne.png
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\docviewerButtons.png
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\dudepic.PNG
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Esko-Sario,-MD.png
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Eva-Valverde,-MD.png
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Fred-Viidul.png
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\GracyOMalley.png
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Graph.png
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Graph_Button.png
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Graph_DateTime.png
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\gridchart.png
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Grigory-Pogulsky.png
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\icon.png
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\icon2.ico
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Jeff-Price.png
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Jesper-Aaberg.png
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Katie-Jordan,-MD.png
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Kim-Abercrombie.png
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Lene-Aaling.png
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\mediaShadow.png
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Media_PatientProtal.png
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Media_UltrasoundPortal.png
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Molly-Dempsey.png
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Nancy-Freehafer.png
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\pageDown.png
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\pageUp.png
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\PatientDetailBar_Bar.png
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\PatientDetailBar_Button.png
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\patientdetails.png
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\PatientDetail_PanelButton.png
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\people pics.psd
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Raffaella-Bonaldi.png
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Shirleen-Travers,-MD.png
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\squareShadow.png
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\SStatus_Graph.png
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\SStatus_TabControl.png
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Steve-Schmidt.png
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\TaskList_EnterAnOrderButton.png
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\Thumbs.db
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\xray1.png
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\xray2.png
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\zoomMinus.png
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Images\zoomPlus.png
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\WaveformData.xml
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Avalon Patient Monitoring.exe
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Chart.dll
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\ChartData.dll
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\ChartRotator.dll
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\ChartVisuals.dll
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Flipper3DTransition.dll
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\PatientHelper.dll
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Rotater3DTransition.dll
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Chart.pdb
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\ChartData.pdb
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\ChartRotator.pdb
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\ChartVisuals.pdb
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Flipper3DTransition.pdb
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Rotater3DTransition.pdb
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\PatientHelper.pdb
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\PatientHelper.XmlSerializers.dll
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\ResolveAssemblyReference.cache
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\IdentityMineAboutDialogWindow.baml
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\Resources\BrandingVisualsResourceDictionary.baml
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\Resources\ButtonStyle.baml
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\Resources\ChartsResourceDictionary.baml
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\Resources\LogoResourceDictionary.baml
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\Resources\PatientDetailExpanderDictionary.baml
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\Resources\ScrollBarStyle.baml
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\Resources\Shared.baml
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\Resources\SliderStyle.baml
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\Resources\StoryboardAnimationResourceDictionary.baml
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\AppWindow.baml
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\IdentityMineAboutDialogWindow.g.cs
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\Resources\ButtonStyle.g.cs
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\Resources\ScrollBarStyle.g.cs
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\AppWindow.g.cs
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\MyApp.g.cs
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\Avalon Patient Monitoring_Content.g.cs
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\Avalon Patient Monitoring_MarkupCompile.cache
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\Avalon Patient Monitoring_MarkupCompile.lref
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\MyApp.baml
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\Resources\ControlStylesandTemplatesResourceDictionary.baml
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\Resources\PatientRosterListResourceDictionary.baml
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\Avalon Patient Monitoring.g.resources
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\Avalon_Patient_Monitoring.Properties.Resources.resources
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\ResGen.read.1.tlog
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\ResGen.write.1.tlog
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\GenerateResource.read.1.tlog
+E:\Ravi\WPF\Solutions\WPF_WorkshopDemos\Day 1\1 Built Applications\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\GenerateResource.write.1.tlog
+E:\Ravi\WPF\Workshop\Demos\Day 1\1 Built Applications\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Avalon Patient Monitoring.exe.config
+E:\Ravi\WPF\Workshop\Demos\Day 1\1 Built Applications\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\Avalon Patient Monitoring.exe
+E:\RaviT\WPF_14\Workshop\Demos\Day 1\1 Built Applications\Healthcare_Prototype\sources\Avalon Patient Monitoring\bin\Release\Avalon Patient Monitoring.exe.config
+E:\RaviT\WPF_14\Workshop\Demos\Day 1\1 Built Applications\Healthcare_Prototype\sources\Avalon Patient Monitoring\obj\Release\Avalon Patient Monitoring.exe

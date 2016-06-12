@@ -1,0 +1,24 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Countries List</h2>
+<h3>Welcome to Home View access through index action</h3>
+<ol>
+    @foreach (string s in (List<string>)ViewData["countries"])
+    {
+        <li>@s</li>
+    }
+</ol>
+
+
+<ol>
+    <li>@ViewBag.CustomActionMessage1</li>
+    <li>@ViewBag.CustomActionMessage2</li>
+    <li>@ViewBag.CustomActionMessage3</li>
+    
+</ol>
+ 
+<h2>OutPutTest</h2>
+<h3>@ViewBag.Date</h3>

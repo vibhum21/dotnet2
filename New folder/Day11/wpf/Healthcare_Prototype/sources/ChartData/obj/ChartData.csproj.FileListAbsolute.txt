@@ -1,0 +1,5 @@
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\ChartData\bin\Release\ChartData.dll
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\ChartData\bin\Release\ChartData.pdb
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\ChartData\obj\Release\ResolveAssemblyReference.cache
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\ChartData\obj\Release\ChartData.dll
+E:\Prasadk_Mahesh\Healthcare_Prototype\sources\ChartData\obj\Release\ChartData.pdb

@@ -1,0 +1,25 @@
+.\bin\Debug\Rotater3DTransition.dll
+.\bin\Debug\Rotater3DTransition.pdb
+obj\Debug\ResolveAssemblyReference.cache
+C:\Users\karstenj\Desktop\Avalon Patient Monitoring\Avalon Patient Monitoring\Rotater3DTransition\obj\Debug\Rotater3DTransition.baml
+C:\Users\karstenj\Desktop\Avalon Patient Monitoring\Avalon Patient Monitoring\Rotater3DTransition\obj\Debug\Rotater3DTransition.g.cs
+C:\Users\karstenj\Desktop\Avalon Patient Monitoring\Avalon Patient Monitoring\Rotater3DTransition\obj\Debug\Rotater3DTransition_MarkupCompile.cache
+obj\Debug\Rotater3DTransition.g.resources
+obj\Debug\Rotater3DTransition.Properties.Resources.resources
+obj\Debug\Rotater3DTransition.csproj.GenerateResource.Cache
+obj\Debug\Rotater3DTransition.dll
+obj\Debug\Rotater3DTransition.pdb
+C:\demos\rc1\Allscripts Healthcare v2\Allscripts Healthcare v2\PatientMonitoring\sources\Rotater3DTransition\obj\Debug\Rotater3DTransition.baml
+C:\demos\rc1\Allscripts Healthcare v2\Allscripts Healthcare v2\PatientMonitoring\sources\Rotater3DTransition\obj\Debug\Rotater3DTransition.g.cs
+C:\demos\rc1\Allscripts Healthcare v2\Allscripts Healthcare v2\PatientMonitoring\sources\Rotater3DTransition\obj\Debug\Rotater3DTransition_MarkupCompile.cache
+.\bin\Release\Rotater3DTransition.dll
+.\bin\Release\Rotater3DTransition.pdb
+obj\Release\ResolveAssemblyReference.cache
+C:\demos\rc1\Allscripts Healthcare v2\Allscripts Healthcare v2\PatientMonitoring\sources\Rotater3DTransition\obj\Release\Rotater3DTransition.baml
+C:\demos\rc1\Allscripts Healthcare v2\Allscripts Healthcare v2\PatientMonitoring\sources\Rotater3DTransition\obj\Release\Rotater3DTransition.g.cs
+C:\demos\rc1\Allscripts Healthcare v2\Allscripts Healthcare v2\PatientMonitoring\sources\Rotater3DTransition\obj\Release\Rotater3DTransition_MarkupCompile.cache
+obj\Release\Rotater3DTransition.g.resources
+obj\Release\Rotater3DTransition.Properties.Resources.resources
+obj\Release\Rotater3DTransition.csproj.GenerateResource.Cache
+obj\Release\Rotater3DTransition.dll
+obj\Release\Rotater3DTransition.pdb
