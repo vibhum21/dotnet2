@@ -1,0 +1,5 @@
+E:\SunbeamCanvas\CommandLineArgumentsDemo\bin\Debug\CommandLineArgumentsDemo.exe.config
+E:\SunbeamCanvas\CommandLineArgumentsDemo\bin\Debug\CommandLineArgumentsDemo.exe
+E:\SunbeamCanvas\CommandLineArgumentsDemo\bin\Debug\CommandLineArgumentsDemo.pdb
+E:\SunbeamCanvas\CommandLineArgumentsDemo\obj\Debug\CommandLineArgumentsDemo.exe
+E:\SunbeamCanvas\CommandLineArgumentsDemo\obj\Debug\CommandLineArgumentsDemo.pdb

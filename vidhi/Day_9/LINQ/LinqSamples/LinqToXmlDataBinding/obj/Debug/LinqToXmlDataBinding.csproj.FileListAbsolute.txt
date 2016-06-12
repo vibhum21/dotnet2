@@ -1,0 +1,12 @@
+E:\try\Nitor_LINQ\CSharpSamples\LinqSamples\LinqToXmlDataBinding\bin\Debug\LinqToXmlDataBinding.exe
+E:\try\Nitor_LINQ\CSharpSamples\LinqSamples\LinqToXmlDataBinding\bin\Debug\LinqToXmlDataBinding.pdb
+E:\try\Nitor_LINQ\CSharpSamples\LinqSamples\LinqToXmlDataBinding\obj\Debug\Simple Styles.baml
+E:\try\Nitor_LINQ\CSharpSamples\LinqSamples\LinqToXmlDataBinding\obj\Debug\Window1.baml
+E:\try\Nitor_LINQ\CSharpSamples\LinqSamples\LinqToXmlDataBinding\obj\Debug\App.baml
+E:\try\Nitor_LINQ\CSharpSamples\LinqSamples\LinqToXmlDataBinding\obj\Debug\Window1.g.cs
+E:\try\Nitor_LINQ\CSharpSamples\LinqSamples\LinqToXmlDataBinding\obj\Debug\App.g.cs
+E:\try\Nitor_LINQ\CSharpSamples\LinqSamples\LinqToXmlDataBinding\obj\Debug\LinqToXmlDataBinding_Content.g.cs
+E:\try\Nitor_LINQ\CSharpSamples\LinqSamples\LinqToXmlDataBinding\obj\Debug\LinqToXmlDataBinding_MarkupCompile.cache
+E:\try\Nitor_LINQ\CSharpSamples\LinqSamples\LinqToXmlDataBinding\obj\Debug\LinqToXmlDataBinding.g.resources
+E:\try\Nitor_LINQ\CSharpSamples\LinqSamples\LinqToXmlDataBinding\obj\Debug\LinqToXmlDataBinding.exe
+E:\try\Nitor_LINQ\CSharpSamples\LinqSamples\LinqToXmlDataBinding\obj\Debug\LinqToXmlDataBinding.pdb

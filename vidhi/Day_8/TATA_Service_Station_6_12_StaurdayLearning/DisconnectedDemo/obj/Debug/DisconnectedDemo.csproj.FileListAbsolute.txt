@@ -1,0 +1,12 @@
+C:\Users\RaviT\Desktop\TATA_Service_Station_24_10_15\DisconnectedDemo\bin\Debug\DisconnectedDemo.exe.config
+C:\Users\RaviT\Desktop\TATA_Service_Station_24_10_15\DisconnectedDemo\bin\Debug\DisconnectedDemo.exe
+C:\Users\RaviT\Desktop\TATA_Service_Station_24_10_15\DisconnectedDemo\bin\Debug\DisconnectedDemo.pdb
+C:\Users\RaviT\Desktop\TATA_Service_Station_24_10_15\DisconnectedDemo\obj\Debug\DisconnectedDemo.csprojResolveAssemblyReference.cache
+C:\Users\RaviT\Desktop\TATA_Service_Station_24_10_15\DisconnectedDemo\obj\Debug\DisconnectedDemo.exe
+C:\Users\RaviT\Desktop\TATA_Service_Station_24_10_15\DisconnectedDemo\obj\Debug\DisconnectedDemo.pdb
+E:\Day7\TATA_Service_Station\DisconnectedDemo\bin\Debug\DisconnectedDemo.exe.config
+E:\Day7\TATA_Service_Station\DisconnectedDemo\obj\Debug\DisconnectedDemo.exe
+E:\Day7\TATA_Service_Station\DisconnectedDemo\obj\Debug\DisconnectedDemo.pdb
+C:\Users\user\Documents\SunBeam\DotNet\Day_8\TATA_Service_Station_6_12_StaurdayLearning\DisconnectedDemo\bin\Debug\DisconnectedDemo.exe.config
+C:\Users\user\Documents\SunBeam\DotNet\Day_8\TATA_Service_Station_6_12_StaurdayLearning\DisconnectedDemo\obj\Debug\DisconnectedDemo.exe
+C:\Users\user\Documents\SunBeam\DotNet\Day_8\TATA_Service_Station_6_12_StaurdayLearning\DisconnectedDemo\obj\Debug\DisconnectedDemo.pdb

@@ -1,0 +1,13 @@
+D:\Amitabh\Dot Net\Demos\Demos_2010\CSharpSamples\LinqSamples\ObjectDumper\bin\Debug\ObjectDumper.dll
+D:\Amitabh\Dot Net\Demos\Demos_2010\CSharpSamples\LinqSamples\ObjectDumper\bin\Debug\ObjectDumper.pdb
+D:\Amitabh\Dot Net\Demos\Demos_2010\CSharpSamples\LinqSamples\ObjectDumper\obj\Debug\ResolveAssemblyReference.cache
+D:\Amitabh\Dot Net\Demos\Demos_2010\CSharpSamples\LinqSamples\ObjectDumper\obj\Debug\ObjectDumper.dll
+D:\Amitabh\Dot Net\Demos\Demos_2010\CSharpSamples\LinqSamples\ObjectDumper\obj\Debug\ObjectDumper.pdb
+E:\RaviT\C#\Demos\Demos_2010\CSharpSamples\LinqSamples\ObjectDumper\bin\Debug\ObjectDumper.dll
+E:\RaviT\C#\Demos\Demos_2010\CSharpSamples\LinqSamples\ObjectDumper\bin\Debug\ObjectDumper.pdb
+E:\RaviT\C#\Demos\Demos_2010\CSharpSamples\LinqSamples\ObjectDumper\obj\Debug\ObjectDumper.dll
+E:\RaviT\C#\Demos\Demos_2010\CSharpSamples\LinqSamples\ObjectDumper\obj\Debug\ObjectDumper.pdb
+E:\try\Nitor_LINQ\CSharpSamples\LinqSamples\ObjectDumper\bin\Debug\ObjectDumper.dll
+E:\try\Nitor_LINQ\CSharpSamples\LinqSamples\ObjectDumper\bin\Debug\ObjectDumper.pdb
+E:\try\Nitor_LINQ\CSharpSamples\LinqSamples\ObjectDumper\obj\Debug\ObjectDumper.dll
+E:\try\Nitor_LINQ\CSharpSamples\LinqSamples\ObjectDumper\obj\Debug\ObjectDumper.pdb

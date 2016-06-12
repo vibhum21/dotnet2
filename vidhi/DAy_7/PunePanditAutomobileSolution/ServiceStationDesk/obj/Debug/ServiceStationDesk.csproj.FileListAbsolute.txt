@@ -1,0 +1,7 @@
+E:\PunePanditAutomobileSolution\ServiceStationDesk\bin\Debug\ServiceStationDesk.exe.config
+E:\PunePanditAutomobileSolution\ServiceStationDesk\bin\Debug\ServiceStationDesk.exe
+E:\PunePanditAutomobileSolution\ServiceStationDesk\bin\Debug\ServiceStationDesk.pdb
+E:\PunePanditAutomobileSolution\ServiceStationDesk\obj\Debug\ServiceStationDesk.Properties.Resources.resources
+E:\PunePanditAutomobileSolution\ServiceStationDesk\obj\Debug\ServiceStationDesk.csproj.GenerateResource.Cache
+E:\PunePanditAutomobileSolution\ServiceStationDesk\obj\Debug\ServiceStationDesk.exe
+E:\PunePanditAutomobileSolution\ServiceStationDesk\obj\Debug\ServiceStationDesk.pdb

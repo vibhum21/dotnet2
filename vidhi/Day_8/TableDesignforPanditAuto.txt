@@ -1,0 +1,53 @@
+
+TATA Service Station CaseStudy
+
+Tables				BOL		DAL
+1 Vehicles			Vehicle		VehicleDAL		
+	CustomerId  number
+	VehicleNumber varchar[10]
+	company VarChar[10]
+	Model	VarChar[10]
+
+2 Customers			Customer	CustomerDAL
+	CustomerId Number
+	name VarChar[10]
+	address VarChar[10]
+	mobile VarChar[10]
+	CreditAmount Money
+	
+3 Bills				Bill		BillsDAL
+	BillId
+	BillDate Date
+	Amount  Money	
+	AmountPaid Money
+	CustomerID
+
+	
+4 SpareParts
+	SparePartID Number
+	Name	VarChar[10]
+	Quantity Number
+	UnitPrice Money
+
+5Jobs
+	JobId
+	JobType
+	JobDescription
+	VehicleNumber
+	ServiceCharge
+	SparpartID
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,14 @@
+C:\Users\user\Documents\SunBeam\DotNet\Day_5\SunbeamCanvas4_12\GraphicsEditor\bin\Debug\GraphicsEditor.exe.config
+C:\Users\user\Documents\SunBeam\DotNet\Day_5\SunbeamCanvas4_12\GraphicsEditor\bin\Debug\GraphicsEditor.exe
+C:\Users\user\Documents\SunBeam\DotNet\Day_5\SunbeamCanvas4_12\GraphicsEditor\bin\Debug\GraphicsEditor.pdb
+C:\Users\user\Documents\SunBeam\DotNet\Day_5\SunbeamCanvas4_12\GraphicsEditor\bin\Debug\GraphicLib.dll
+C:\Users\user\Documents\SunBeam\DotNet\Day_5\SunbeamCanvas4_12\GraphicsEditor\bin\Debug\GraphicLib.pdb
+C:\Users\user\Documents\SunBeam\DotNet\Day_5\SunbeamCanvas4_12\GraphicsEditor\obj\Debug\GraphicsEditor.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\SunBeam\DotNet\Day_5\SunbeamCanvas4_12\GraphicsEditor\obj\Debug\GraphicsEditor.ChartForm.resources
+C:\Users\user\Documents\SunBeam\DotNet\Day_5\SunbeamCanvas4_12\GraphicsEditor\obj\Debug\GraphicsEditor.Form1.resources
+C:\Users\user\Documents\SunBeam\DotNet\Day_5\SunbeamCanvas4_12\GraphicsEditor\obj\Debug\GraphicsEditor.ListForm.resources
+C:\Users\user\Documents\SunBeam\DotNet\Day_5\SunbeamCanvas4_12\GraphicsEditor\obj\Debug\GraphicsEditor.MainFrame.resources
+C:\Users\user\Documents\SunBeam\DotNet\Day_5\SunbeamCanvas4_12\GraphicsEditor\obj\Debug\GraphicsEditor.Properties.Resources.resources
+C:\Users\user\Documents\SunBeam\DotNet\Day_5\SunbeamCanvas4_12\GraphicsEditor\obj\Debug\GraphicsEditor.csproj.GenerateResource.Cache
+C:\Users\user\Documents\SunBeam\DotNet\Day_5\SunbeamCanvas4_12\GraphicsEditor\obj\Debug\GraphicsEditor.exe
+C:\Users\user\Documents\SunBeam\DotNet\Day_5\SunbeamCanvas4_12\GraphicsEditor\obj\Debug\GraphicsEditor.pdb

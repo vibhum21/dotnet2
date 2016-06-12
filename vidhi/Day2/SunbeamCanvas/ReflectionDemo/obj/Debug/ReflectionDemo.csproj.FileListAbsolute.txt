@@ -1,0 +1,5 @@
+C:\Users\user\Documents\SunBeam\DotNet\Day2\SunbeamCanvas\ReflectionDemo\bin\Debug\ReflectionDemo.dll
+C:\Users\user\Documents\SunBeam\DotNet\Day2\SunbeamCanvas\ReflectionDemo\bin\Debug\ReflectionDemo.pdb
+C:\Users\user\Documents\SunBeam\DotNet\Day2\SunbeamCanvas\ReflectionDemo\obj\Debug\ReflectionDemo.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\SunBeam\DotNet\Day2\SunbeamCanvas\ReflectionDemo\obj\Debug\ReflectionDemo.dll
+C:\Users\user\Documents\SunBeam\DotNet\Day2\SunbeamCanvas\ReflectionDemo\obj\Debug\ReflectionDemo.pdb

@@ -1,0 +1,24 @@
+D:\Amitabh\Dot Net\Demos\Demos_2010\CSharpSamples\LinqSamples\LinqToNorthwind\bin\Debug\Northwind.exe.config
+D:\Amitabh\Dot Net\Demos\Demos_2010\CSharpSamples\LinqSamples\LinqToNorthwind\bin\Debug\Northwind.exe
+D:\Amitabh\Dot Net\Demos\Demos_2010\CSharpSamples\LinqSamples\LinqToNorthwind\bin\Debug\Northwind.pdb
+D:\Amitabh\Dot Net\Demos\Demos_2010\CSharpSamples\LinqSamples\LinqToNorthwind\bin\Debug\ObjectDumper.dll
+D:\Amitabh\Dot Net\Demos\Demos_2010\CSharpSamples\LinqSamples\LinqToNorthwind\bin\Debug\ObjectDumper.pdb
+D:\Amitabh\Dot Net\Demos\Demos_2010\CSharpSamples\LinqSamples\LinqToNorthwind\obj\Debug\ResolveAssemblyReference.cache
+D:\Amitabh\Dot Net\Demos\Demos_2010\CSharpSamples\LinqSamples\LinqToNorthwind\obj\Debug\Northwind.exe
+D:\Amitabh\Dot Net\Demos\Demos_2010\CSharpSamples\LinqSamples\LinqToNorthwind\obj\Debug\Northwind.pdb
+E:\RaviT\C#\Demos\Demos_2010\CSharpSamples\LinqSamples\LinqToNorthwind\bin\Debug\Northwind.exe.config
+E:\RaviT\C#\Demos\Demos_2010\CSharpSamples\LinqSamples\LinqToNorthwind\bin\Debug\Northwind.exe
+E:\RaviT\C#\Demos\Demos_2010\CSharpSamples\LinqSamples\LinqToNorthwind\bin\Debug\Northwind.pdb
+E:\RaviT\C#\Demos\Demos_2010\CSharpSamples\LinqSamples\LinqToNorthwind\bin\Debug\ObjectDumper.dll
+E:\RaviT\C#\Demos\Demos_2010\CSharpSamples\LinqSamples\LinqToNorthwind\bin\Debug\ObjectDumper.pdb
+E:\RaviT\C#\Demos\Demos_2010\CSharpSamples\LinqSamples\LinqToNorthwind\obj\Debug\LinqToNorthwind.csprojResolveAssemblyReference.cache
+E:\RaviT\C#\Demos\Demos_2010\CSharpSamples\LinqSamples\LinqToNorthwind\obj\Debug\Northwind.exe
+E:\RaviT\C#\Demos\Demos_2010\CSharpSamples\LinqSamples\LinqToNorthwind\obj\Debug\Northwind.pdb
+E:\try\Nitor_LINQ\CSharpSamples\LinqSamples\LinqToNorthwind\bin\Debug\Northwind.exe.config
+E:\try\Nitor_LINQ\CSharpSamples\LinqSamples\LinqToNorthwind\obj\Debug\Northwind.exe
+E:\try\Nitor_LINQ\CSharpSamples\LinqSamples\LinqToNorthwind\obj\Debug\Northwind.pdb
+E:\try\Nitor_LINQ\CSharpSamples\LinqSamples\LinqToNorthwind\bin\Debug\Northwind.exe
+E:\try\Nitor_LINQ\CSharpSamples\LinqSamples\LinqToNorthwind\bin\Debug\Northwind.pdb
+E:\try\Nitor_LINQ\CSharpSamples\LinqSamples\LinqToNorthwind\bin\Debug\ObjectDumper.dll
+E:\try\Nitor_LINQ\CSharpSamples\LinqSamples\LinqToNorthwind\bin\Debug\ObjectDumper.pdb
+E:\try\Nitor_LINQ\CSharpSamples\LinqSamples\LinqToNorthwind\obj\Debug\LinqToNorthwind.csprojResolveAssemblyReference.cache

@@ -1,0 +1,4 @@
+D:\demos\SolutionMyAmazon\eCommerceCL\bin\Debug\eCommerceCL.dll
+D:\demos\SolutionMyAmazon\eCommerceCL\bin\Debug\eCommerceCL.pdb
+D:\demos\SolutionMyAmazon\eCommerceCL\obj\Debug\eCommerceCL.dll
+D:\demos\SolutionMyAmazon\eCommerceCL\obj\Debug\eCommerceCL.pdb

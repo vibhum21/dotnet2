@@ -1,0 +1,4 @@
+E:\SunbeamCanvas\GraphicLib\bin\Debug\GraphicLib.dll
+E:\SunbeamCanvas\GraphicLib\bin\Debug\GraphicLib.pdb
+E:\SunbeamCanvas\GraphicLib\obj\Debug\GraphicLib.dll
+E:\SunbeamCanvas\GraphicLib\obj\Debug\GraphicLib.pdb

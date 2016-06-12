@@ -1,0 +1,57 @@
+Day 3
+Agenda:
+ C# Language Constructs
+ Object Oriented Programming through C#
+ Collection Framework
+__________________________________________________________________________________________________________________
+
+Tasks for Today
+
+1.Explore GAC folder to view Framework class Libaries.
+2.Explore folder C:/Windows/Microsoft.NET/Framework to view .NET framework resources.
+3.Edit Assembly Information of class Library GraphicsLib.dll using Project Properties with the help of Visual Studio .NET.
+4.Use Command Line tool ILDasm.exe to see content of class library GraphicsLib.dll
+5.View MISL code of functions through ILDasm tool.
+6.Write Console Application ReflectionDemo to test Reflection concept.
+7.Use Assembly class with static method LoadFile to get details about
+  GraphicsLib.dll.
+8.User Type, MethodInfo classes to see iterate types and methods of each 
+  class present in GraphicsLib.dll.
+9.Add a new Console Application CsharpKeyWordsDemo in Existing Solution SunbeamCanvas.
+10.Test const and readonly keyword using code shared in Notes.
+11.Test ref and Out keyword using source code shared in Notes.
+12.Test params keyword as shown in notes.
+13.Write a console application ConsoleDemo in existing solution SunbeamCanvas.
+14.Use command Line arguments and show number of argument passed through
+    command Line.
+15.Add a new console application OOPsDemo in sunbeamCanvas Solution.
+16.Add a new class Player in  OOPsDemo
+17.Add attributes Name, Score and JoinDate in Player.cs file.
+18.Add a new class Team in OOPsDemo
+19.Add array Players of type Player with 11 size in Team as private variable.
+20.Add Indexer in Team class.
+21.Create Object of Team in Program.cs file.
+22.Retrive player of a IndianTeam using index value or assign new Player using
+indxer in OOPsDemo.
+23.Add a new class Employee in OOPsDemo in Employee.cs
+24.Add EmployeeID, Department, JoinDate Properties with their respective private variables in Employee.cs
+425.Add a new CSharp file EmployeeHR.cs in OOPsDemo application.
+26.Add basicSalary, hra, da, tax datamemebers in Employee class in EmployeeHR.cs
+27. Define both Employee classes as Partial in respective files.
+28. Add a new class Person in OOPsDemo applciation with FirstName, LastName, BirthDate, Email properties.
+29. Derive Employee class from Person class.
+30. Add Default and Parameterised constructors and implement memberinitialized list using base keyword.
+31. Add a new class  Manager in OOPsDemo application.
+32. Derive Manager class from Employee
+33. Declare Manager class as Sealed in OOPsDemo application.
+34. Add incentive as  Attribute in Manager class.
+35. Override ToString method in each class: Person, Employee and Manager.
+36. Add ComputePay function  as virtual in Employee class with SalaryCalculation logic as per attributes of Employee class.
+37. Override ComputePay method in Manager class with total salary including incentive which will return float value.
+38. Create object of Manager class with refernce Person types.
+39. Test is keyword and as keyword in Program.cs class against Manager object.
+40. Add a new console application OperatorOverloadingdemo in SunbeamCanvas solution.
+41. Add a new Class Complex with real and Imag varialbles, and parameterised constructor.
+42. Overload operators + , -, * and / in complex class using static keyword.
+43. Write a Singleton class OfficeBoy  in new Console Application DemoSinglton in solution SunbeamCanvas.
+44. Test Jagged array in Program.cs file.

@@ -1,0 +1,9 @@
+D:\demos\SolutionMyAmazon\eCommerceBOL\bin\Debug\eCommerceBOL.dll
+D:\demos\SolutionMyAmazon\eCommerceBOL\bin\Debug\eCommerceBOL.pdb
+D:\demos\SolutionMyAmazon\eCommerceBOL\obj\Debug\eCommerceBOL.dll
+D:\demos\SolutionMyAmazon\eCommerceBOL\obj\Debug\eCommerceBOL.pdb
+D:\demos\SolutionMyAmazon\eCommerceBOL\obj\Debug\eCommerceBOL.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\SunBeam\DotNet\13_12_Branding\Branding\AmazonOnline\eCommerceBOL\bin\Debug\eCommerceBOL.dll
+C:\Users\user\Documents\SunBeam\DotNet\13_12_Branding\Branding\AmazonOnline\eCommerceBOL\bin\Debug\eCommerceBOL.pdb
+C:\Users\user\Documents\SunBeam\DotNet\13_12_Branding\Branding\AmazonOnline\eCommerceBOL\obj\Debug\eCommerceBOL.dll
+C:\Users\user\Documents\SunBeam\DotNet\13_12_Branding\Branding\AmazonOnline\eCommerceBOL\obj\Debug\eCommerceBOL.pdb

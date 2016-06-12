@@ -1,0 +1,67 @@
+D:\Amitabh\Dot Net\Demos\Demos_2010\CSharpSamples\LinqSamples\SampleQueries\bin\Debug\SampleQueries.exe
+D:\Amitabh\Dot Net\Demos\Demos_2010\CSharpSamples\LinqSamples\SampleQueries\bin\Debug\SampleQueries.pdb
+D:\Amitabh\Dot Net\Demos\Demos_2010\CSharpSamples\LinqSamples\SampleQueries\obj\Debug\ResolveAssemblyReference.cache
+D:\Amitabh\Dot Net\Demos\Demos_2010\CSharpSamples\LinqSamples\SampleQueries\obj\Debug\QuerySamples.Properties.Resources.resources
+D:\Amitabh\Dot Net\Demos\Demos_2010\CSharpSamples\LinqSamples\SampleQueries\obj\Debug\SampleSupport.SampleForm.resources
+D:\Amitabh\Dot Net\Demos\Demos_2010\CSharpSamples\LinqSamples\SampleQueries\obj\Debug\GenerateResource.read.1.tlog
+D:\Amitabh\Dot Net\Demos\Demos_2010\CSharpSamples\LinqSamples\SampleQueries\obj\Debug\GenerateResource.write.1.tlog
+D:\Amitabh\Dot Net\Demos\Demos_2010\CSharpSamples\LinqSamples\SampleQueries\obj\Debug\SampleQueries.exe
+D:\Amitabh\Dot Net\Demos\Demos_2010\CSharpSamples\LinqSamples\SampleQueries\obj\Debug\SampleQueries.pdb
+E:\RaviT\C#\Demos\Demos_2010\CSharpSamples\LinqSamples\SampleQueries\obj\Debug\SampleQueries.exe
+E:\RaviT\C#\Demos\Demos_2010\CSharpSamples\LinqSamples\SampleQueries\obj\Debug\SampleQueries.pdb
+E:\RaviT\C#\Demos\Demos_2010\CSharpSamples\LinqSamples\SampleQueries\bin\Debug\SampleQueries.exe
+E:\RaviT\C#\Demos\Demos_2010\CSharpSamples\LinqSamples\SampleQueries\bin\Debug\SampleQueries.pdb
+E:\RaviT\C#\Demos\Demos_2010\CSharpSamples\LinqSamples\SampleQueries\obj\Debug\SampleQueries.csprojResolveAssemblyReference.cache
+E:\RaviT\C#\Demos\Demos_2010\CSharpSamples\LinqSamples\SampleQueries\obj\Debug\QuerySamples.Properties.Resources.resources
+E:\RaviT\C#\Demos\Demos_2010\CSharpSamples\LinqSamples\SampleQueries\obj\Debug\SampleSupport.SampleForm.resources
+E:\RaviT\C#\Demos\Demos_2010\CSharpSamples\LinqSamples\SampleQueries\obj\Debug\SampleQueries.csproj.GenerateResource.Cache
+E:\try\Nitor_LINQ\CSharpSamples\LinqSamples\SampleQueries\obj\Debug\SampleQueries.exe
+E:\try\Nitor_LINQ\CSharpSamples\LinqSamples\SampleQueries\obj\Debug\SampleQueries.pdb
+E:\try\Nitor_LINQ\CSharpSamples\LinqSamples\SampleQueries\obj\Debug\SampleQueries.csprojResolveAssemblyReference.cache
+E:\try\Nitor_LINQ\CSharpSamples\LinqSamples\SampleQueries\obj\Debug\QuerySamples.Properties.Resources.resources
+E:\try\Nitor_LINQ\CSharpSamples\LinqSamples\SampleQueries\obj\Debug\SampleSupport.SampleForm.resources
+E:\try\Nitor_LINQ\CSharpSamples\LinqSamples\SampleQueries\obj\Debug\SampleQueries.csproj.GenerateResource.Cache
+E:\try\Nitor_LINQ\CSharpSamples\LinqSamples\SampleQueries\bin\Debug\SampleQueries.exe
+E:\try\Nitor_LINQ\CSharpSamples\LinqSamples\SampleQueries\bin\Debug\SampleQueries.pdb
+E:\Nitor_LINQ\Demos\LinqSamples\SampleQueries\obj\Debug\SampleQueries.exe
+E:\Nitor_LINQ\Demos\LinqSamples\SampleQueries\obj\Debug\SampleQueries.pdb
+E:\Nitor_LINQ\Demos\LinqSamples\SampleQueries\bin\Debug\SampleQueries.exe
+E:\Nitor_LINQ\Demos\LinqSamples\SampleQueries\bin\Debug\SampleQueries.pdb
+E:\Nitor_LINQ\Demos\LinqSamples\SampleQueries\obj\Debug\SampleQueries.csprojResolveAssemblyReference.cache
+E:\Nitor_LINQ\Demos\LinqSamples\SampleQueries\obj\Debug\QuerySamples.Properties.Resources.resources
+E:\Nitor_LINQ\Demos\LinqSamples\SampleQueries\obj\Debug\SampleSupport.SampleForm.resources
+E:\Nitor_LINQ\Demos\LinqSamples\SampleQueries\obj\Debug\SampleQueries.csproj.GenerateResource.Cache
+E:\RaviT\Sunbeam\Day_18\LinqSamples\SampleQueries\obj\Debug\SampleQueries.exe
+E:\RaviT\Sunbeam\Day_18\LinqSamples\SampleQueries\obj\Debug\SampleQueries.pdb
+E:\RaviT\Sunbeam\Day_18\LinqSamples\SampleQueries\bin\Debug\SampleQueries.exe
+E:\RaviT\Sunbeam\Day_18\LinqSamples\SampleQueries\bin\Debug\SampleQueries.pdb
+E:\RaviT\Sunbeam\Day_18\LinqSamples\SampleQueries\obj\Debug\SampleQueries.csprojResolveAssemblyReference.cache
+E:\RaviT\Sunbeam\Day_18\LinqSamples\SampleQueries\obj\Debug\QuerySamples.Properties.Resources.resources
+E:\RaviT\Sunbeam\Day_18\LinqSamples\SampleQueries\obj\Debug\SampleSupport.SampleForm.resources
+E:\RaviT\Sunbeam\Day_18\LinqSamples\SampleQueries\obj\Debug\SampleQueries.csproj.GenerateResource.Cache
+E:\RaviT\Sunbeam\Day_19\LINQ\LinqSamples\SampleQueries\obj\Debug\SampleQueries.exe
+E:\RaviT\Sunbeam\Day_19\LINQ\LinqSamples\SampleQueries\obj\Debug\SampleQueries.pdb
+E:\RaviT\Sunbeam_pune\Day_22\LINQ\LinqSamples\SampleQueries\obj\Debug\SampleQueries.exe
+E:\RaviT\Sunbeam_pune\Day_22\LINQ\LinqSamples\SampleQueries\obj\Debug\SampleQueries.pdb
+E:\RaviT\Sunbeam_pune\Day_22\LINQ\LinqSamples\SampleQueries\bin\Debug\SampleQueries.exe
+E:\RaviT\Sunbeam_pune\Day_22\LINQ\LinqSamples\SampleQueries\bin\Debug\SampleQueries.pdb
+E:\RaviT\Sunbeam_pune\Day_22\LINQ\LinqSamples\SampleQueries\obj\Debug\SampleQueries.csprojResolveAssemblyReference.cache
+E:\RaviT\Sunbeam_pune\Day_22\LINQ\LinqSamples\SampleQueries\obj\Debug\QuerySamples.Properties.Resources.resources
+E:\RaviT\Sunbeam_pune\Day_22\LINQ\LinqSamples\SampleQueries\obj\Debug\SampleSupport.SampleForm.resources
+E:\RaviT\Sunbeam_pune\Day_22\LINQ\LinqSamples\SampleQueries\obj\Debug\SampleQueries.csproj.GenerateResource.Cache
+E:\Day9\LINQ\LinqSamples\SampleQueries\obj\Debug\SampleQueries.exe
+E:\Day9\LINQ\LinqSamples\SampleQueries\obj\Debug\SampleQueries.pdb
+E:\Day9\LINQ\LinqSamples\SampleQueries\bin\Debug\SampleQueries.exe
+E:\Day9\LINQ\LinqSamples\SampleQueries\bin\Debug\SampleQueries.pdb
+E:\Day9\LINQ\LinqSamples\SampleQueries\obj\Debug\SampleQueries.csprojResolveAssemblyReference.cache
+E:\Day9\LINQ\LinqSamples\SampleQueries\obj\Debug\QuerySamples.Properties.Resources.resources
+E:\Day9\LINQ\LinqSamples\SampleQueries\obj\Debug\SampleSupport.SampleForm.resources
+E:\Day9\LINQ\LinqSamples\SampleQueries\obj\Debug\SampleQueries.csproj.GenerateResource.Cache
+C:\Users\user\Documents\SunBeam\DotNet\Day_9\LINQ\LinqSamples\SampleQueries\obj\Debug\SampleQueries.exe
+C:\Users\user\Documents\SunBeam\DotNet\Day_9\LINQ\LinqSamples\SampleQueries\obj\Debug\SampleQueries.pdb
+C:\Users\user\Documents\SunBeam\DotNet\Day_9\LINQ\LinqSamples\SampleQueries\bin\Debug\SampleQueries.exe
+C:\Users\user\Documents\SunBeam\DotNet\Day_9\LINQ\LinqSamples\SampleQueries\bin\Debug\SampleQueries.pdb
+C:\Users\user\Documents\SunBeam\DotNet\Day_9\LINQ\LinqSamples\SampleQueries\obj\Debug\SampleQueries.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\SunBeam\DotNet\Day_9\LINQ\LinqSamples\SampleQueries\obj\Debug\QuerySamples.Properties.Resources.resources
+C:\Users\user\Documents\SunBeam\DotNet\Day_9\LINQ\LinqSamples\SampleQueries\obj\Debug\SampleSupport.SampleForm.resources
+C:\Users\user\Documents\SunBeam\DotNet\Day_9\LINQ\LinqSamples\SampleQueries\obj\Debug\SampleQueries.csproj.GenerateResource.Cache

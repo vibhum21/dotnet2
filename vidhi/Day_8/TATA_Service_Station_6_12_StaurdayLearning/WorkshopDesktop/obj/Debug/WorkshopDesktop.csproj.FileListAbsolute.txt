@@ -1,0 +1,12 @@
+C:\Users\RaviT\Desktop\TATA_Service_Station_24_10_15\WorkshopDesktop\obj\Debug\WorkshopDesktop.csprojResolveAssemblyReference.cache
+C:\Users\RaviT\Desktop\TATA_Service_Station_24_10_15\WorkshopDesktop\obj\Debug\WorkshopDesktop.Properties.Resources.resources
+C:\Users\RaviT\Desktop\TATA_Service_Station_24_10_15\WorkshopDesktop\obj\Debug\WorkshopDesktop.csproj.GenerateResource.Cache
+C:\Users\RaviT\Desktop\TATA_Service_Station_24_10_15\WorkshopDesktop\bin\Debug\WorkshopDesktop.exe.config
+C:\Users\RaviT\Desktop\TATA_Service_Station_24_10_15\WorkshopDesktop\bin\Debug\WorkshopDesktop.exe
+C:\Users\RaviT\Desktop\TATA_Service_Station_24_10_15\WorkshopDesktop\bin\Debug\WorkshopDesktop.pdb
+C:\Users\RaviT\Desktop\TATA_Service_Station_24_10_15\WorkshopDesktop\bin\Debug\CRM.dll
+C:\Users\RaviT\Desktop\TATA_Service_Station_24_10_15\WorkshopDesktop\bin\Debug\CRM.pdb
+C:\Users\RaviT\Desktop\TATA_Service_Station_24_10_15\WorkshopDesktop\obj\Debug\WorkshopDesktop.CustomerForm.resources
+C:\Users\RaviT\Desktop\TATA_Service_Station_24_10_15\WorkshopDesktop\obj\Debug\WorkshopDesktop.exe
+C:\Users\RaviT\Desktop\TATA_Service_Station_24_10_15\WorkshopDesktop\obj\Debug\WorkshopDesktop.pdb
+C:\Users\RaviT\Desktop\TATA_Service_Station_24_10_15\WorkshopDesktop\obj\Debug\WorkshopDesktop.WorkerFormcs.resources

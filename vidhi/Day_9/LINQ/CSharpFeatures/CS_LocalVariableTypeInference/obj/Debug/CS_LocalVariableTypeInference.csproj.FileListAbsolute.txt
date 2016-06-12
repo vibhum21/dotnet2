@@ -1,0 +1,9 @@
+G:\DotNet35_TEchForge\Bangalore\CS30\CS30_NewFeatures\CS_LocalVariableTypeInference\bin\Debug\CS_LocalVariableTypeInference.exe
+G:\DotNet35_TEchForge\Bangalore\CS30\CS30_NewFeatures\CS_LocalVariableTypeInference\bin\Debug\CS_LocalVariableTypeInference.pdb
+G:\DotNet35_TEchForge\Bangalore\CS30\CS30_NewFeatures\CS_LocalVariableTypeInference\obj\Debug\ResolveAssemblyReference.cache
+G:\DotNet35_TEchForge\Bangalore\CS30\CS30_NewFeatures\CS_LocalVariableTypeInference\obj\Debug\CS_LocalVariableTypeInference.exe
+G:\DotNet35_TEchForge\Bangalore\CS30\CS30_NewFeatures\CS_LocalVariableTypeInference\obj\Debug\CS_LocalVariableTypeInference.pdb
+G:\MAhesh\DotNet35_TEchForge\Bangalore\CS30\CS30_NewFeatures\CS_LocalVariableTypeInference\obj\Debug\CS_LocalVariableTypeInference.exe
+G:\MAhesh\DotNet35_TEchForge\Bangalore\CS30\CS30_NewFeatures\CS_LocalVariableTypeInference\obj\Debug\CS_LocalVariableTypeInference.pdb
+D:\MAhesh\DotNet35_TEchForge\Bangalore\CS30\CS30_NewFeatures\CS_LocalVariableTypeInference\obj\Debug\CS_LocalVariableTypeInference.exe
+D:\MAhesh\DotNet35_TEchForge\Bangalore\CS30\CS30_NewFeatures\CS_LocalVariableTypeInference\obj\Debug\CS_LocalVariableTypeInference.pdb

@@ -1,0 +1,40 @@
+<%@ Master Language="C#" 
+    MasterPageFile="~/AdWorks.master" %>
+
+<script runat="server">
+
+</script>
+
+<asp:Content ID="SiteContentPlaceHolder1" ContentPlaceHolderID="SiteContentPlaceHolder"
+    runat="server">
+    <table cellpadding="0" cellspacing="0" width="100%" height="100%" border="0">
+        <tr>
+            <td class="LightBlueTable" width="180px" valign="top">
+                <div style="font-weight: bold;" class="BulletStyle">
+                    <asp:ContentPlaceHolder ID="MenuContentPlaceHolder" runat="server">
+                        <asp:HyperLink ID="HyperLink1" runat="server" NavigateUrl="~/default.aspx">
+        Home</asp:HyperLink><br />
+    <asp:HyperLink ID="HyperLink2" runat="server" NavigateUrl="~/hr.aspx">
+        HR</asp:HyperLink><br />
+    <asp:HyperLink ID="HyperLink3" runat="server" NavigateUrl="~/accounting.aspx">
+        Accounting</asp:HyperLink><br />
+    <asp:HyperLink ID="HyperLink4" runat="server" NavigateUrl="~/legal.aspx">
+        Legal</asp:HyperLink><br />
+    <asp:HyperLink ID="HyperLink5" runat="server" NavigateUrl="~/sales.aspx">
+        Sales</asp:HyperLink><br />
+    <asp:HyperLink ID="HyperLink6" runat="server" NavigateUrl="~/training.aspx">
+        Training</asp:HyperLink><br />
+    <asp:HyperLink ID="HyperLink7" runat="server" NavigateUrl="~/expenses.aspx">
+        Expenses</asp:HyperLink>
+                    </asp:ContentPlaceHolder>
+                </div>
+            </td>
+            <td valign="top">
+                <div class="EditorZoneBody">
+                    <asp:ContentPlaceHolder ID="PageContentPlaceHolder" runat="server">
+                    </asp:ContentPlaceHolder>
+                </div>
+            </td>
+        </tr>
+    </table>
+</asp:Content>

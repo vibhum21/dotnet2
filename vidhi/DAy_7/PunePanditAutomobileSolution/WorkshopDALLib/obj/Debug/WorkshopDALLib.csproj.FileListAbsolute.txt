@@ -1,0 +1,7 @@
+E:\PunePanditAutomobileSolution\WorkshopDALLib\bin\Debug\WorkshopDALLib.dll
+E:\PunePanditAutomobileSolution\WorkshopDALLib\bin\Debug\WorkshopDALLib.pdb
+E:\PunePanditAutomobileSolution\WorkshopDALLib\obj\Debug\WorkshopDALLib.csprojResolveAssemblyReference.cache
+E:\PunePanditAutomobileSolution\WorkshopDALLib\obj\Debug\WorkshopDALLib.dll
+E:\PunePanditAutomobileSolution\WorkshopDALLib\obj\Debug\WorkshopDALLib.pdb
+E:\PunePanditAutomobileSolution\WorkshopDALLib\bin\Debug\WorkshopBLLLib.dll
+E:\PunePanditAutomobileSolution\WorkshopDALLib\bin\Debug\WorkshopBLLLib.pdb

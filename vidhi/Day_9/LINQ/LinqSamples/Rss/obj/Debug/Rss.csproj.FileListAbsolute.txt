@@ -1,0 +1,15 @@
+D:\Amitabh\Dot Net\Demos\Demos_2010\CSharpSamples\LinqSamples\Rss\bin\Debug\Rss.exe
+D:\Amitabh\Dot Net\Demos\Demos_2010\CSharpSamples\LinqSamples\Rss\bin\Debug\Rss.pdb
+D:\Amitabh\Dot Net\Demos\Demos_2010\CSharpSamples\LinqSamples\Rss\obj\Debug\ResolveAssemblyReference.cache
+D:\Amitabh\Dot Net\Demos\Demos_2010\CSharpSamples\LinqSamples\Rss\obj\Debug\Rss.exe
+D:\Amitabh\Dot Net\Demos\Demos_2010\CSharpSamples\LinqSamples\Rss\obj\Debug\Rss.pdb
+E:\RaviT\C#\Demos\Demos_2010\CSharpSamples\LinqSamples\Rss\bin\Debug\Rss.exe
+E:\RaviT\C#\Demos\Demos_2010\CSharpSamples\LinqSamples\Rss\bin\Debug\Rss.pdb
+E:\RaviT\C#\Demos\Demos_2010\CSharpSamples\LinqSamples\Rss\obj\Debug\Rss.csprojResolveAssemblyReference.cache
+E:\RaviT\C#\Demos\Demos_2010\CSharpSamples\LinqSamples\Rss\obj\Debug\Rss.exe
+E:\RaviT\C#\Demos\Demos_2010\CSharpSamples\LinqSamples\Rss\obj\Debug\Rss.pdb
+E:\try\Nitor_LINQ\CSharpSamples\LinqSamples\Rss\obj\Debug\Rss.exe
+E:\try\Nitor_LINQ\CSharpSamples\LinqSamples\Rss\obj\Debug\Rss.pdb
+E:\try\Nitor_LINQ\CSharpSamples\LinqSamples\Rss\bin\Debug\Rss.exe
+E:\try\Nitor_LINQ\CSharpSamples\LinqSamples\Rss\bin\Debug\Rss.pdb
+E:\try\Nitor_LINQ\CSharpSamples\LinqSamples\Rss\obj\Debug\Rss.csprojResolveAssemblyReference.cache

@@ -1,0 +1,14 @@
+D:\demos\SolutionMyAmazon\eCommerceDAL\bin\Debug\eCommerceDAL.dll
+D:\demos\SolutionMyAmazon\eCommerceDAL\bin\Debug\eCommerceDAL.pdb
+D:\demos\SolutionMyAmazon\eCommerceDAL\bin\Debug\eCommerceBOL.dll
+D:\demos\SolutionMyAmazon\eCommerceDAL\bin\Debug\eCommerceBOL.pdb
+D:\demos\SolutionMyAmazon\eCommerceDAL\obj\Debug\eCommerceDAL.csprojResolveAssemblyReference.cache
+D:\demos\SolutionMyAmazon\eCommerceDAL\obj\Debug\eCommerceDAL.dll
+D:\demos\SolutionMyAmazon\eCommerceDAL\obj\Debug\eCommerceDAL.pdb
+C:\Users\user\Documents\SunBeam\DotNet\13_12_Branding\Branding\AmazonOnline\eCommerceDAL\bin\Debug\eCommerceDAL.dll
+C:\Users\user\Documents\SunBeam\DotNet\13_12_Branding\Branding\AmazonOnline\eCommerceDAL\bin\Debug\eCommerceDAL.pdb
+C:\Users\user\Documents\SunBeam\DotNet\13_12_Branding\Branding\AmazonOnline\eCommerceDAL\bin\Debug\eCommerceBOL.dll
+C:\Users\user\Documents\SunBeam\DotNet\13_12_Branding\Branding\AmazonOnline\eCommerceDAL\bin\Debug\eCommerceBOL.pdb
+C:\Users\user\Documents\SunBeam\DotNet\13_12_Branding\Branding\AmazonOnline\eCommerceDAL\obj\Debug\eCommerceDAL.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\SunBeam\DotNet\13_12_Branding\Branding\AmazonOnline\eCommerceDAL\obj\Debug\eCommerceDAL.dll
+C:\Users\user\Documents\SunBeam\DotNet\13_12_Branding\Branding\AmazonOnline\eCommerceDAL\obj\Debug\eCommerceDAL.pdb

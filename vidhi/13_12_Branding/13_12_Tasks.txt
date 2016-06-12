@@ -1,0 +1,25 @@
+Task for 13_12_2015 Branding
+
+___________________________________________________________________________
+1.Create a blank solution SunbeamEcommerce
+2.Add  new Website SunbeamEstore in SunbeamEcommerce.
+3.Add App_Data folder, App_Code Folder, Themes Folder in SunbeamEStore Website.
+4.Import ECommerce Data base into App_Data folder.
+5.Copy eCommBOL , eCommerceCL, eCommerceDAL  class Library Projects into solution SunbeamEcommerce.
+6.Add above mentioned existing Projects into SunbeamEcommerce solution.
+7.Add site.master file in SunbeamEstore website.
+8.design layout similar Like Amazon Website using site.master page.
+9.Add default.aspx, details.aspx, aboutus.aspx, contactus.aspx, register.aspx, login.aspx , changePassword.aspx using site.master page.
+10.Add a new user control ClaimIdentifier.ascx which will have logic for validating user using login button.
+11.Add Credentialcontext class with Authenticate instance method which would return status of validation (true/ false).
+12.Design DataEntry  screen in register.aspx which would register User
+   with the help of appropriate ValidationControls.
+13.Add two master pages siteBlue.master and siteGreen.master in SunbeamEstore.
+14.Change master page based on QuerySTring set while calling register.aspx such as 
+http://localhost:8080/SunbeamEstore/register.aspx?color=blue.
+
+14.Add BasicBlue and SilverGold Themes in Themes folder.
+15.Set different skin files in respective themes for label and Calender controls.
+16.EnableTheming  for register.aspx.
+17. Explore ValidationControls.aspx file to understand Validation controls to be used.
+18.Implement RequiredFieldValidator, Range Validator, ExpressionValidators, Custom Validator, compareValidators in register.aspx.

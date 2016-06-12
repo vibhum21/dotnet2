@@ -1,0 +1,8 @@
+E:\SunbeamCanvas\DemoProblemWithCollection\bin\Debug\DemoProblemWithCollection.exe.config
+E:\SunbeamCanvas\DemoProblemWithCollection\bin\Debug\DemoProblemWithCollection.exe
+E:\SunbeamCanvas\DemoProblemWithCollection\bin\Debug\DemoProblemWithCollection.pdb
+E:\SunbeamCanvas\DemoProblemWithCollection\obj\Debug\DemoProblemWithCollection.exe
+E:\SunbeamCanvas\DemoProblemWithCollection\obj\Debug\DemoProblemWithCollection.pdb
+C:\Users\user\Documents\SunBeam\DotNet\Day_5\SunbeamCanvas4_12\DemoProblemWithCollection\bin\Debug\DemoProblemWithCollection.exe.config
+C:\Users\user\Documents\SunBeam\DotNet\Day_5\SunbeamCanvas4_12\DemoProblemWithCollection\obj\Debug\DemoProblemWithCollection.exe
+C:\Users\user\Documents\SunBeam\DotNet\Day_5\SunbeamCanvas4_12\DemoProblemWithCollection\obj\Debug\DemoProblemWithCollection.pdb

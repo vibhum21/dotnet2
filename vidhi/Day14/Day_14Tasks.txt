@@ -1,0 +1,60 @@
+Day 14:
+Revision
+Master Pages
+	Basics of Brading
+	.master, ContentPlaceHolder Content
+	@Directives
+	Nested Master Pages
+	Programmatically Master pages
+		Pre_Init 
+			using QueryString
+			using session Data
+			using User Profile
+			based on Localization		
+	User Controls
+			(.ascx)
+	APP_Data----------------mdf,
+				.XML files
+				txt files
+				.csv
+				.mdb
+	APP_Code
+	Themes
+Themes
+ASP.NET basics of Server Controls
+
+Agenda:
+
+1.ASP.NET Server Controls
+2.Tracing
+3.DataBinding
+4.Datasource Controls
+5.Localization   pending topic
+
+______________________________________________________________________________
+Tasks for today
+
+1.Implement Validation Controls in register.apsx, Changepassword.aspx
+  using appropriate validation Controls.
+2.Enable Tracing at page Level in register.apsx
+3.Use Trace.Write and Trace.Warn methods to dump Trace output of Website.
+4.Explore Event Log entry and sending email programmatically in given demo code.
+5.Explore DataBinding Expression using Databinding1.aspx  to DataBinding4.aspx
+  in given demo project.
+6.Add ProductCatalog.aspx web form in SunbeamEStore Web site.
+7.Add DropDownListBox to show Categories and ListBox to show Products from
+  ECommerce Database kept in App_Data folder.
+8.Build Master Detail relationship between Categories and Products.
+9.Add ProductDetails.aspx web for in SunbeamEStore Web site.
+10.Add DetailsView controls in productDetails.aspx form
+11.User SqlDataSource Controls to fetch proudct information sent using QuerySTring from productCatalog.aspx form.
+
+
+
+
+
+
+
+
+
+

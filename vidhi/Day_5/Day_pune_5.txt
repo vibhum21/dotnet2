@@ -1,0 +1,80 @@
+
+Day 5 : Agenda
+
+	Windowsbased Applications
+		Winforms Object Model
+		WPF Object Model
+	2005------.NET Framework 3.5
+		WinFx (Windows Foundation)
+		Presentation ------UI--------WPF
+		Communication----- SOA-------WCF	
+		Business Process--workflows--WF
+		Authentication--  Identity---WIF
+ 		Authorization--
+
+	Enterprise Applications
+	  Windows based
+	   SDI Applications
+	     Single Document Interface Applications
+ 	   MDI Applications
+	     Multiple Document Interface Applications
+		Web based ---------ASP.NET Webbased
+			  ---------ASP.NET MVC
+    	 Mobility appliction
+	   --------Mobile App Development
+
+Collection Framework
+
+.NET Framework Internals
+
+
+Task for Today
+
+1.Add new console applicaton GenericsDemo in sunbeamCanvas Solution.
+2.Test each System.Collection classes mentioned in notes
+  such as ArrayList, Stack, Queue, HashTable
+3.Add Team class which implements ICollection interface.
+4.Add class Player with IComparable interface. Please reuse 
+  the logic of Player class which you have written in previous
+  tasks.
+5.Use Generic Lists , Queue, Stack examples listed in notes and test with their functionality.
+6.Add a new console Application TestCustomGenerics in sunbeamCanvas solution.
+7.Add Generic function Swap in program.cs file and test in Main Program.
+8.Write a Generic Point Structure in Point.cs file in TestCustomGenerics solution.
+9.Add a new Form MainFrame in GraphicsEditor Windowsbased Application of SunbeamCanvas solution.
+10.Set IsMDIParent property of MainFrame form in GraphicsEditor.
+11.Replace Form1 object Creation by MainFrame object creation
+in Application.Run () method inside Program.cs file of GraphicsEditor Application.
+12.Add MenuStrip to MainFrame Form.
+13.Add Standard Menu items to MenuStrip using PopertyWindow.
+14.Add View Menu with submenuItems such as Line, Rectangle,
+   Ellipse.
+15.Add Shapes ArrayList in MainFrame.cs as member variable 
+   with Properties.
+16.Add OptionShape flad as memeber variable with propertis
+   in MainFrame.cs file
+17.Add new Forms GridForm, ChartForm in GraphicsEditor Application.
+18.Show Gridform and charForm and Form1 on Menu Navigation of 
+MainFrame form
+19.Establish Child Parent relationship with MainFrame using 
+MDIParent Property of each child form mentioned above.
+20.Shift the logic of Serialization and Deserialization to MainFrame.cs with repective menuItem event handler registration.
+21.Add ListView in GridForm.cs file and dock to Center.
+22.Add Chart control and dock to ChartForm.cs file centrally.
+23.Write a logic of Adding Items in ListView and updating Graph in Chart control based on Shapes drawn using Form1.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,19 @@
+D:\Amitabh\Dot Net\Demos\Demos_2010\CSharpSamples\LinqSamples\PasteXmlAsLinq\bin\Debug\PasteXmlAsLinq.AddIn
+D:\Amitabh\Dot Net\Demos\Demos_2010\CSharpSamples\LinqSamples\PasteXmlAsLinq\bin\Debug\PasteXmlAsLinq.dll
+D:\Amitabh\Dot Net\Demos\Demos_2010\CSharpSamples\LinqSamples\PasteXmlAsLinq\bin\Debug\PasteXmlAsLinq.pdb
+D:\Amitabh\Dot Net\Demos\Demos_2010\CSharpSamples\LinqSamples\PasteXmlAsLinq\obj\Debug\ResolveAssemblyReference.cache
+D:\Amitabh\Dot Net\Demos\Demos_2010\CSharpSamples\LinqSamples\PasteXmlAsLinq\obj\Debug\PasteXmlAsLinq.csproj.ResolveComReference.cache
+D:\Amitabh\Dot Net\Demos\Demos_2010\CSharpSamples\LinqSamples\PasteXmlAsLinq\obj\Debug\PasteXmlAsLinq.CommandBar.resources
+D:\Amitabh\Dot Net\Demos\Demos_2010\CSharpSamples\LinqSamples\PasteXmlAsLinq\obj\Debug\GenerateResource.read.1.tlog
+D:\Amitabh\Dot Net\Demos\Demos_2010\CSharpSamples\LinqSamples\PasteXmlAsLinq\obj\Debug\GenerateResource.write.1.tlog
+D:\Amitabh\Dot Net\Demos\Demos_2010\CSharpSamples\LinqSamples\PasteXmlAsLinq\obj\Debug\PasteXmlAsLinq.dll
+D:\Amitabh\Dot Net\Demos\Demos_2010\CSharpSamples\LinqSamples\PasteXmlAsLinq\obj\Debug\PasteXmlAsLinq.pdb
+E:\RaviT\C#\Demos\Demos_2010\CSharpSamples\LinqSamples\PasteXmlAsLinq\bin\Debug\PasteXmlAsLinq.AddIn
+E:\RaviT\C#\Demos\Demos_2010\CSharpSamples\LinqSamples\PasteXmlAsLinq\bin\Debug\PasteXmlAsLinq.dll
+E:\RaviT\C#\Demos\Demos_2010\CSharpSamples\LinqSamples\PasteXmlAsLinq\bin\Debug\PasteXmlAsLinq.pdb
+E:\RaviT\C#\Demos\Demos_2010\CSharpSamples\LinqSamples\PasteXmlAsLinq\obj\Debug\PasteXmlAsLinq.csprojResolveAssemblyReference.cache
+E:\RaviT\C#\Demos\Demos_2010\CSharpSamples\LinqSamples\PasteXmlAsLinq\obj\Debug\PasteXmlAsLinq.csproj.ResolveComReference.cache
+E:\RaviT\C#\Demos\Demos_2010\CSharpSamples\LinqSamples\PasteXmlAsLinq\obj\Debug\PasteXmlAsLinq.CommandBar.resources
+E:\RaviT\C#\Demos\Demos_2010\CSharpSamples\LinqSamples\PasteXmlAsLinq\obj\Debug\PasteXmlAsLinq.csproj.GenerateResource.Cache
+E:\RaviT\C#\Demos\Demos_2010\CSharpSamples\LinqSamples\PasteXmlAsLinq\obj\Debug\PasteXmlAsLinq.dll
+E:\RaviT\C#\Demos\Demos_2010\CSharpSamples\LinqSamples\PasteXmlAsLinq\obj\Debug\PasteXmlAsLinq.pdb

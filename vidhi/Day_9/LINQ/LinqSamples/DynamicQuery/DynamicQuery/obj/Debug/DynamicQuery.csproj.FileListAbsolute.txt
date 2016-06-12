@@ -1,0 +1,20 @@
+D:\Amitabh\Dot Net\Demos\Demos_2010\CSharpSamples\LinqSamples\DynamicQuery\DynamicQuery\bin\Debug\Dynamic.exe
+D:\Amitabh\Dot Net\Demos\Demos_2010\CSharpSamples\LinqSamples\DynamicQuery\DynamicQuery\bin\Debug\Dynamic.pdb
+D:\Amitabh\Dot Net\Demos\Demos_2010\CSharpSamples\LinqSamples\DynamicQuery\DynamicQuery\bin\Debug\NorthwindMapping.dll
+D:\Amitabh\Dot Net\Demos\Demos_2010\CSharpSamples\LinqSamples\DynamicQuery\DynamicQuery\bin\Debug\NorthwindMapping.pdb
+D:\Amitabh\Dot Net\Demos\Demos_2010\CSharpSamples\LinqSamples\DynamicQuery\DynamicQuery\obj\Debug\ResolveAssemblyReference.cache
+D:\Amitabh\Dot Net\Demos\Demos_2010\CSharpSamples\LinqSamples\DynamicQuery\DynamicQuery\obj\Debug\Dynamic.exe
+D:\Amitabh\Dot Net\Demos\Demos_2010\CSharpSamples\LinqSamples\DynamicQuery\DynamicQuery\obj\Debug\Dynamic.pdb
+E:\RaviT\C#\Demos\Demos_2010\CSharpSamples\LinqSamples\DynamicQuery\DynamicQuery\bin\Debug\Dynamic.exe
+E:\RaviT\C#\Demos\Demos_2010\CSharpSamples\LinqSamples\DynamicQuery\DynamicQuery\bin\Debug\Dynamic.pdb
+E:\RaviT\C#\Demos\Demos_2010\CSharpSamples\LinqSamples\DynamicQuery\DynamicQuery\bin\Debug\NorthwindMapping.dll
+E:\RaviT\C#\Demos\Demos_2010\CSharpSamples\LinqSamples\DynamicQuery\DynamicQuery\bin\Debug\NorthwindMapping.pdb
+E:\RaviT\C#\Demos\Demos_2010\CSharpSamples\LinqSamples\DynamicQuery\DynamicQuery\obj\Debug\Dynamic.exe
+E:\RaviT\C#\Demos\Demos_2010\CSharpSamples\LinqSamples\DynamicQuery\DynamicQuery\obj\Debug\Dynamic.pdb
+E:\try\Nitor_LINQ\CSharpSamples\LinqSamples\DynamicQuery\DynamicQuery\obj\Debug\Dynamic.exe
+E:\try\Nitor_LINQ\CSharpSamples\LinqSamples\DynamicQuery\DynamicQuery\obj\Debug\Dynamic.pdb
+E:\try\Nitor_LINQ\CSharpSamples\LinqSamples\DynamicQuery\DynamicQuery\bin\Debug\Dynamic.exe
+E:\try\Nitor_LINQ\CSharpSamples\LinqSamples\DynamicQuery\DynamicQuery\bin\Debug\Dynamic.pdb
+E:\try\Nitor_LINQ\CSharpSamples\LinqSamples\DynamicQuery\DynamicQuery\bin\Debug\NorthwindMapping.dll
+E:\try\Nitor_LINQ\CSharpSamples\LinqSamples\DynamicQuery\DynamicQuery\bin\Debug\NorthwindMapping.pdb
+E:\try\Nitor_LINQ\CSharpSamples\LinqSamples\DynamicQuery\DynamicQuery\obj\Debug\DynamicQuery.csprojResolveAssemblyReference.cache

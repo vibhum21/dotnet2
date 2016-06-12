@@ -1,0 +1,5 @@
+E:\SunbeamCanvas\DemoPartial\bin\Debug\DemoPartial.exe.config
+E:\SunbeamCanvas\DemoPartial\bin\Debug\DemoPartial.exe
+E:\SunbeamCanvas\DemoPartial\bin\Debug\DemoPartial.pdb
+E:\SunbeamCanvas\DemoPartial\obj\Debug\DemoPartial.exe
+E:\SunbeamCanvas\DemoPartial\obj\Debug\DemoPartial.pdb

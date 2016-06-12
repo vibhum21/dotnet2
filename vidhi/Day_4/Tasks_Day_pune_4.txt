@@ -1,0 +1,36 @@
+Tasks for Today
+______________________________________________________________________________
+
+1.Open Solution SunbeamCanvas in Visual Studio.net 2013.
+2.Add Menustrip in Form1 class of Grahics Editor project.
+3.Add Standard Menuitems to the menuStrip added to form.
+4.Add sub Menu Shape with Line, Rectangle, Eillipse to the menustrip.
+5.Change name property of each menuitem added to menuStrip.
+6.Add Click Event handler for Open, SaveAs, Line, Rectangle, Eillipse of menuItem using 
+  property window of project Graphics Editor project.
+7. Write a logic to set optionShape with value in each menueventHandler of Line, Rectangle and Ellipse.
+8.Add logic of Creating different Shape Object based on option selected through menuItem in MouseUp Event.
+9.Add ArrayList Shapes as memeber Variable to Form1. cs file.
+10.Add Paint Event Handler to Form1.cs class.
+11.Write a logic to redraw all Shapes stored in shapes arrayList in Graphics Editor.
+12.Write a logic in FileOpenMenuItems and FileSaveasMenuItem for Serialization and Deserialization of Shapes using BinaryFormatter in Form1.cs file.
+13.Declare each Shape class in GraphicsLib library as [Serializable].
+14.Test Serialization working successfully.
+15.Add a console Application ExplicitInterFacedemo in SunbeamCanvas Application.
+16.Add two new interfaces IPersonalDetails , IHRDetails with ShowDetails method.
+17.Add a new class Employee with firstName, LastName, email, birthdate as personal info  using member variables and properties.
+18.Implement both interfaces in Employee classes with respective implementation of ShowDetails methods.
+19.Create Object of Employee class in Program.cs file of ExplicitInterFacedemo.
+20.Invoke ShowDetails method using IHRDetails interface and IPersonalDetails interface.
+21.Add a new console application CentralGovernment in SunbeamCanvas solution.
+22.Add Account.cs file with Balance property, Withdraw and Deposit method.
+23.Create object of Account class in Main function of CentralGovernment.
+24.Invoke withdraw and Deposite methods of Account class against instance of Account class program.cs file.
+25.Add a delegate TaxOperation in Program.cs file
+26.Add PayInomeTax, PayServiceTax, PayTDS, PayLBT instance methods to CentralGovertment class.
+27.Create Delegate object with registered functions memtioned above.
+28.Test Multicast behaviour (Cascaded effect) of Delegate using += and -+ operators.
+29.Add two Events OverBalance and UnderBalance in Account class.
+30.Add conditions to Withdraw and Deposit methods of Account class to raise events.
+31.Create object of account  class in Main function and register eventhandlers such as PayIncomeTax, PayTDS,etc with OverBalance events of Account object.
+32.Test Event handling mechanism of Account class using Deposite method in Main function.

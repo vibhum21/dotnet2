@@ -1,0 +1,76 @@
+<%@ Master %>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<script runat="server">
+
+</script>
+
+<html>
+<head runat="server">
+    <title>Adventure Works Intranet Portal</title>
+    <link type="text/css" rel="stylesheet" href="StyleSheet.css">
+    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+</head>
+<body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+    <form id="form1" runat="server">
+        <table width="100%" height="100%" border="0" cellpadding="0" cellspacing="0">
+            <tr height="1%">
+                <td colspan="2">
+                    <!-- Row One -->
+                    <table width="100%" height="100%" border="0" cellpadding="0" cellspacing="0">
+                        <tr class="BannerFrame">
+                            <td class="BannerCell">
+                                <asp:HyperLink ID="HyperLink1" runat="server" NavigateUrl="~/default.aspx">
+                                Home</asp:HyperLink>
+                                |
+                                <asp:HyperLink ID="HyperLink2" runat="server" NavigateUrl="~/hr.aspx">
+                                HR</asp:HyperLink>
+                                |
+                                <asp:HyperLink ID="HyperLink3" runat="server" NavigateUrl="~/accounting.aspx">
+                                Acounting</asp:HyperLink>
+                                |
+                                <asp:HyperLink ID="HyperLink4" runat="server" NavigateUrl="~/legal.aspx">
+                                Legal</asp:HyperLink>
+                                |
+                                <asp:HyperLink ID="HyperLink5" runat="server" NavigateUrl="~/sales.aspx">
+                                Sales</asp:HyperLink>
+                                |
+                                <asp:HyperLink ID="HyperLink6" runat="server" NavigateUrl="~/training.aspx">
+                                Training</asp:HyperLink>
+                                |
+                                <asp:HyperLink ID="HyperLink7" runat="server" NavigateUrl="~/expenses.aspx">
+                                Expenses</asp:HyperLink>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+            <tr class="HeaderFrame" height="3px">
+                <!-- Row Two -->
+                <td colspan="2" style="height: 3px">
+                    <asp:Image ID="Image1" runat="server" Height="3px" Width="100%" ImageUrl="~/Images/yellow.GIF" /></td>
+            </tr>
+            <tr height="49px">
+                <!-- Row Three -->
+                <td>
+                    <asp:HyperLink ID="HyperLink8" runat="Server" NavigateUrl="~/default.aspx"><asp:Image ID="Image2" Runat="server" Width="49px" ImageUrl="~/Images/home.GIF" /></asp:HyperLink></td>
+                <td width="99%" class="HeaderCell" nowrap>
+                    <font color="#000000">Adventure Works</font><br />
+                    <span align="left" class="HeaderTitle">Home</span></td>
+            </tr>
+            <tr class="HeaderFrame" height="1px">
+                <!-- Row Four -->
+                <td colspan="2" style="height: 1px">
+                    <asp:Image ID="Image3" runat="server" Height="1px" Width="100%" ImageUrl="~/Images/yellow.GIF" /></td>
+            </tr>
+            <tr height="99%">
+                <!-- Row Five -->
+                <td colspan="2" valign="top">
+                    <asp:ContentPlaceHolder ID="SiteContentPlaceHolder" runat="server">
+                    </asp:ContentPlaceHolder>
+                </td>
+            </tr>
+        </table>
+    </form>
+</body>
+</html>

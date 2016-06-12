@@ -1,0 +1,4 @@
+E:\PunePanditAutomobileSolution\WorkshopBLL\bin\Debug\WorkshopBLLLib.dll
+E:\PunePanditAutomobileSolution\WorkshopBLL\bin\Debug\WorkshopBLLLib.pdb
+E:\PunePanditAutomobileSolution\WorkshopBLL\obj\Debug\WorkshopBLLLib.dll
+E:\PunePanditAutomobileSolution\WorkshopBLL\obj\Debug\WorkshopBLLLib.pdb

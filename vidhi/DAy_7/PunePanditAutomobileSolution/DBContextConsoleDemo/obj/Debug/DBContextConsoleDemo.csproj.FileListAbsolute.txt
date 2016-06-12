@@ -1,0 +1,12 @@
+E:\PunePanditAutomobileSolution\DBContextConsoleDemo\bin\Debug\DBContextConsoleDemo.exe.config
+E:\PunePanditAutomobileSolution\DBContextConsoleDemo\bin\Debug\DBContextConsoleDemo.exe
+E:\PunePanditAutomobileSolution\DBContextConsoleDemo\bin\Debug\DBContextConsoleDemo.pdb
+E:\PunePanditAutomobileSolution\DBContextConsoleDemo\bin\Debug\WorkshopBLLLib.dll
+E:\PunePanditAutomobileSolution\DBContextConsoleDemo\bin\Debug\WorkshopClLib.dll
+E:\PunePanditAutomobileSolution\DBContextConsoleDemo\bin\Debug\WorkshopDALLib.dll
+E:\PunePanditAutomobileSolution\DBContextConsoleDemo\bin\Debug\WorkshopBLLLib.pdb
+E:\PunePanditAutomobileSolution\DBContextConsoleDemo\bin\Debug\WorkshopClLib.pdb
+E:\PunePanditAutomobileSolution\DBContextConsoleDemo\bin\Debug\WorkshopDALLib.pdb
+E:\PunePanditAutomobileSolution\DBContextConsoleDemo\obj\Debug\DBContextConsoleDemo.csprojResolveAssemblyReference.cache
+E:\PunePanditAutomobileSolution\DBContextConsoleDemo\obj\Debug\DBContextConsoleDemo.exe
+E:\PunePanditAutomobileSolution\DBContextConsoleDemo\obj\Debug\DBContextConsoleDemo.pdb

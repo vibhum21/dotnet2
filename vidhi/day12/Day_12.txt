@@ -1,0 +1,112 @@
+
+
+Day 12:
+Agenda
+
+
+1.ASP.NET Application Architecture
+
+inetmgr.exe-------------GUI Tool of IIS
+inetinfo.exe------------IIS 
+2.Page Life Cycle of asp.net
+3.ASP.NET State Management
+4.ASP.NET Controls Programming---------------will be taught on Sunday.
+
+Default Autocompilation Mode
+PreCompilation Mode: aspnet_compiler.exe  -----tool
+____________________________________________________________________
+
+
+ASP.NET fundamental interview Questions asked during interview :
+
+1.Explain ASP.NET Application Architecture.
+2.How page Life Cycle works against every request sent to 
+  Web site.
+3.What is the role of Application Pool in asp.net IIS
+4.What do you mean by WebFarm and WebGarden ?
+5.What is the role of HTTP Modules in HTTP Pipeline.
+6.List down few HTTP Modules in ASP.net
+7.How State Management technique is implemented in asp.net
+8.Difference betwewn Cookies and Query String.
+9.Differene between session and Application.
+10.What is the rols of w3wp.exe.
+11.Which tool is used to explore IIS.
+12.Explain global.asax file and their events we could handle.
+
+___________________________________________________________________
+
+Tasks for today.
+
+1.Debug global.asax file with respective Event Handlers
+   such as Application_Start, Session_Start, etc.
+2.Explore Page Life cycle by overriding following Page level Events.
+  Page_PreInit, 
+  Page_Init, Page_Load, PreRender etc.
+3.Use Query String to transfer user Name who logged in to home.aspx
+4.Use Cookie to transfer user Name who logged in to home.aspx
+5.User Session to transfer User Object to home.aspx page.
+6.Revise all topics conducted during lecture with diagrams.
+        protected void Page_Load(object sender, EventArgs e)
+        {
+            if (IsPostBack == false)
+            { 
+                this.Response.Write("Page Load is called due to Get");
+            }
+            else
+            {
+                this.Response.Write("Page Load is called due to Post");
+            }
+        }
+
+        protected override void OnInit(EventArgs e)
+        { base.OnInit(e);  }
+        protected override void OnPreRender(EventArgs e)
+        {  base.OnPreRender(e); }
+
+        protected override void OnPreInit(EventArgs e)
+        { base.OnPreInit(e); }
+
+	//Login.aspx web page
+
+ 	protected void Page_Load(object sender, EventArgs e)
+        {
+            if (IsPostBack == false)
+            {this.Response.Write("Page Load is called due to Get"); }
+            else
+	            {this.Response.Write("Page Load is called due to Post");}
+        }
+
+        protected void OnLoginClick(object sender, EventArgs e)
+        {   string name = this.txtUserName.Text;
+            string password = this.txtPassword.Text;
+            if (LoginManager.Authenticate(name, password))
+            {
+                HttpCookie ck=new HttpCookie("username",name);
+                User usr = new User {  FirstName=name};
+               // UserDAL.GetUser(name)
+               // this.Response.Cookies.Add(ck);
+                this.Session.Add("username", usr);
+                this.Response.Redirect("home.aspx");
+                //this.Response.Redirect("home.aspx?username="+name);
+            }
+            else 
+            {
+                this.Label4.Text = "Try again";
+            }
+        }
+
+//home.aspx web page
+
+	protected void Page_Load(object sender, EventArgs e)
+        {
+            string dateTime = DateTime.Now.ToShortTimeString();
+          //  this.Response.Write("<h3>" + "Time is " + dateTime + "</h3>");
+            this.Label2.Text = dateTime;
+            if (this.IsPostBack==false)
+            {
+              //string name=  this.Request.QueryString["username"];
+              // string name = this.Request.Cookies["username"].Value;
+                User usr = this.Session["username"] as User;
+                this.Label2.Text = usr.FirstName;
+            }
+        }

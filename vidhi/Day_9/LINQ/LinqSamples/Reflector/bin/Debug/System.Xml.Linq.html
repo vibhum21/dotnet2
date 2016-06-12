@@ -1,0 +1,1128 @@
+﻿<html>
+  <head>
+    <title>System.Xml.Linq.dll</title>
+  </head>
+  <body>
+    <div>
+      <h1>Assembly: System.Xml.Linq.dll</h1>
+      <div>
+        <h2>Namespace: System.Xml.Linq</h2>
+        <div>
+          <h3>public sealed abstract class Extensions</h3>
+          <div>
+            <h4>Methods: </h4>
+            <ul>
+              <li>public static IEnumerable&lt;XAttribute&gt; Attributes(this IEnumerable&lt;XElement&gt; source)</li>
+              <li>public static IEnumerable&lt;XAttribute&gt; Attributes(this IEnumerable&lt;XElement&gt; source, XName name)</li>
+              <li>public static IEnumerable&lt;XElement&gt; Ancestors&lt;T&gt;(this IEnumerable&lt;T&gt; source)</li>
+              <li>public static IEnumerable&lt;XElement&gt; Ancestors&lt;T&gt;(this IEnumerable&lt;T&gt; source, XName name)</li>
+              <li>public static IEnumerable&lt;XElement&gt; AncestorsAndSelf(this IEnumerable&lt;XElement&gt; source)</li>
+              <li>public static IEnumerable&lt;XElement&gt; AncestorsAndSelf(this IEnumerable&lt;XElement&gt; source, XName name)</li>
+              <li>public static IEnumerable&lt;XNode&gt; Nodes&lt;T&gt;(this IEnumerable&lt;T&gt; source)</li>
+              <li>public static IEnumerable&lt;XNode&gt; DescendantNodes&lt;T&gt;(this IEnumerable&lt;T&gt; source)</li>
+              <li>public static IEnumerable&lt;XElement&gt; Descendants&lt;T&gt;(this IEnumerable&lt;T&gt; source)</li>
+              <li>public static IEnumerable&lt;XElement&gt; Descendants&lt;T&gt;(this IEnumerable&lt;T&gt; source, XName name)</li>
+              <li>public static IEnumerable&lt;XNode&gt; DescendantNodesAndSelf(this IEnumerable&lt;XElement&gt; source)</li>
+              <li>public static IEnumerable&lt;XElement&gt; DescendantsAndSelf(this IEnumerable&lt;XElement&gt; source)</li>
+              <li>public static IEnumerable&lt;XElement&gt; DescendantsAndSelf(this IEnumerable&lt;XElement&gt; source, XName name)</li>
+              <li>public static IEnumerable&lt;XElement&gt; Elements&lt;T&gt;(this IEnumerable&lt;T&gt; source)</li>
+              <li>public static IEnumerable&lt;XElement&gt; Elements&lt;T&gt;(this IEnumerable&lt;T&gt; source, XName name)</li>
+              <li>public static IEnumerable&lt;T&gt; InDocumentOrder&lt;T&gt;(this IEnumerable&lt;T&gt; source)</li>
+              <li>public static Void Remove(this IEnumerable&lt;XAttribute&gt; source)</li>
+              <li>public static Void Remove&lt;T&gt;(this IEnumerable&lt;T&gt; source)</li>
+              <li>public virtual String ToString()</li>
+              <li>public virtual Boolean Equals(Object obj)</li>
+              <li>public virtual Int32 GetHashCode()</li>
+              <li>public Type GetType()</li>
+            </ul>
+          </div>
+        </div>
+        <div>
+          <h3>public class XAttribute : XObject, IXmlLineInfo</h3>
+          <div>
+            <h4>Constructors: </h4>
+            <ul>
+              <li>public XAttribute(XName name, Object value)</li>
+              <li>public XAttribute(XAttribute other)</li>
+            </ul>
+          </div>
+          <div>
+            <h4>Properties: </h4>
+            <ul>EmptySequence<li>public static IEnumerable&lt;XAttribute&gt; get_EmptySequence()</li></ul>
+            <ul>IsNamespaceDeclaration<li>public Boolean get_IsNamespaceDeclaration()</li></ul>
+            <ul>Name<li>public XName get_Name()</li></ul>
+            <ul>NextAttribute<li>public XAttribute get_NextAttribute()</li></ul>
+            <ul>NodeType<li>public virtual XmlNodeType get_NodeType()</li></ul>
+            <ul>PreviousAttribute<li>public XAttribute get_PreviousAttribute()</li></ul>
+            <ul>Value<li>public String get_Value()</li><li>public Void set_Value(String value)</li></ul>
+            <ul>BaseUri<li>public String get_BaseUri()</li></ul>
+            <ul>Document<li>public XDocument get_Document()</li></ul>
+            <ul>Parent<li>public XElement get_Parent()</li></ul>
+          </div>
+          <div>
+            <h4>Operators: </h4>
+            <ul>Explicit<li>public static String op_Explicit(XAttribute attribute)</li></ul>
+            <ul>Explicit<li>public static Boolean op_Explicit(XAttribute attribute)</li></ul>
+            <ul>Explicit<li>public static Nullable&lt;Boolean&gt; op_Explicit(XAttribute attribute)</li></ul>
+            <ul>Explicit<li>public static Int32 op_Explicit(XAttribute attribute)</li></ul>
+            <ul>Explicit<li>public static Nullable&lt;Int32&gt; op_Explicit(XAttribute attribute)</li></ul>
+            <ul>Explicit<li>public static UInt32 op_Explicit(XAttribute attribute)</li></ul>
+            <ul>Explicit<li>public static Nullable&lt;UInt32&gt; op_Explicit(XAttribute attribute)</li></ul>
+            <ul>Explicit<li>public static Int64 op_Explicit(XAttribute attribute)</li></ul>
+            <ul>Explicit<li>public static Nullable&lt;Int64&gt; op_Explicit(XAttribute attribute)</li></ul>
+            <ul>Explicit<li>public static UInt64 op_Explicit(XAttribute attribute)</li></ul>
+            <ul>Explicit<li>public static Nullable&lt;UInt64&gt; op_Explicit(XAttribute attribute)</li></ul>
+            <ul>Explicit<li>public static Single op_Explicit(XAttribute attribute)</li></ul>
+            <ul>Explicit<li>public static Nullable&lt;Single&gt; op_Explicit(XAttribute attribute)</li></ul>
+            <ul>Explicit<li>public static Double op_Explicit(XAttribute attribute)</li></ul>
+            <ul>Explicit<li>public static Nullable&lt;Double&gt; op_Explicit(XAttribute attribute)</li></ul>
+            <ul>Explicit<li>public static Decimal op_Explicit(XAttribute attribute)</li></ul>
+            <ul>Explicit<li>public static Nullable&lt;Decimal&gt; op_Explicit(XAttribute attribute)</li></ul>
+            <ul>Explicit<li>public static DateTime op_Explicit(XAttribute attribute)</li></ul>
+            <ul>Explicit<li>public static Nullable&lt;DateTime&gt; op_Explicit(XAttribute attribute)</li></ul>
+            <ul>Explicit<li>public static DateTimeOffset op_Explicit(XAttribute attribute)</li></ul>
+            <ul>Explicit<li>public static Nullable&lt;DateTimeOffset&gt; op_Explicit(XAttribute attribute)</li></ul>
+            <ul>Explicit<li>public static TimeSpan op_Explicit(XAttribute attribute)</li></ul>
+            <ul>Explicit<li>public static Nullable&lt;TimeSpan&gt; op_Explicit(XAttribute attribute)</li></ul>
+            <ul>Explicit<li>public static Guid op_Explicit(XAttribute attribute)</li></ul>
+            <ul>Explicit<li>public static Nullable&lt;Guid&gt; op_Explicit(XAttribute attribute)</li></ul>
+          </div>
+          <div>
+            <h4>Methods: </h4>
+            <ul>
+              <li>public Void Remove()</li>
+              <li>public Void SetValue(Object value)</li>
+              <li>public virtual String ToString()</li>
+              <li>public Void AddAnnotation(Object annotation)</li>
+              <li>public Object Annotation(Type type)</li>
+              <li>public T Annotation&lt;T&gt;()</li>
+              <li>public IEnumerable&lt;Object&gt; Annotations(Type type)</li>
+              <li>public IEnumerable&lt;T&gt; Annotations&lt;T&gt;()</li>
+              <li>public Void RemoveAnnotations(Type type)</li>
+              <li>public Void RemoveAnnotations&lt;T&gt;()</li>
+              <li>public Void add_Changed(EventHandler&lt;XObjectChangeEventArgs&gt; value)</li>
+              <li>public Void remove_Changed(EventHandler&lt;XObjectChangeEventArgs&gt; value)</li>
+              <li>public Void add_Changing(EventHandler&lt;XObjectChangeEventArgs&gt; value)</li>
+              <li>public Void remove_Changing(EventHandler&lt;XObjectChangeEventArgs&gt; value)</li>
+              <li>public virtual Boolean Equals(Object obj)</li>
+              <li>public virtual Int32 GetHashCode()</li>
+              <li>public Type GetType()</li>
+            </ul>
+          </div>
+        </div>
+        <div>
+          <h3>public class XCData : XText, IXmlLineInfo</h3>
+          <div>
+            <h4>Constructors: </h4>
+            <ul>
+              <li>public XCData(String value)</li>
+              <li>public XCData(XCData other)</li>
+            </ul>
+          </div>
+          <div>
+            <h4>Properties: </h4>
+            <ul>NodeType<li>public virtual XmlNodeType get_NodeType()</li></ul>
+            <ul>Value<li>public String get_Value()</li><li>public Void set_Value(String value)</li></ul>
+            <ul>NextNode<li>public XNode get_NextNode()</li></ul>
+            <ul>PreviousNode<li>public XNode get_PreviousNode()</li></ul>
+            <ul>BaseUri<li>public String get_BaseUri()</li></ul>
+            <ul>Document<li>public XDocument get_Document()</li></ul>
+            <ul>Parent<li>public XElement get_Parent()</li></ul>
+          </div>
+          <div>
+            <h4>Methods: </h4>
+            <ul>
+              <li>public virtual Void WriteTo(XmlWriter writer)</li>
+              <li>public Void AddAfterSelf(Object content)</li>
+              <li>public Void AddAfterSelf(Object[] content)</li>
+              <li>public Void AddBeforeSelf(Object content)</li>
+              <li>public Void AddBeforeSelf(Object[] content)</li>
+              <li>public IEnumerable&lt;XElement&gt; Ancestors()</li>
+              <li>public IEnumerable&lt;XElement&gt; Ancestors(XName name)</li>
+              <li>public XmlReader CreateReader()</li>
+              <li>public XmlReader CreateReader(ReaderOptions readerOptions)</li>
+              <li>public IEnumerable&lt;XNode&gt; NodesAfterSelf()</li>
+              <li>public IEnumerable&lt;XNode&gt; NodesBeforeSelf()</li>
+              <li>public IEnumerable&lt;XElement&gt; ElementsAfterSelf()</li>
+              <li>public IEnumerable&lt;XElement&gt; ElementsAfterSelf(XName name)</li>
+              <li>public IEnumerable&lt;XElement&gt; ElementsBeforeSelf()</li>
+              <li>public IEnumerable&lt;XElement&gt; ElementsBeforeSelf(XName name)</li>
+              <li>public Boolean IsAfter(XNode node)</li>
+              <li>public Boolean IsBefore(XNode node)</li>
+              <li>public Void Remove()</li>
+              <li>public Void ReplaceWith(Object content)</li>
+              <li>public Void ReplaceWith(Object[] content)</li>
+              <li>public virtual String ToString()</li>
+              <li>public String ToString(SaveOptions options)</li>
+              <li>public Void AddAnnotation(Object annotation)</li>
+              <li>public Object Annotation(Type type)</li>
+              <li>public T Annotation&lt;T&gt;()</li>
+              <li>public IEnumerable&lt;Object&gt; Annotations(Type type)</li>
+              <li>public IEnumerable&lt;T&gt; Annotations&lt;T&gt;()</li>
+              <li>public Void RemoveAnnotations(Type type)</li>
+              <li>public Void RemoveAnnotations&lt;T&gt;()</li>
+              <li>public Void add_Changed(EventHandler&lt;XObjectChangeEventArgs&gt; value)</li>
+              <li>public Void remove_Changed(EventHandler&lt;XObjectChangeEventArgs&gt; value)</li>
+              <li>public Void add_Changing(EventHandler&lt;XObjectChangeEventArgs&gt; value)</li>
+              <li>public Void remove_Changing(EventHandler&lt;XObjectChangeEventArgs&gt; value)</li>
+              <li>public virtual Boolean Equals(Object obj)</li>
+              <li>public virtual Int32 GetHashCode()</li>
+              <li>public Type GetType()</li>
+            </ul>
+          </div>
+        </div>
+        <div>
+          <h3>public class XComment : XNode, IXmlLineInfo</h3>
+          <div>
+            <h4>Constructors: </h4>
+            <ul>
+              <li>public XComment(String value)</li>
+              <li>public XComment(XComment other)</li>
+            </ul>
+          </div>
+          <div>
+            <h4>Properties: </h4>
+            <ul>NodeType<li>public virtual XmlNodeType get_NodeType()</li></ul>
+            <ul>Value<li>public String get_Value()</li><li>public Void set_Value(String value)</li></ul>
+            <ul>NextNode<li>public XNode get_NextNode()</li></ul>
+            <ul>PreviousNode<li>public XNode get_PreviousNode()</li></ul>
+            <ul>BaseUri<li>public String get_BaseUri()</li></ul>
+            <ul>Document<li>public XDocument get_Document()</li></ul>
+            <ul>Parent<li>public XElement get_Parent()</li></ul>
+          </div>
+          <div>
+            <h4>Methods: </h4>
+            <ul>
+              <li>public virtual Void WriteTo(XmlWriter writer)</li>
+              <li>public Void AddAfterSelf(Object content)</li>
+              <li>public Void AddAfterSelf(Object[] content)</li>
+              <li>public Void AddBeforeSelf(Object content)</li>
+              <li>public Void AddBeforeSelf(Object[] content)</li>
+              <li>public IEnumerable&lt;XElement&gt; Ancestors()</li>
+              <li>public IEnumerable&lt;XElement&gt; Ancestors(XName name)</li>
+              <li>public XmlReader CreateReader()</li>
+              <li>public XmlReader CreateReader(ReaderOptions readerOptions)</li>
+              <li>public IEnumerable&lt;XNode&gt; NodesAfterSelf()</li>
+              <li>public IEnumerable&lt;XNode&gt; NodesBeforeSelf()</li>
+              <li>public IEnumerable&lt;XElement&gt; ElementsAfterSelf()</li>
+              <li>public IEnumerable&lt;XElement&gt; ElementsAfterSelf(XName name)</li>
+              <li>public IEnumerable&lt;XElement&gt; ElementsBeforeSelf()</li>
+              <li>public IEnumerable&lt;XElement&gt; ElementsBeforeSelf(XName name)</li>
+              <li>public Boolean IsAfter(XNode node)</li>
+              <li>public Boolean IsBefore(XNode node)</li>
+              <li>public Void Remove()</li>
+              <li>public Void ReplaceWith(Object content)</li>
+              <li>public Void ReplaceWith(Object[] content)</li>
+              <li>public virtual String ToString()</li>
+              <li>public String ToString(SaveOptions options)</li>
+              <li>public Void AddAnnotation(Object annotation)</li>
+              <li>public Object Annotation(Type type)</li>
+              <li>public T Annotation&lt;T&gt;()</li>
+              <li>public IEnumerable&lt;Object&gt; Annotations(Type type)</li>
+              <li>public IEnumerable&lt;T&gt; Annotations&lt;T&gt;()</li>
+              <li>public Void RemoveAnnotations(Type type)</li>
+              <li>public Void RemoveAnnotations&lt;T&gt;()</li>
+              <li>public Void add_Changed(EventHandler&lt;XObjectChangeEventArgs&gt; value)</li>
+              <li>public Void remove_Changed(EventHandler&lt;XObjectChangeEventArgs&gt; value)</li>
+              <li>public Void add_Changing(EventHandler&lt;XObjectChangeEventArgs&gt; value)</li>
+              <li>public Void remove_Changing(EventHandler&lt;XObjectChangeEventArgs&gt; value)</li>
+              <li>public virtual Boolean Equals(Object obj)</li>
+              <li>public virtual Int32 GetHashCode()</li>
+              <li>public Type GetType()</li>
+            </ul>
+          </div>
+        </div>
+        <div>
+          <h3>public abstract class XContainer : XNode, IXmlLineInfo</h3>
+          <div>
+            <h4>Properties: </h4>
+            <ul>FirstNode<li>public XNode get_FirstNode()</li></ul>
+            <ul>LastNode<li>public XNode get_LastNode()</li></ul>
+            <ul>NextNode<li>public XNode get_NextNode()</li></ul>
+            <ul>PreviousNode<li>public XNode get_PreviousNode()</li></ul>
+            <ul>BaseUri<li>public String get_BaseUri()</li></ul>
+            <ul>Document<li>public XDocument get_Document()</li></ul>
+            <ul>NodeType<li>public abstract virtual XmlNodeType get_NodeType()</li></ul>
+            <ul>Parent<li>public XElement get_Parent()</li></ul>
+          </div>
+          <div>
+            <h4>Methods: </h4>
+            <ul>
+              <li>public XElement Element(XName name)</li>
+              <li>public Void Add(Object content)</li>
+              <li>public Void Add(Object[] content)</li>
+              <li>public Void AddFirst(Object content)</li>
+              <li>public Void AddFirst(Object[] content)</li>
+              <li>public XmlWriter CreateWriter()</li>
+              <li>public IEnumerable&lt;XNode&gt; DescendantNodes()</li>
+              <li>public IEnumerable&lt;XElement&gt; Descendants()</li>
+              <li>public IEnumerable&lt;XElement&gt; Descendants(XName name)</li>
+              <li>public IEnumerable&lt;XElement&gt; Elements()</li>
+              <li>public IEnumerable&lt;XElement&gt; Elements(XName name)</li>
+              <li>public IEnumerable&lt;XNode&gt; Nodes()</li>
+              <li>public Void RemoveNodes()</li>
+              <li>public Void ReplaceNodes(Object content)</li>
+              <li>public Void ReplaceNodes(Object[] content)</li>
+              <li>public Void AddAfterSelf(Object content)</li>
+              <li>public Void AddAfterSelf(Object[] content)</li>
+              <li>public Void AddBeforeSelf(Object content)</li>
+              <li>public Void AddBeforeSelf(Object[] content)</li>
+              <li>public IEnumerable&lt;XElement&gt; Ancestors()</li>
+              <li>public IEnumerable&lt;XElement&gt; Ancestors(XName name)</li>
+              <li>public XmlReader CreateReader()</li>
+              <li>public XmlReader CreateReader(ReaderOptions readerOptions)</li>
+              <li>public IEnumerable&lt;XNode&gt; NodesAfterSelf()</li>
+              <li>public IEnumerable&lt;XNode&gt; NodesBeforeSelf()</li>
+              <li>public IEnumerable&lt;XElement&gt; ElementsAfterSelf()</li>
+              <li>public IEnumerable&lt;XElement&gt; ElementsAfterSelf(XName name)</li>
+              <li>public IEnumerable&lt;XElement&gt; ElementsBeforeSelf()</li>
+              <li>public IEnumerable&lt;XElement&gt; ElementsBeforeSelf(XName name)</li>
+              <li>public Boolean IsAfter(XNode node)</li>
+              <li>public Boolean IsBefore(XNode node)</li>
+              <li>public Void Remove()</li>
+              <li>public Void ReplaceWith(Object content)</li>
+              <li>public Void ReplaceWith(Object[] content)</li>
+              <li>public virtual String ToString()</li>
+              <li>public String ToString(SaveOptions options)</li>
+              <li>public abstract virtual Void WriteTo(XmlWriter writer)</li>
+              <li>public Void AddAnnotation(Object annotation)</li>
+              <li>public Object Annotation(Type type)</li>
+              <li>public T Annotation&lt;T&gt;()</li>
+              <li>public IEnumerable&lt;Object&gt; Annotations(Type type)</li>
+              <li>public IEnumerable&lt;T&gt; Annotations&lt;T&gt;()</li>
+              <li>public Void RemoveAnnotations(Type type)</li>
+              <li>public Void RemoveAnnotations&lt;T&gt;()</li>
+              <li>public Void add_Changed(EventHandler&lt;XObjectChangeEventArgs&gt; value)</li>
+              <li>public Void remove_Changed(EventHandler&lt;XObjectChangeEventArgs&gt; value)</li>
+              <li>public Void add_Changing(EventHandler&lt;XObjectChangeEventArgs&gt; value)</li>
+              <li>public Void remove_Changing(EventHandler&lt;XObjectChangeEventArgs&gt; value)</li>
+              <li>public virtual Boolean Equals(Object obj)</li>
+              <li>public virtual Int32 GetHashCode()</li>
+              <li>public Type GetType()</li>
+            </ul>
+          </div>
+        </div>
+        <div>
+          <h3>public class XDeclaration</h3>
+          <div>
+            <h4>Constructors: </h4>
+            <ul>
+              <li>public XDeclaration(String version, String encoding, String standalone)</li>
+              <li>public XDeclaration(XDeclaration other)</li>
+            </ul>
+          </div>
+          <div>
+            <h4>Properties: </h4>
+            <ul>Encoding<li>public String get_Encoding()</li><li>public Void set_Encoding(String value)</li></ul>
+            <ul>Standalone<li>public String get_Standalone()</li><li>public Void set_Standalone(String value)</li></ul>
+            <ul>Version<li>public String get_Version()</li><li>public Void set_Version(String value)</li></ul>
+          </div>
+          <div>
+            <h4>Methods: </h4>
+            <ul>
+              <li>public virtual String ToString()</li>
+              <li>public virtual Boolean Equals(Object obj)</li>
+              <li>public virtual Int32 GetHashCode()</li>
+              <li>public Type GetType()</li>
+            </ul>
+          </div>
+        </div>
+        <div>
+          <h3>public class XDocument : XContainer, IXmlLineInfo</h3>
+          <div>
+            <h4>Constructors: </h4>
+            <ul>
+              <li>public XDocument()</li>
+              <li>public XDocument(Object[] content)</li>
+              <li>public XDocument(XDeclaration declaration, Object[] content)</li>
+              <li>public XDocument(XDocument other)</li>
+            </ul>
+          </div>
+          <div>
+            <h4>Properties: </h4>
+            <ul>Declaration<li>public XDeclaration get_Declaration()</li><li>public Void set_Declaration(XDeclaration value)</li></ul>
+            <ul>DocumentType<li>public XDocumentType get_DocumentType()</li></ul>
+            <ul>NodeType<li>public virtual XmlNodeType get_NodeType()</li></ul>
+            <ul>Root<li>public XElement get_Root()</li></ul>
+            <ul>FirstNode<li>public XNode get_FirstNode()</li></ul>
+            <ul>LastNode<li>public XNode get_LastNode()</li></ul>
+            <ul>NextNode<li>public XNode get_NextNode()</li></ul>
+            <ul>PreviousNode<li>public XNode get_PreviousNode()</li></ul>
+            <ul>BaseUri<li>public String get_BaseUri()</li></ul>
+            <ul>Document<li>public XDocument get_Document()</li></ul>
+            <ul>Parent<li>public XElement get_Parent()</li></ul>
+          </div>
+          <div>
+            <h4>Methods: </h4>
+            <ul>
+              <li>public static XDocument Load(Stream stream)</li>
+              <li>public static XDocument Load(String uri)</li>
+              <li>public static XDocument Load(String uri, LoadOptions options)</li>
+              <li>public static XDocument Load(Stream stream, LoadOptions options)</li>
+              <li>public static XDocument Load(TextReader textReader)</li>
+              <li>public static XDocument Load(TextReader textReader, LoadOptions options)</li>
+              <li>public static XDocument Load(XmlReader reader)</li>
+              <li>public static XDocument Load(XmlReader reader, LoadOptions options)</li>
+              <li>public static XDocument Parse(String text)</li>
+              <li>public static XDocument Parse(String text, LoadOptions options)</li>
+              <li>public Void Save(String fileName)</li>
+              <li>public Void Save(String fileName, SaveOptions options)</li>
+              <li>public Void Save(Stream stream)</li>
+              <li>public Void Save(Stream stream, SaveOptions options)</li>
+              <li>public Void Save(TextWriter textWriter)</li>
+              <li>public Void Save(TextWriter textWriter, SaveOptions options)</li>
+              <li>public Void Save(XmlWriter writer)</li>
+              <li>public virtual Void WriteTo(XmlWriter writer)</li>
+              <li>public XElement Element(XName name)</li>
+              <li>public Void Add(Object content)</li>
+              <li>public Void Add(Object[] content)</li>
+              <li>public Void AddFirst(Object content)</li>
+              <li>public Void AddFirst(Object[] content)</li>
+              <li>public XmlWriter CreateWriter()</li>
+              <li>public IEnumerable&lt;XNode&gt; DescendantNodes()</li>
+              <li>public IEnumerable&lt;XElement&gt; Descendants()</li>
+              <li>public IEnumerable&lt;XElement&gt; Descendants(XName name)</li>
+              <li>public IEnumerable&lt;XElement&gt; Elements()</li>
+              <li>public IEnumerable&lt;XElement&gt; Elements(XName name)</li>
+              <li>public IEnumerable&lt;XNode&gt; Nodes()</li>
+              <li>public Void RemoveNodes()</li>
+              <li>public Void ReplaceNodes(Object content)</li>
+              <li>public Void ReplaceNodes(Object[] content)</li>
+              <li>public Void AddAfterSelf(Object content)</li>
+              <li>public Void AddAfterSelf(Object[] content)</li>
+              <li>public Void AddBeforeSelf(Object content)</li>
+              <li>public Void AddBeforeSelf(Object[] content)</li>
+              <li>public IEnumerable&lt;XElement&gt; Ancestors()</li>
+              <li>public IEnumerable&lt;XElement&gt; Ancestors(XName name)</li>
+              <li>public XmlReader CreateReader()</li>
+              <li>public XmlReader CreateReader(ReaderOptions readerOptions)</li>
+              <li>public IEnumerable&lt;XNode&gt; NodesAfterSelf()</li>
+              <li>public IEnumerable&lt;XNode&gt; NodesBeforeSelf()</li>
+              <li>public IEnumerable&lt;XElement&gt; ElementsAfterSelf()</li>
+              <li>public IEnumerable&lt;XElement&gt; ElementsAfterSelf(XName name)</li>
+              <li>public IEnumerable&lt;XElement&gt; ElementsBeforeSelf()</li>
+              <li>public IEnumerable&lt;XElement&gt; ElementsBeforeSelf(XName name)</li>
+              <li>public Boolean IsAfter(XNode node)</li>
+              <li>public Boolean IsBefore(XNode node)</li>
+              <li>public Void Remove()</li>
+              <li>public Void ReplaceWith(Object content)</li>
+              <li>public Void ReplaceWith(Object[] content)</li>
+              <li>public virtual String ToString()</li>
+              <li>public String ToString(SaveOptions options)</li>
+              <li>public Void AddAnnotation(Object annotation)</li>
+              <li>public Object Annotation(Type type)</li>
+              <li>public T Annotation&lt;T&gt;()</li>
+              <li>public IEnumerable&lt;Object&gt; Annotations(Type type)</li>
+              <li>public IEnumerable&lt;T&gt; Annotations&lt;T&gt;()</li>
+              <li>public Void RemoveAnnotations(Type type)</li>
+              <li>public Void RemoveAnnotations&lt;T&gt;()</li>
+              <li>public Void add_Changed(EventHandler&lt;XObjectChangeEventArgs&gt; value)</li>
+              <li>public Void remove_Changed(EventHandler&lt;XObjectChangeEventArgs&gt; value)</li>
+              <li>public Void add_Changing(EventHandler&lt;XObjectChangeEventArgs&gt; value)</li>
+              <li>public Void remove_Changing(EventHandler&lt;XObjectChangeEventArgs&gt; value)</li>
+              <li>public virtual Boolean Equals(Object obj)</li>
+              <li>public virtual Int32 GetHashCode()</li>
+              <li>public Type GetType()</li>
+            </ul>
+          </div>
+        </div>
+        <div>
+          <h3>public class XDocumentType : XNode, IXmlLineInfo</h3>
+          <div>
+            <h4>Constructors: </h4>
+            <ul>
+              <li>public XDocumentType(String name, String publicId, String systemId, String internalSubset)</li>
+              <li>public XDocumentType(XDocumentType other)</li>
+            </ul>
+          </div>
+          <div>
+            <h4>Properties: </h4>
+            <ul>InternalSubset<li>public String get_InternalSubset()</li><li>public Void set_InternalSubset(String value)</li></ul>
+            <ul>Name<li>public String get_Name()</li><li>public Void set_Name(String value)</li></ul>
+            <ul>NodeType<li>public virtual XmlNodeType get_NodeType()</li></ul>
+            <ul>PublicId<li>public String get_PublicId()</li><li>public Void set_PublicId(String value)</li></ul>
+            <ul>SystemId<li>public String get_SystemId()</li><li>public Void set_SystemId(String value)</li></ul>
+            <ul>NextNode<li>public XNode get_NextNode()</li></ul>
+            <ul>PreviousNode<li>public XNode get_PreviousNode()</li></ul>
+            <ul>BaseUri<li>public String get_BaseUri()</li></ul>
+            <ul>Document<li>public XDocument get_Document()</li></ul>
+            <ul>Parent<li>public XElement get_Parent()</li></ul>
+          </div>
+          <div>
+            <h4>Methods: </h4>
+            <ul>
+              <li>public virtual Void WriteTo(XmlWriter writer)</li>
+              <li>public Void AddAfterSelf(Object content)</li>
+              <li>public Void AddAfterSelf(Object[] content)</li>
+              <li>public Void AddBeforeSelf(Object content)</li>
+              <li>public Void AddBeforeSelf(Object[] content)</li>
+              <li>public IEnumerable&lt;XElement&gt; Ancestors()</li>
+              <li>public IEnumerable&lt;XElement&gt; Ancestors(XName name)</li>
+              <li>public XmlReader CreateReader()</li>
+              <li>public XmlReader CreateReader(ReaderOptions readerOptions)</li>
+              <li>public IEnumerable&lt;XNode&gt; NodesAfterSelf()</li>
+              <li>public IEnumerable&lt;XNode&gt; NodesBeforeSelf()</li>
+              <li>public IEnumerable&lt;XElement&gt; ElementsAfterSelf()</li>
+              <li>public IEnumerable&lt;XElement&gt; ElementsAfterSelf(XName name)</li>
+              <li>public IEnumerable&lt;XElement&gt; ElementsBeforeSelf()</li>
+              <li>public IEnumerable&lt;XElement&gt; ElementsBeforeSelf(XName name)</li>
+              <li>public Boolean IsAfter(XNode node)</li>
+              <li>public Boolean IsBefore(XNode node)</li>
+              <li>public Void Remove()</li>
+              <li>public Void ReplaceWith(Object content)</li>
+              <li>public Void ReplaceWith(Object[] content)</li>
+              <li>public virtual String ToString()</li>
+              <li>public String ToString(SaveOptions options)</li>
+              <li>public Void AddAnnotation(Object annotation)</li>
+              <li>public Object Annotation(Type type)</li>
+              <li>public T Annotation&lt;T&gt;()</li>
+              <li>public IEnumerable&lt;Object&gt; Annotations(Type type)</li>
+              <li>public IEnumerable&lt;T&gt; Annotations&lt;T&gt;()</li>
+              <li>public Void RemoveAnnotations(Type type)</li>
+              <li>public Void RemoveAnnotations&lt;T&gt;()</li>
+              <li>public Void add_Changed(EventHandler&lt;XObjectChangeEventArgs&gt; value)</li>
+              <li>public Void remove_Changed(EventHandler&lt;XObjectChangeEventArgs&gt; value)</li>
+              <li>public Void add_Changing(EventHandler&lt;XObjectChangeEventArgs&gt; value)</li>
+              <li>public Void remove_Changing(EventHandler&lt;XObjectChangeEventArgs&gt; value)</li>
+              <li>public virtual Boolean Equals(Object obj)</li>
+              <li>public virtual Int32 GetHashCode()</li>
+              <li>public Type GetType()</li>
+            </ul>
+          </div>
+        </div>
+        <div>
+          <h3>public class XElement : XContainer, IXmlLineInfo, IXmlSerializable</h3>
+          <div>
+            <h4>Constructors: </h4>
+            <ul>
+              <li>public XElement(XName name)</li>
+              <li>public XElement(XName name, Object content)</li>
+              <li>public XElement(XName name, Object[] content)</li>
+              <li>public XElement(XElement other)</li>
+              <li>public XElement(XStreamingElement other)</li>
+            </ul>
+          </div>
+          <div>
+            <h4>Properties: </h4>
+            <ul>EmptySequence<li>public static IEnumerable&lt;XElement&gt; get_EmptySequence()</li></ul>
+            <ul>FirstAttribute<li>public XAttribute get_FirstAttribute()</li></ul>
+            <ul>HasAttributes<li>public Boolean get_HasAttributes()</li></ul>
+            <ul>HasElements<li>public Boolean get_HasElements()</li></ul>
+            <ul>IsEmpty<li>public Boolean get_IsEmpty()</li></ul>
+            <ul>LastAttribute<li>public XAttribute get_LastAttribute()</li></ul>
+            <ul>Name<li>public XName get_Name()</li><li>public Void set_Name(XName value)</li></ul>
+            <ul>NodeType<li>public virtual XmlNodeType get_NodeType()</li></ul>
+            <ul>Value<li>public String get_Value()</li><li>public Void set_Value(String value)</li></ul>
+            <ul>FirstNode<li>public XNode get_FirstNode()</li></ul>
+            <ul>LastNode<li>public XNode get_LastNode()</li></ul>
+            <ul>NextNode<li>public XNode get_NextNode()</li></ul>
+            <ul>PreviousNode<li>public XNode get_PreviousNode()</li></ul>
+            <ul>BaseUri<li>public String get_BaseUri()</li></ul>
+            <ul>Document<li>public XDocument get_Document()</li></ul>
+            <ul>Parent<li>public XElement get_Parent()</li></ul>
+          </div>
+          <div>
+            <h4>Operators: </h4>
+            <ul>Explicit<li>public static String op_Explicit(XElement element)</li></ul>
+            <ul>Explicit<li>public static Boolean op_Explicit(XElement element)</li></ul>
+            <ul>Explicit<li>public static Nullable&lt;Boolean&gt; op_Explicit(XElement element)</li></ul>
+            <ul>Explicit<li>public static Int32 op_Explicit(XElement element)</li></ul>
+            <ul>Explicit<li>public static Nullable&lt;Int32&gt; op_Explicit(XElement element)</li></ul>
+            <ul>Explicit<li>public static UInt32 op_Explicit(XElement element)</li></ul>
+            <ul>Explicit<li>public static Nullable&lt;UInt32&gt; op_Explicit(XElement element)</li></ul>
+            <ul>Explicit<li>public static Int64 op_Explicit(XElement element)</li></ul>
+            <ul>Explicit<li>public static Nullable&lt;Int64&gt; op_Explicit(XElement element)</li></ul>
+            <ul>Explicit<li>public static UInt64 op_Explicit(XElement element)</li></ul>
+            <ul>Explicit<li>public static Nullable&lt;UInt64&gt; op_Explicit(XElement element)</li></ul>
+            <ul>Explicit<li>public static Single op_Explicit(XElement element)</li></ul>
+            <ul>Explicit<li>public static Nullable&lt;Single&gt; op_Explicit(XElement element)</li></ul>
+            <ul>Explicit<li>public static Double op_Explicit(XElement element)</li></ul>
+            <ul>Explicit<li>public static Nullable&lt;Double&gt; op_Explicit(XElement element)</li></ul>
+            <ul>Explicit<li>public static Decimal op_Explicit(XElement element)</li></ul>
+            <ul>Explicit<li>public static Nullable&lt;Decimal&gt; op_Explicit(XElement element)</li></ul>
+            <ul>Explicit<li>public static DateTime op_Explicit(XElement element)</li></ul>
+            <ul>Explicit<li>public static Nullable&lt;DateTime&gt; op_Explicit(XElement element)</li></ul>
+            <ul>Explicit<li>public static DateTimeOffset op_Explicit(XElement element)</li></ul>
+            <ul>Explicit<li>public static Nullable&lt;DateTimeOffset&gt; op_Explicit(XElement element)</li></ul>
+            <ul>Explicit<li>public static TimeSpan op_Explicit(XElement element)</li></ul>
+            <ul>Explicit<li>public static Nullable&lt;TimeSpan&gt; op_Explicit(XElement element)</li></ul>
+            <ul>Explicit<li>public static Guid op_Explicit(XElement element)</li></ul>
+            <ul>Explicit<li>public static Nullable&lt;Guid&gt; op_Explicit(XElement element)</li></ul>
+          </div>
+          <div>
+            <h4>Methods: </h4>
+            <ul>
+              <li>public IEnumerable&lt;XElement&gt; AncestorsAndSelf()</li>
+              <li>public IEnumerable&lt;XElement&gt; AncestorsAndSelf(XName name)</li>
+              <li>public XAttribute Attribute(XName name)</li>
+              <li>public IEnumerable&lt;XAttribute&gt; Attributes()</li>
+              <li>public IEnumerable&lt;XAttribute&gt; Attributes(XName name)</li>
+              <li>public IEnumerable&lt;XNode&gt; DescendantNodesAndSelf()</li>
+              <li>public IEnumerable&lt;XElement&gt; DescendantsAndSelf()</li>
+              <li>public IEnumerable&lt;XElement&gt; DescendantsAndSelf(XName name)</li>
+              <li>public XNamespace GetDefaultNamespace()</li>
+              <li>public XNamespace GetNamespaceOfPrefix(String prefix)</li>
+              <li>public String GetPrefixOfNamespace(XNamespace ns)</li>
+              <li>public static XElement Load(String uri)</li>
+              <li>public static XElement Load(String uri, LoadOptions options)</li>
+              <li>public static XElement Load(Stream stream)</li>
+              <li>public static XElement Load(Stream stream, LoadOptions options)</li>
+              <li>public static XElement Load(TextReader textReader)</li>
+              <li>public static XElement Load(TextReader textReader, LoadOptions options)</li>
+              <li>public static XElement Load(XmlReader reader)</li>
+              <li>public static XElement Load(XmlReader reader, LoadOptions options)</li>
+              <li>public static XElement Parse(String text)</li>
+              <li>public static XElement Parse(String text, LoadOptions options)</li>
+              <li>public Void RemoveAll()</li>
+              <li>public Void RemoveAttributes()</li>
+              <li>public Void ReplaceAll(Object content)</li>
+              <li>public Void ReplaceAll(Object[] content)</li>
+              <li>public Void ReplaceAttributes(Object content)</li>
+              <li>public Void ReplaceAttributes(Object[] content)</li>
+              <li>public Void Save(String fileName)</li>
+              <li>public Void Save(String fileName, SaveOptions options)</li>
+              <li>public Void Save(Stream stream)</li>
+              <li>public Void Save(Stream stream, SaveOptions options)</li>
+              <li>public Void Save(TextWriter textWriter)</li>
+              <li>public Void Save(TextWriter textWriter, SaveOptions options)</li>
+              <li>public Void Save(XmlWriter writer)</li>
+              <li>public Void SetAttributeValue(XName name, Object value)</li>
+              <li>public Void SetElementValue(XName name, Object value)</li>
+              <li>public Void SetValue(Object value)</li>
+              <li>public virtual Void WriteTo(XmlWriter writer)</li>
+              <li>public XElement Element(XName name)</li>
+              <li>public Void Add(Object content)</li>
+              <li>public Void Add(Object[] content)</li>
+              <li>public Void AddFirst(Object content)</li>
+              <li>public Void AddFirst(Object[] content)</li>
+              <li>public XmlWriter CreateWriter()</li>
+              <li>public IEnumerable&lt;XNode&gt; DescendantNodes()</li>
+              <li>public IEnumerable&lt;XElement&gt; Descendants()</li>
+              <li>public IEnumerable&lt;XElement&gt; Descendants(XName name)</li>
+              <li>public IEnumerable&lt;XElement&gt; Elements()</li>
+              <li>public IEnumerable&lt;XElement&gt; Elements(XName name)</li>
+              <li>public IEnumerable&lt;XNode&gt; Nodes()</li>
+              <li>public Void RemoveNodes()</li>
+              <li>public Void ReplaceNodes(Object content)</li>
+              <li>public Void ReplaceNodes(Object[] content)</li>
+              <li>public Void AddAfterSelf(Object content)</li>
+              <li>public Void AddAfterSelf(Object[] content)</li>
+              <li>public Void AddBeforeSelf(Object content)</li>
+              <li>public Void AddBeforeSelf(Object[] content)</li>
+              <li>public IEnumerable&lt;XElement&gt; Ancestors()</li>
+              <li>public IEnumerable&lt;XElement&gt; Ancestors(XName name)</li>
+              <li>public XmlReader CreateReader()</li>
+              <li>public XmlReader CreateReader(ReaderOptions readerOptions)</li>
+              <li>public IEnumerable&lt;XNode&gt; NodesAfterSelf()</li>
+              <li>public IEnumerable&lt;XNode&gt; NodesBeforeSelf()</li>
+              <li>public IEnumerable&lt;XElement&gt; ElementsAfterSelf()</li>
+              <li>public IEnumerable&lt;XElement&gt; ElementsAfterSelf(XName name)</li>
+              <li>public IEnumerable&lt;XElement&gt; ElementsBeforeSelf()</li>
+              <li>public IEnumerable&lt;XElement&gt; ElementsBeforeSelf(XName name)</li>
+              <li>public Boolean IsAfter(XNode node)</li>
+              <li>public Boolean IsBefore(XNode node)</li>
+              <li>public Void Remove()</li>
+              <li>public Void ReplaceWith(Object content)</li>
+              <li>public Void ReplaceWith(Object[] content)</li>
+              <li>public virtual String ToString()</li>
+              <li>public String ToString(SaveOptions options)</li>
+              <li>public Void AddAnnotation(Object annotation)</li>
+              <li>public Object Annotation(Type type)</li>
+              <li>public T Annotation&lt;T&gt;()</li>
+              <li>public IEnumerable&lt;Object&gt; Annotations(Type type)</li>
+              <li>public IEnumerable&lt;T&gt; Annotations&lt;T&gt;()</li>
+              <li>public Void RemoveAnnotations(Type type)</li>
+              <li>public Void RemoveAnnotations&lt;T&gt;()</li>
+              <li>public Void add_Changed(EventHandler&lt;XObjectChangeEventArgs&gt; value)</li>
+              <li>public Void remove_Changed(EventHandler&lt;XObjectChangeEventArgs&gt; value)</li>
+              <li>public Void add_Changing(EventHandler&lt;XObjectChangeEventArgs&gt; value)</li>
+              <li>public Void remove_Changing(EventHandler&lt;XObjectChangeEventArgs&gt; value)</li>
+              <li>public virtual Boolean Equals(Object obj)</li>
+              <li>public virtual Int32 GetHashCode()</li>
+              <li>public Type GetType()</li>
+            </ul>
+          </div>
+        </div>
+        <div>
+          <h3>public sealed class XName : IEquatable&lt;XName&gt;, ISerializable</h3>
+          <div>
+            <h4>Properties: </h4>
+            <ul>LocalName<li>public String get_LocalName()</li></ul>
+            <ul>Namespace<li>public XNamespace get_Namespace()</li></ul>
+            <ul>NamespaceName<li>public String get_NamespaceName()</li></ul>
+          </div>
+          <div>
+            <h4>Operators: </h4>
+            <ul>Implicit<li>public static XName op_Implicit(String expandedName)</li></ul>
+            <ul>Equality<li>public static Boolean op_Equality(XName left, XName right)</li></ul>
+            <ul>Inequality<li>public static Boolean op_Inequality(XName left, XName right)</li></ul>
+          </div>
+          <div>
+            <h4>Methods: </h4>
+            <ul>
+              <li>public virtual String ToString()</li>
+              <li>public static XName Get(String expandedName)</li>
+              <li>public static XName Get(String localName, String namespaceName)</li>
+              <li>public virtual Boolean Equals(Object obj)</li>
+              <li>public virtual Int32 GetHashCode()</li>
+              <li>public Type GetType()</li>
+            </ul>
+          </div>
+        </div>
+        <div>
+          <h3>public sealed class XNamespace</h3>
+          <div>
+            <h4>Properties: </h4>
+            <ul>NamespaceName<li>public String get_NamespaceName()</li></ul>
+            <ul>None<li>public static XNamespace get_None()</li></ul>
+            <ul>Xml<li>public static XNamespace get_Xml()</li></ul>
+            <ul>Xmlns<li>public static XNamespace get_Xmlns()</li></ul>
+          </div>
+          <div>
+            <h4>Operators: </h4>
+            <ul>Implicit<li>public static XNamespace op_Implicit(String namespaceName)</li></ul>
+            <ul>Addition<li>public static XName op_Addition(XNamespace ns, String localName)</li></ul>
+            <ul>Equality<li>public static Boolean op_Equality(XNamespace left, XNamespace right)</li></ul>
+            <ul>Inequality<li>public static Boolean op_Inequality(XNamespace left, XNamespace right)</li></ul>
+          </div>
+          <div>
+            <h4>Methods: </h4>
+            <ul>
+              <li>public XName GetName(String localName)</li>
+              <li>public virtual String ToString()</li>
+              <li>public static XNamespace Get(String namespaceName)</li>
+              <li>public virtual Boolean Equals(Object obj)</li>
+              <li>public virtual Int32 GetHashCode()</li>
+              <li>public Type GetType()</li>
+            </ul>
+          </div>
+        </div>
+        <div>
+          <h3>public abstract class XNode : XObject, IXmlLineInfo</h3>
+          <div>
+            <h4>Properties: </h4>
+            <ul>NextNode<li>public XNode get_NextNode()</li></ul>
+            <ul>PreviousNode<li>public XNode get_PreviousNode()</li></ul>
+            <ul>DocumentOrderComparer<li>public static XNodeDocumentOrderComparer get_DocumentOrderComparer()</li></ul>
+            <ul>EqualityComparer<li>public static XNodeEqualityComparer get_EqualityComparer()</li></ul>
+            <ul>BaseUri<li>public String get_BaseUri()</li></ul>
+            <ul>Document<li>public XDocument get_Document()</li></ul>
+            <ul>NodeType<li>public abstract virtual XmlNodeType get_NodeType()</li></ul>
+            <ul>Parent<li>public XElement get_Parent()</li></ul>
+          </div>
+          <div>
+            <h4>Methods: </h4>
+            <ul>
+              <li>public Void AddAfterSelf(Object content)</li>
+              <li>public Void AddAfterSelf(Object[] content)</li>
+              <li>public Void AddBeforeSelf(Object content)</li>
+              <li>public Void AddBeforeSelf(Object[] content)</li>
+              <li>public IEnumerable&lt;XElement&gt; Ancestors()</li>
+              <li>public IEnumerable&lt;XElement&gt; Ancestors(XName name)</li>
+              <li>public static Int32 CompareDocumentOrder(XNode n1, XNode n2)</li>
+              <li>public XmlReader CreateReader()</li>
+              <li>public XmlReader CreateReader(ReaderOptions readerOptions)</li>
+              <li>public IEnumerable&lt;XNode&gt; NodesAfterSelf()</li>
+              <li>public IEnumerable&lt;XNode&gt; NodesBeforeSelf()</li>
+              <li>public IEnumerable&lt;XElement&gt; ElementsAfterSelf()</li>
+              <li>public IEnumerable&lt;XElement&gt; ElementsAfterSelf(XName name)</li>
+              <li>public IEnumerable&lt;XElement&gt; ElementsBeforeSelf()</li>
+              <li>public IEnumerable&lt;XElement&gt; ElementsBeforeSelf(XName name)</li>
+              <li>public Boolean IsAfter(XNode node)</li>
+              <li>public Boolean IsBefore(XNode node)</li>
+              <li>public static XNode ReadFrom(XmlReader reader)</li>
+              <li>public Void Remove()</li>
+              <li>public Void ReplaceWith(Object content)</li>
+              <li>public Void ReplaceWith(Object[] content)</li>
+              <li>public virtual String ToString()</li>
+              <li>public String ToString(SaveOptions options)</li>
+              <li>public static Boolean DeepEquals(XNode n1, XNode n2)</li>
+              <li>public abstract virtual Void WriteTo(XmlWriter writer)</li>
+              <li>public Void AddAnnotation(Object annotation)</li>
+              <li>public Object Annotation(Type type)</li>
+              <li>public T Annotation&lt;T&gt;()</li>
+              <li>public IEnumerable&lt;Object&gt; Annotations(Type type)</li>
+              <li>public IEnumerable&lt;T&gt; Annotations&lt;T&gt;()</li>
+              <li>public Void RemoveAnnotations(Type type)</li>
+              <li>public Void RemoveAnnotations&lt;T&gt;()</li>
+              <li>public Void add_Changed(EventHandler&lt;XObjectChangeEventArgs&gt; value)</li>
+              <li>public Void remove_Changed(EventHandler&lt;XObjectChangeEventArgs&gt; value)</li>
+              <li>public Void add_Changing(EventHandler&lt;XObjectChangeEventArgs&gt; value)</li>
+              <li>public Void remove_Changing(EventHandler&lt;XObjectChangeEventArgs&gt; value)</li>
+              <li>public virtual Boolean Equals(Object obj)</li>
+              <li>public virtual Int32 GetHashCode()</li>
+              <li>public Type GetType()</li>
+            </ul>
+          </div>
+        </div>
+        <div>
+          <h3>public sealed class XNodeDocumentOrderComparer : IComparer, IComparer&lt;XNode&gt;</h3>
+          <div>
+            <h4>Constructors: </h4>
+            <ul>
+              <li>public XNodeDocumentOrderComparer()</li>
+            </ul>
+          </div>
+          <div>
+            <h4>Methods: </h4>
+            <ul>
+              <li>public virtual Int32 Compare(XNode x, XNode y)</li>
+              <li>public virtual String ToString()</li>
+              <li>public virtual Boolean Equals(Object obj)</li>
+              <li>public virtual Int32 GetHashCode()</li>
+              <li>public Type GetType()</li>
+            </ul>
+          </div>
+        </div>
+        <div>
+          <h3>public sealed class XNodeEqualityComparer : IEqualityComparer, IEqualityComparer&lt;XNode&gt;</h3>
+          <div>
+            <h4>Constructors: </h4>
+            <ul>
+              <li>public XNodeEqualityComparer()</li>
+            </ul>
+          </div>
+          <div>
+            <h4>Methods: </h4>
+            <ul>
+              <li>public virtual Boolean Equals(XNode x, XNode y)</li>
+              <li>public virtual Int32 GetHashCode(XNode obj)</li>
+              <li>public virtual String ToString()</li>
+              <li>public virtual Boolean Equals(Object obj)</li>
+              <li>public virtual Int32 GetHashCode()</li>
+              <li>public Type GetType()</li>
+            </ul>
+          </div>
+        </div>
+        <div>
+          <h3>public abstract class XObject : IXmlLineInfo</h3>
+          <div>
+            <h4>Properties: </h4>
+            <ul>BaseUri<li>public String get_BaseUri()</li></ul>
+            <ul>Document<li>public XDocument get_Document()</li></ul>
+            <ul>NodeType<li>public abstract virtual XmlNodeType get_NodeType()</li></ul>
+            <ul>Parent<li>public XElement get_Parent()</li></ul>
+          </div>
+          <div>
+            <h4>Methods: </h4>
+            <ul>
+              <li>public Void AddAnnotation(Object annotation)</li>
+              <li>public Object Annotation(Type type)</li>
+              <li>public T Annotation&lt;T&gt;()</li>
+              <li>public IEnumerable&lt;Object&gt; Annotations(Type type)</li>
+              <li>public IEnumerable&lt;T&gt; Annotations&lt;T&gt;()</li>
+              <li>public Void RemoveAnnotations(Type type)</li>
+              <li>public Void RemoveAnnotations&lt;T&gt;()</li>
+              <li>public Void add_Changed(EventHandler&lt;XObjectChangeEventArgs&gt; value)</li>
+              <li>public Void remove_Changed(EventHandler&lt;XObjectChangeEventArgs&gt; value)</li>
+              <li>public Void add_Changing(EventHandler&lt;XObjectChangeEventArgs&gt; value)</li>
+              <li>public Void remove_Changing(EventHandler&lt;XObjectChangeEventArgs&gt; value)</li>
+              <li>public virtual String ToString()</li>
+              <li>public virtual Boolean Equals(Object obj)</li>
+              <li>public virtual Int32 GetHashCode()</li>
+              <li>public Type GetType()</li>
+            </ul>
+          </div>
+        </div>
+        <div>
+          <h3>public class XObjectChangeEventArgs : EventArgs</h3>
+          <div>
+            <h4>Constructors: </h4>
+            <ul>
+              <li>public XObjectChangeEventArgs(XObjectChange objectChange)</li>
+            </ul>
+          </div>
+          <div>
+            <h4>Properties: </h4>
+            <ul>ObjectChange<li>public XObjectChange get_ObjectChange()</li></ul>
+          </div>
+          <div>
+            <h4>Methods: </h4>
+            <ul>
+              <li>public virtual String ToString()</li>
+              <li>public virtual Boolean Equals(Object obj)</li>
+              <li>public virtual Int32 GetHashCode()</li>
+              <li>public Type GetType()</li>
+            </ul>
+          </div>
+        </div>
+        <div>
+          <h3>public class XProcessingInstruction : XNode, IXmlLineInfo</h3>
+          <div>
+            <h4>Constructors: </h4>
+            <ul>
+              <li>public XProcessingInstruction(String target, String data)</li>
+              <li>public XProcessingInstruction(XProcessingInstruction other)</li>
+            </ul>
+          </div>
+          <div>
+            <h4>Properties: </h4>
+            <ul>Data<li>public String get_Data()</li><li>public Void set_Data(String value)</li></ul>
+            <ul>NodeType<li>public virtual XmlNodeType get_NodeType()</li></ul>
+            <ul>Target<li>public String get_Target()</li><li>public Void set_Target(String value)</li></ul>
+            <ul>NextNode<li>public XNode get_NextNode()</li></ul>
+            <ul>PreviousNode<li>public XNode get_PreviousNode()</li></ul>
+            <ul>BaseUri<li>public String get_BaseUri()</li></ul>
+            <ul>Document<li>public XDocument get_Document()</li></ul>
+            <ul>Parent<li>public XElement get_Parent()</li></ul>
+          </div>
+          <div>
+            <h4>Methods: </h4>
+            <ul>
+              <li>public virtual Void WriteTo(XmlWriter writer)</li>
+              <li>public Void AddAfterSelf(Object content)</li>
+              <li>public Void AddAfterSelf(Object[] content)</li>
+              <li>public Void AddBeforeSelf(Object content)</li>
+              <li>public Void AddBeforeSelf(Object[] content)</li>
+              <li>public IEnumerable&lt;XElement&gt; Ancestors()</li>
+              <li>public IEnumerable&lt;XElement&gt; Ancestors(XName name)</li>
+              <li>public XmlReader CreateReader()</li>
+              <li>public XmlReader CreateReader(ReaderOptions readerOptions)</li>
+              <li>public IEnumerable&lt;XNode&gt; NodesAfterSelf()</li>
+              <li>public IEnumerable&lt;XNode&gt; NodesBeforeSelf()</li>
+              <li>public IEnumerable&lt;XElement&gt; ElementsAfterSelf()</li>
+              <li>public IEnumerable&lt;XElement&gt; ElementsAfterSelf(XName name)</li>
+              <li>public IEnumerable&lt;XElement&gt; ElementsBeforeSelf()</li>
+              <li>public IEnumerable&lt;XElement&gt; ElementsBeforeSelf(XName name)</li>
+              <li>public Boolean IsAfter(XNode node)</li>
+              <li>public Boolean IsBefore(XNode node)</li>
+              <li>public Void Remove()</li>
+              <li>public Void ReplaceWith(Object content)</li>
+              <li>public Void ReplaceWith(Object[] content)</li>
+              <li>public virtual String ToString()</li>
+              <li>public String ToString(SaveOptions options)</li>
+              <li>public Void AddAnnotation(Object annotation)</li>
+              <li>public Object Annotation(Type type)</li>
+              <li>public T Annotation&lt;T&gt;()</li>
+              <li>public IEnumerable&lt;Object&gt; Annotations(Type type)</li>
+              <li>public IEnumerable&lt;T&gt; Annotations&lt;T&gt;()</li>
+              <li>public Void RemoveAnnotations(Type type)</li>
+              <li>public Void RemoveAnnotations&lt;T&gt;()</li>
+              <li>public Void add_Changed(EventHandler&lt;XObjectChangeEventArgs&gt; value)</li>
+              <li>public Void remove_Changed(EventHandler&lt;XObjectChangeEventArgs&gt; value)</li>
+              <li>public Void add_Changing(EventHandler&lt;XObjectChangeEventArgs&gt; value)</li>
+              <li>public Void remove_Changing(EventHandler&lt;XObjectChangeEventArgs&gt; value)</li>
+              <li>public virtual Boolean Equals(Object obj)</li>
+              <li>public virtual Int32 GetHashCode()</li>
+              <li>public Type GetType()</li>
+            </ul>
+          </div>
+        </div>
+        <div>
+          <h3>public class XStreamingElement</h3>
+          <div>
+            <h4>Constructors: </h4>
+            <ul>
+              <li>public XStreamingElement(XName name)</li>
+              <li>public XStreamingElement(XName name, Object content)</li>
+              <li>public XStreamingElement(XName name, Object[] content)</li>
+            </ul>
+          </div>
+          <div>
+            <h4>Properties: </h4>
+            <ul>Name<li>public XName get_Name()</li><li>public Void set_Name(XName value)</li></ul>
+          </div>
+          <div>
+            <h4>Methods: </h4>
+            <ul>
+              <li>public Void Add(Object content)</li>
+              <li>public Void Add(Object[] content)</li>
+              <li>public Void Save(String fileName)</li>
+              <li>public Void Save(String fileName, SaveOptions options)</li>
+              <li>public Void Save(Stream stream)</li>
+              <li>public Void Save(Stream stream, SaveOptions options)</li>
+              <li>public Void Save(TextWriter textWriter)</li>
+              <li>public Void Save(TextWriter textWriter, SaveOptions options)</li>
+              <li>public Void Save(XmlWriter writer)</li>
+              <li>public virtual String ToString()</li>
+              <li>public String ToString(SaveOptions options)</li>
+              <li>public Void WriteTo(XmlWriter writer)</li>
+              <li>public virtual Boolean Equals(Object obj)</li>
+              <li>public virtual Int32 GetHashCode()</li>
+              <li>public Type GetType()</li>
+            </ul>
+          </div>
+        </div>
+        <div>
+          <h3>public class XText : XNode, IXmlLineInfo</h3>
+          <div>
+            <h4>Constructors: </h4>
+            <ul>
+              <li>public XText(String value)</li>
+              <li>public XText(XText other)</li>
+            </ul>
+          </div>
+          <div>
+            <h4>Properties: </h4>
+            <ul>NodeType<li>public virtual XmlNodeType get_NodeType()</li></ul>
+            <ul>Value<li>public String get_Value()</li><li>public Void set_Value(String value)</li></ul>
+            <ul>NextNode<li>public XNode get_NextNode()</li></ul>
+            <ul>PreviousNode<li>public XNode get_PreviousNode()</li></ul>
+            <ul>BaseUri<li>public String get_BaseUri()</li></ul>
+            <ul>Document<li>public XDocument get_Document()</li></ul>
+            <ul>Parent<li>public XElement get_Parent()</li></ul>
+          </div>
+          <div>
+            <h4>Methods: </h4>
+            <ul>
+              <li>public virtual Void WriteTo(XmlWriter writer)</li>
+              <li>public Void AddAfterSelf(Object content)</li>
+              <li>public Void AddAfterSelf(Object[] content)</li>
+              <li>public Void AddBeforeSelf(Object content)</li>
+              <li>public Void AddBeforeSelf(Object[] content)</li>
+              <li>public IEnumerable&lt;XElement&gt; Ancestors()</li>
+              <li>public IEnumerable&lt;XElement&gt; Ancestors(XName name)</li>
+              <li>public XmlReader CreateReader()</li>
+              <li>public XmlReader CreateReader(ReaderOptions readerOptions)</li>
+              <li>public IEnumerable&lt;XNode&gt; NodesAfterSelf()</li>
+              <li>public IEnumerable&lt;XNode&gt; NodesBeforeSelf()</li>
+              <li>public IEnumerable&lt;XElement&gt; ElementsAfterSelf()</li>
+              <li>public IEnumerable&lt;XElement&gt; ElementsAfterSelf(XName name)</li>
+              <li>public IEnumerable&lt;XElement&gt; ElementsBeforeSelf()</li>
+              <li>public IEnumerable&lt;XElement&gt; ElementsBeforeSelf(XName name)</li>
+              <li>public Boolean IsAfter(XNode node)</li>
+              <li>public Boolean IsBefore(XNode node)</li>
+              <li>public Void Remove()</li>
+              <li>public Void ReplaceWith(Object content)</li>
+              <li>public Void ReplaceWith(Object[] content)</li>
+              <li>public virtual String ToString()</li>
+              <li>public String ToString(SaveOptions options)</li>
+              <li>public Void AddAnnotation(Object annotation)</li>
+              <li>public Object Annotation(Type type)</li>
+              <li>public T Annotation&lt;T&gt;()</li>
+              <li>public IEnumerable&lt;Object&gt; Annotations(Type type)</li>
+              <li>public IEnumerable&lt;T&gt; Annotations&lt;T&gt;()</li>
+              <li>public Void RemoveAnnotations(Type type)</li>
+              <li>public Void RemoveAnnotations&lt;T&gt;()</li>
+              <li>public Void add_Changed(EventHandler&lt;XObjectChangeEventArgs&gt; value)</li>
+              <li>public Void remove_Changed(EventHandler&lt;XObjectChangeEventArgs&gt; value)</li>
+              <li>public Void add_Changing(EventHandler&lt;XObjectChangeEventArgs&gt; value)</li>
+              <li>public Void remove_Changing(EventHandler&lt;XObjectChangeEventArgs&gt; value)</li>
+              <li>public virtual Boolean Equals(Object obj)</li>
+              <li>public virtual Int32 GetHashCode()</li>
+              <li>public Type GetType()</li>
+            </ul>
+          </div>
+        </div>
+        <div>
+          <h3>public sealed enum LoadOptions : IComparable, IFormattable, IConvertible</h3>
+          <div>
+            <h4>Methods: </h4>
+            <ul>
+              <li>public virtual Boolean Equals(Object obj)</li>
+              <li>public virtual Int32 GetHashCode()</li>
+              <li>public virtual String ToString()</li>
+              <li>public virtual String ToString(String format, IFormatProvider provider)</li>
+              <li>public virtual Int32 CompareTo(Object target)</li>
+              <li>public String ToString(String format)</li>
+              <li>public virtual String ToString(IFormatProvider provider)</li>
+              <li>public Boolean HasFlag(Enum flag)</li>
+              <li>public virtual TypeCode GetTypeCode()</li>
+              <li>public Type GetType()</li>
+            </ul>
+          </div>
+        </div>
+        <div>
+          <h3>public sealed enum ReaderOptions : IComparable, IFormattable, IConvertible</h3>
+          <div>
+            <h4>Methods: </h4>
+            <ul>
+              <li>public virtual Boolean Equals(Object obj)</li>
+              <li>public virtual Int32 GetHashCode()</li>
+              <li>public virtual String ToString()</li>
+              <li>public virtual String ToString(String format, IFormatProvider provider)</li>
+              <li>public virtual Int32 CompareTo(Object target)</li>
+              <li>public String ToString(String format)</li>
+              <li>public virtual String ToString(IFormatProvider provider)</li>
+              <li>public Boolean HasFlag(Enum flag)</li>
+              <li>public virtual TypeCode GetTypeCode()</li>
+              <li>public Type GetType()</li>
+            </ul>
+          </div>
+        </div>
+        <div>
+          <h3>public sealed enum SaveOptions : IComparable, IFormattable, IConvertible</h3>
+          <div>
+            <h4>Methods: </h4>
+            <ul>
+              <li>public virtual Boolean Equals(Object obj)</li>
+              <li>public virtual Int32 GetHashCode()</li>
+              <li>public virtual String ToString()</li>
+              <li>public virtual String ToString(String format, IFormatProvider provider)</li>
+              <li>public virtual Int32 CompareTo(Object target)</li>
+              <li>public String ToString(String format)</li>
+              <li>public virtual String ToString(IFormatProvider provider)</li>
+              <li>public Boolean HasFlag(Enum flag)</li>
+              <li>public virtual TypeCode GetTypeCode()</li>
+              <li>public Type GetType()</li>
+            </ul>
+          </div>
+        </div>
+        <div>
+          <h3>public sealed enum XObjectChange : IComparable, IFormattable, IConvertible</h3>
+          <div>
+            <h4>Methods: </h4>
+            <ul>
+              <li>public virtual Boolean Equals(Object obj)</li>
+              <li>public virtual Int32 GetHashCode()</li>
+              <li>public virtual String ToString()</li>
+              <li>public virtual String ToString(String format, IFormatProvider provider)</li>
+              <li>public virtual Int32 CompareTo(Object target)</li>
+              <li>public String ToString(String format)</li>
+              <li>public virtual String ToString(IFormatProvider provider)</li>
+              <li>public Boolean HasFlag(Enum flag)</li>
+              <li>public virtual TypeCode GetTypeCode()</li>
+              <li>public Type GetType()</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div>
+        <h2>Namespace: System.Xml.Schema</h2>
+        <div>
+          <h3>public sealed abstract class Extensions</h3>
+          <div>
+            <h4>Methods: </h4>
+            <ul>
+              <li>public static IXmlSchemaInfo GetSchemaInfo(this XElement source)</li>
+              <li>public static IXmlSchemaInfo GetSchemaInfo(this XAttribute source)</li>
+              <li>public static Void Validate(this XDocument source, XmlSchemaSet schemas, ValidationEventHandler validationEventHandler)</li>
+              <li>public static Void Validate(this XDocument source, XmlSchemaSet schemas, ValidationEventHandler validationEventHandler, Boolean addSchemaInfo)</li>
+              <li>public static Void Validate(this XElement source, XmlSchemaObject partialValidationType, XmlSchemaSet schemas, ValidationEventHandler validationEventHandler)</li>
+              <li>public static Void Validate(this XElement source, XmlSchemaObject partialValidationType, XmlSchemaSet schemas, ValidationEventHandler validationEventHandler, Boolean addSchemaInfo)</li>
+              <li>public static Void Validate(this XAttribute source, XmlSchemaObject partialValidationType, XmlSchemaSet schemas, ValidationEventHandler validationEventHandler)</li>
+              <li>public static Void Validate(this XAttribute source, XmlSchemaObject partialValidationType, XmlSchemaSet schemas, ValidationEventHandler validationEventHandler, Boolean addSchemaInfo)</li>
+              <li>public virtual String ToString()</li>
+              <li>public virtual Boolean Equals(Object obj)</li>
+              <li>public virtual Int32 GetHashCode()</li>
+              <li>public Type GetType()</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div>
+        <h2>Namespace: System.Xml.XPath</h2>
+        <div>
+          <h3>public sealed abstract class Extensions</h3>
+          <div>
+            <h4>Methods: </h4>
+            <ul>
+              <li>public static XPathNavigator CreateNavigator(this XNode node)</li>
+              <li>public static XPathNavigator CreateNavigator(this XNode node, XmlNameTable nameTable)</li>
+              <li>public static Object XPathEvaluate(this XNode node, String expression)</li>
+              <li>public static Object XPathEvaluate(this XNode node, String expression, IXmlNamespaceResolver resolver)</li>
+              <li>public static XElement XPathSelectElement(this XNode node, String expression)</li>
+              <li>public static XElement XPathSelectElement(this XNode node, String expression, IXmlNamespaceResolver resolver)</li>
+              <li>public static IEnumerable&lt;XElement&gt; XPathSelectElements(this XNode node, String expression)</li>
+              <li>public static IEnumerable&lt;XElement&gt; XPathSelectElements(this XNode node, String expression, IXmlNamespaceResolver resolver)</li>
+              <li>public virtual String ToString()</li>
+              <li>public virtual Boolean Equals(Object obj)</li>
+              <li>public virtual Int32 GetHashCode()</li>
+              <li>public Type GetType()</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

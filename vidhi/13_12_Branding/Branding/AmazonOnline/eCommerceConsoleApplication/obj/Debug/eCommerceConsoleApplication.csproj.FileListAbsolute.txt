@@ -1,0 +1,10 @@
+D:\demos\SolutionMyAmazon\eCommerceConsoleApplication\bin\Debug\eCommerceConsoleApplication.exe.config
+D:\demos\SolutionMyAmazon\eCommerceConsoleApplication\bin\Debug\eCommerceConsoleApplication.exe
+D:\demos\SolutionMyAmazon\eCommerceConsoleApplication\bin\Debug\eCommerceConsoleApplication.pdb
+D:\demos\SolutionMyAmazon\eCommerceConsoleApplication\bin\Debug\eCommerceBOL.dll
+D:\demos\SolutionMyAmazon\eCommerceConsoleApplication\bin\Debug\eCommerceDAL.dll
+D:\demos\SolutionMyAmazon\eCommerceConsoleApplication\bin\Debug\eCommerceBOL.pdb
+D:\demos\SolutionMyAmazon\eCommerceConsoleApplication\bin\Debug\eCommerceDAL.pdb
+D:\demos\SolutionMyAmazon\eCommerceConsoleApplication\obj\Debug\eCommerceConsoleApplication.csprojResolveAssemblyReference.cache
+D:\demos\SolutionMyAmazon\eCommerceConsoleApplication\obj\Debug\eCommerceConsoleApplication.exe
+D:\demos\SolutionMyAmazon\eCommerceConsoleApplication\obj\Debug\eCommerceConsoleApplication.pdb

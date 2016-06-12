@@ -1,0 +1,16 @@
+D:\Amitabh\Dot Net\Demos\Demos_2010\CSharpSamples\LinqSamples\XQuery\bin\Debug\Data\bib.xml
+D:\Amitabh\Dot Net\Demos\Demos_2010\CSharpSamples\LinqSamples\XQuery\bin\Debug\XQuery.exe
+D:\Amitabh\Dot Net\Demos\Demos_2010\CSharpSamples\LinqSamples\XQuery\bin\Debug\XQuery.pdb
+D:\Amitabh\Dot Net\Demos\Demos_2010\CSharpSamples\LinqSamples\XQuery\obj\Debug\ResolveAssemblyReference.cache
+D:\Amitabh\Dot Net\Demos\Demos_2010\CSharpSamples\LinqSamples\XQuery\obj\Debug\XQuery.exe
+D:\Amitabh\Dot Net\Demos\Demos_2010\CSharpSamples\LinqSamples\XQuery\obj\Debug\XQuery.pdb
+E:\RaviT\C#\Demos\Demos_2010\CSharpSamples\LinqSamples\XQuery\bin\Debug\Data\bib.xml
+E:\RaviT\C#\Demos\Demos_2010\CSharpSamples\LinqSamples\XQuery\bin\Debug\XQuery.exe
+E:\RaviT\C#\Demos\Demos_2010\CSharpSamples\LinqSamples\XQuery\bin\Debug\XQuery.pdb
+E:\RaviT\C#\Demos\Demos_2010\CSharpSamples\LinqSamples\XQuery\obj\Debug\XQuery.exe
+E:\RaviT\C#\Demos\Demos_2010\CSharpSamples\LinqSamples\XQuery\obj\Debug\XQuery.pdb
+E:\try\Nitor_LINQ\CSharpSamples\LinqSamples\XQuery\bin\Debug\Data\bib.xml
+E:\try\Nitor_LINQ\CSharpSamples\LinqSamples\XQuery\bin\Debug\XQuery.exe
+E:\try\Nitor_LINQ\CSharpSamples\LinqSamples\XQuery\bin\Debug\XQuery.pdb
+E:\try\Nitor_LINQ\CSharpSamples\LinqSamples\XQuery\obj\Debug\XQuery.exe
+E:\try\Nitor_LINQ\CSharpSamples\LinqSamples\XQuery\obj\Debug\XQuery.pdb

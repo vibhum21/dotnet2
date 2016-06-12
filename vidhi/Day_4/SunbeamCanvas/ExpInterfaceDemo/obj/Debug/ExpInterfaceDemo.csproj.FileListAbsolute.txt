@@ -1,0 +1,5 @@
+E:\SunbeamCanvas\ExpInterfaceDemo\bin\Debug\ExpInterfaceDemo.exe.config
+E:\SunbeamCanvas\ExpInterfaceDemo\bin\Debug\ExpInterfaceDemo.exe
+E:\SunbeamCanvas\ExpInterfaceDemo\bin\Debug\ExpInterfaceDemo.pdb
+E:\SunbeamCanvas\ExpInterfaceDemo\obj\Debug\ExpInterfaceDemo.exe
+E:\SunbeamCanvas\ExpInterfaceDemo\obj\Debug\ExpInterfaceDemo.pdb

@@ -1,0 +1,13 @@
+C:\Users\user\Documents\SunBeam\DotNet\Day_5\SunbeamCanvas4_12\SunbeamRichDeskApplication\bin\Debug\SunbeamRichDeskApplication.exe.config
+C:\Users\user\Documents\SunBeam\DotNet\Day_5\SunbeamCanvas4_12\SunbeamRichDeskApplication\bin\Debug\SunbeamRichDeskApplication.exe
+C:\Users\user\Documents\SunBeam\DotNet\Day_5\SunbeamCanvas4_12\SunbeamRichDeskApplication\bin\Debug\SunbeamRichDeskApplication.pdb
+C:\Users\user\Documents\SunBeam\DotNet\Day_5\SunbeamCanvas4_12\SunbeamRichDeskApplication\obj\Debug\SunbeamRichDeskApplication.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\SunBeam\DotNet\Day_5\SunbeamCanvas4_12\SunbeamRichDeskApplication\obj\Debug\MainWindow.baml
+C:\Users\user\Documents\SunBeam\DotNet\Day_5\SunbeamCanvas4_12\SunbeamRichDeskApplication\obj\Debug\MainWindow.g.cs
+C:\Users\user\Documents\SunBeam\DotNet\Day_5\SunbeamCanvas4_12\SunbeamRichDeskApplication\obj\Debug\App.g.cs
+C:\Users\user\Documents\SunBeam\DotNet\Day_5\SunbeamCanvas4_12\SunbeamRichDeskApplication\obj\Debug\SunbeamRichDeskApplication_MarkupCompile.cache
+C:\Users\user\Documents\SunBeam\DotNet\Day_5\SunbeamCanvas4_12\SunbeamRichDeskApplication\obj\Debug\SunbeamRichDeskApplication.g.resources
+C:\Users\user\Documents\SunBeam\DotNet\Day_5\SunbeamCanvas4_12\SunbeamRichDeskApplication\obj\Debug\SunbeamRichDeskApplication.Properties.Resources.resources
+C:\Users\user\Documents\SunBeam\DotNet\Day_5\SunbeamCanvas4_12\SunbeamRichDeskApplication\obj\Debug\SunbeamRichDeskApplication.csproj.GenerateResource.Cache
+C:\Users\user\Documents\SunBeam\DotNet\Day_5\SunbeamCanvas4_12\SunbeamRichDeskApplication\obj\Debug\SunbeamRichDeskApplication.exe
+C:\Users\user\Documents\SunBeam\DotNet\Day_5\SunbeamCanvas4_12\SunbeamRichDeskApplication\obj\Debug\SunbeamRichDeskApplication.pdb

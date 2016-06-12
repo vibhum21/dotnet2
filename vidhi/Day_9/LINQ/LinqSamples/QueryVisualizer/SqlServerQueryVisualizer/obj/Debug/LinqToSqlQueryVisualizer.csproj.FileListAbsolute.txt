@@ -1,0 +1,27 @@
+D:\Amitabh\Dot Net\Demos\Demos_2010\CSharpSamples\LinqSamples\QueryVisualizer\SqlServerQueryVisualizer\bin\Debug\LinqToSqlQueryVisualizer.dll
+D:\Amitabh\Dot Net\Demos\Demos_2010\CSharpSamples\LinqSamples\QueryVisualizer\SqlServerQueryVisualizer\bin\Debug\LinqToSqlQueryVisualizer.pdb
+D:\Amitabh\Dot Net\Demos\Demos_2010\CSharpSamples\LinqSamples\QueryVisualizer\SqlServerQueryVisualizer\obj\Debug\ResolveAssemblyReference.cache
+D:\Amitabh\Dot Net\Demos\Demos_2010\CSharpSamples\LinqSamples\QueryVisualizer\SqlServerQueryVisualizer\obj\Debug\LinqToSqlQueryVisualizer.Properties.Resources.resources
+D:\Amitabh\Dot Net\Demos\Demos_2010\CSharpSamples\LinqSamples\QueryVisualizer\SqlServerQueryVisualizer\obj\Debug\LinqToSqlQueryVisualizer.QueryResult.resources
+D:\Amitabh\Dot Net\Demos\Demos_2010\CSharpSamples\LinqSamples\QueryVisualizer\SqlServerQueryVisualizer\obj\Debug\LinqToSqlQueryVisualizer.QueryResult2.resources
+D:\Amitabh\Dot Net\Demos\Demos_2010\CSharpSamples\LinqSamples\QueryVisualizer\SqlServerQueryVisualizer\obj\Debug\LinqToSqlQueryVisualizer.QueryVisualizerForm.resources
+D:\Amitabh\Dot Net\Demos\Demos_2010\CSharpSamples\LinqSamples\QueryVisualizer\SqlServerQueryVisualizer\obj\Debug\GenerateResource.read.1.tlog
+D:\Amitabh\Dot Net\Demos\Demos_2010\CSharpSamples\LinqSamples\QueryVisualizer\SqlServerQueryVisualizer\obj\Debug\GenerateResource.write.1.tlog
+D:\Amitabh\Dot Net\Demos\Demos_2010\CSharpSamples\LinqSamples\QueryVisualizer\SqlServerQueryVisualizer\obj\Debug\LinqToSqlQueryVisualizer.dll
+D:\Amitabh\Dot Net\Demos\Demos_2010\CSharpSamples\LinqSamples\QueryVisualizer\SqlServerQueryVisualizer\obj\Debug\LinqToSqlQueryVisualizer.pdb
+E:\RaviT\C#\Demos\Demos_2010\CSharpSamples\LinqSamples\QueryVisualizer\SqlServerQueryVisualizer\obj\Debug\LinqToSqlQueryVisualizer.csprojResolveAssemblyReference.cache
+E:\RaviT\C#\Demos\Demos_2010\CSharpSamples\LinqSamples\QueryVisualizer\SqlServerQueryVisualizer\obj\Debug\LinqToSqlQueryVisualizer.Properties.Resources.resources
+E:\RaviT\C#\Demos\Demos_2010\CSharpSamples\LinqSamples\QueryVisualizer\SqlServerQueryVisualizer\obj\Debug\LinqToSqlQueryVisualizer.QueryResult.resources
+E:\RaviT\C#\Demos\Demos_2010\CSharpSamples\LinqSamples\QueryVisualizer\SqlServerQueryVisualizer\obj\Debug\LinqToSqlQueryVisualizer.QueryResult2.resources
+E:\RaviT\C#\Demos\Demos_2010\CSharpSamples\LinqSamples\QueryVisualizer\SqlServerQueryVisualizer\obj\Debug\LinqToSqlQueryVisualizer.QueryVisualizerForm.resources
+E:\RaviT\C#\Demos\Demos_2010\CSharpSamples\LinqSamples\QueryVisualizer\SqlServerQueryVisualizer\obj\Debug\LinqToSqlQueryVisualizer.csproj.GenerateResource.Cache
+E:\RaviT\C#\Demos\Demos_2010\CSharpSamples\LinqSamples\QueryVisualizer\SqlServerQueryVisualizer\obj\Debug\LinqToSqlQueryVisualizer.dll
+E:\RaviT\C#\Demos\Demos_2010\CSharpSamples\LinqSamples\QueryVisualizer\SqlServerQueryVisualizer\obj\Debug\LinqToSqlQueryVisualizer.pdb
+E:\try\Nitor_LINQ\CSharpSamples\LinqSamples\QueryVisualizer\SqlServerQueryVisualizer\obj\Debug\LinqToSqlQueryVisualizer.csprojResolveAssemblyReference.cache
+E:\try\Nitor_LINQ\CSharpSamples\LinqSamples\QueryVisualizer\SqlServerQueryVisualizer\obj\Debug\LinqToSqlQueryVisualizer.Properties.Resources.resources
+E:\try\Nitor_LINQ\CSharpSamples\LinqSamples\QueryVisualizer\SqlServerQueryVisualizer\obj\Debug\LinqToSqlQueryVisualizer.QueryResult.resources
+E:\try\Nitor_LINQ\CSharpSamples\LinqSamples\QueryVisualizer\SqlServerQueryVisualizer\obj\Debug\LinqToSqlQueryVisualizer.QueryResult2.resources
+E:\try\Nitor_LINQ\CSharpSamples\LinqSamples\QueryVisualizer\SqlServerQueryVisualizer\obj\Debug\LinqToSqlQueryVisualizer.QueryVisualizerForm.resources
+E:\try\Nitor_LINQ\CSharpSamples\LinqSamples\QueryVisualizer\SqlServerQueryVisualizer\obj\Debug\LinqToSqlQueryVisualizer.csproj.GenerateResource.Cache
+E:\try\Nitor_LINQ\CSharpSamples\LinqSamples\QueryVisualizer\SqlServerQueryVisualizer\obj\Debug\LinqToSqlQueryVisualizer.dll
+E:\try\Nitor_LINQ\CSharpSamples\LinqSamples\QueryVisualizer\SqlServerQueryVisualizer\obj\Debug\LinqToSqlQueryVisualizer.pdb

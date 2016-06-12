@@ -1,0 +1,26 @@
+<%@ Master Language="C#" Inherits="BaseMaster" 
+    ClassName="MasterGreen" %>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" 
+    "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+
+<script runat="server">
+    public override String MyTitle
+    { 
+        get { return "MasterGreen Title"; } 
+    }
+</script>
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head id="Head1" runat="server">   
+    <title>No title</title>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div style="background-color:LightGreen">
+        <asp:contentplaceholder id="ContentPlaceHolder1" 
+            runat="server">
+            Microsoft Solutions</asp:contentplaceholder>
+    </div>
+    </form>
+</body>
+</html>

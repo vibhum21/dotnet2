@@ -1,0 +1,18 @@
+D:\Amitabh\Dot Net\Demos\Demos_2010\CSharpSamples\LinqSamples\NorthwindMapping\bin\Debug\NorthwindMapping.dll.config
+D:\Amitabh\Dot Net\Demos\Demos_2010\CSharpSamples\LinqSamples\NorthwindMapping\bin\Debug\NorthwindMapping.dll
+D:\Amitabh\Dot Net\Demos\Demos_2010\CSharpSamples\LinqSamples\NorthwindMapping\bin\Debug\NorthwindMapping.pdb
+D:\Amitabh\Dot Net\Demos\Demos_2010\CSharpSamples\LinqSamples\NorthwindMapping\obj\Debug\ResolveAssemblyReference.cache
+D:\Amitabh\Dot Net\Demos\Demos_2010\CSharpSamples\LinqSamples\NorthwindMapping\obj\Debug\NorthwindMapping.dll
+D:\Amitabh\Dot Net\Demos\Demos_2010\CSharpSamples\LinqSamples\NorthwindMapping\obj\Debug\NorthwindMapping.pdb
+E:\RaviT\C#\Demos\Demos_2010\CSharpSamples\LinqSamples\NorthwindMapping\bin\Debug\NorthwindMapping.dll.config
+E:\RaviT\C#\Demos\Demos_2010\CSharpSamples\LinqSamples\NorthwindMapping\bin\Debug\NorthwindMapping.dll
+E:\RaviT\C#\Demos\Demos_2010\CSharpSamples\LinqSamples\NorthwindMapping\bin\Debug\NorthwindMapping.pdb
+E:\RaviT\C#\Demos\Demos_2010\CSharpSamples\LinqSamples\NorthwindMapping\obj\Debug\NorthwindMapping.csprojResolveAssemblyReference.cache
+E:\RaviT\C#\Demos\Demos_2010\CSharpSamples\LinqSamples\NorthwindMapping\obj\Debug\NorthwindMapping.dll
+E:\RaviT\C#\Demos\Demos_2010\CSharpSamples\LinqSamples\NorthwindMapping\obj\Debug\NorthwindMapping.pdb
+E:\try\Nitor_LINQ\CSharpSamples\LinqSamples\NorthwindMapping\bin\Debug\NorthwindMapping.dll.config
+E:\try\Nitor_LINQ\CSharpSamples\LinqSamples\NorthwindMapping\bin\Debug\NorthwindMapping.dll
+E:\try\Nitor_LINQ\CSharpSamples\LinqSamples\NorthwindMapping\bin\Debug\NorthwindMapping.pdb
+E:\try\Nitor_LINQ\CSharpSamples\LinqSamples\NorthwindMapping\obj\Debug\NorthwindMapping.csprojResolveAssemblyReference.cache
+E:\try\Nitor_LINQ\CSharpSamples\LinqSamples\NorthwindMapping\obj\Debug\NorthwindMapping.dll
+E:\try\Nitor_LINQ\CSharpSamples\LinqSamples\NorthwindMapping\obj\Debug\NorthwindMapping.pdb

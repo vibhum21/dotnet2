@@ -1,0 +1,164 @@
+BODY {
+	MARGIN: 0px
+}
+FORM {
+	MARGIN: 0px
+}
+
+BODY {
+	BACKGROUND: white; COLOR: black; FONT-FAMILY: verdana, arial, helvetica, sans-serif
+}
+
+A {
+	COLOR: #003399; FONT-FAMILY: verdana, arial, helvetica, sans-serif 
+}
+A:link {
+	COLOR: #003399; TEXT-DECORATION:none
+}
+
+A:visited {
+	COLOR: #003399; TEXT-DECORATION:none 
+}
+
+A:hover {
+	COLOR: red; TEXT-DECORATION: underline
+}
+
+SELECT {
+	FONT-SIZE: 8pt; FONT-FAMILY: Verdana, sans-serif
+}
+HR {
+	COLOR: #003399; HEIGHT: 2px
+}
+
+.BulletStyle 
+{
+	FONT-SIZE: 8pt; VERTICAL-ALIGN: top; FONT-FAMILY: verdana' style='PADDING-BOTTOM: 5px
+}
+
+.WebPartTitle{
+	BACKGROUND-IMAGE: url(images/PartTitleGrad.gif); BACKGROUND-REPEAT: repeat-x; BACKGROUND-COLOR: #b9d1f4; PADDING-RIGHT: 7px; PADDING-LEFT: 6px; FONT-SIZE: 8pt; PADDING-BOTTOM: 2px; COLOR: #003399; PADDING-TOP: 2px; FONT-FAMILY: verdana, arial, helvetica, sans-serif
+}
+
+.BannerCell
+{
+	FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: #003399; FONT-FAMILY: verdana, arial, helvetica, sans-serif
+}
+
+.BannerTitle 
+{
+	FONT-WEIGHT: bold; FONT-SIZE: 12pt; COLOR: #003399; FONT-FAMILY: verdana, arial, helvetica, sans-serif
+}
+
+.BannerFrame {
+	BACKGROUND-IMAGE: url(images/BannerGrad.gif); BACKGROUND-REPEAT: repeat-x; 
+}
+
+.BannerCell A:link {
+	FONT-WEIGHT: bold; FONT-SIZE: 8pt; COLOR: white; FONT-FAMILY: Verdana, serif; TEXT-DECORATION: none
+}
+.BannerCell A:visited {
+	FONT-WEIGHT: bold; FONT-SIZE: 8pt; COLOR: white; FONT-FAMILY: Verdana, serif; TEXT-DECORATION: none
+}
+.BannerCell {
+	FONT-SIZE: 8pt; COLOR: white; FONT-FAMILY: verdana
+}
+
+.BannerTitle 
+{
+	FONT-SIZE: 14pt; COLOR: white; FONT-FAMILY: verdana
+}
+
+.HeaderFrame
+{
+	BACKGROUND-COLOR: #ffdf8c
+}
+.HeaderCell {
+	FONT-SIZE: 9pt; FONT-FAMILY: verdana
+}
+
+.HeaderTitle 
+{
+	FONT-WEIGHT: normal; FONT-SIZE: 14pt; COLOR: black; FONT-FAMILY: arial
+}
+
+.LightBlueTable 
+{
+	BACKGROUND-COLOR: #e1ecfc;
+}
+
+.GradientTitleHeader 
+{
+	BACKGROUND-IMAGE: url(images/PartTitleGrad.gif); BACKGROUND-REPEAT: repeat-x; BACKGROUND-COLOR: #b9d1f4; PADDING-RIGHT: 7px; PADDING-LEFT: 6px; FONT-WEIGHT: bold; FONT-SIZE: 8pt; PADDING-BOTTOM: 2px; COLOR: #003399; PADDING-TOP: 2px; FONT-FAMILY: verdana, arial, helvetica, sans-serif
+}
+
+.DarkGradientTitleHeader 
+{
+	BACKGROUND-IMAGE: url(images/BannerGrad.gif); BACKGROUND-REPEAT: repeat-x; BACKGROUND-COLOR: #b9d1f4; PADDING-RIGHT: 7px; PADDING-LEFT: 6px; FONT-WEIGHT: bold; FONT-SIZE: 8pt; PADDING-BOTTOM: 2px; COLOR: #FFFFFF; PADDING-TOP: 2px; FONT-FAMILY: verdana, arial, helvetica, sans-serif
+}
+
+.TableText
+{
+	COLOR: #003399; FONT-FAMILY: verdana, arial, helvetica, sans-serif; font-size: 8pt;
+}
+
+.WebPartContent
+{
+	COLOR: #003399; FONT-FAMILY: verdana, arial, helvetica, sans-serif; font-size: 8pt;
+}
+
+.EditorZoneBody
+{
+	FONT-SIZE: 8pt; COLOR: #000000; FONT-SIZE: 8pt; FONT-FAMILY: verdana, arial, helvetica, sans-serif
+}
+
+.EditorZoneFooter 
+{
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; FONT-SIZE: 8pt; PADDING-BOTTOM: 5px; COLOR: white; PADDING-TOP: 5px; FONT-FAMILY: verdana, arial, helvetica, sans-serif; BACKGROUND-COLOR: #2254b1
+}
+
+.EditorPartStyle 
+{
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 8pt; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; BACKGROUND-COLOR: #e1ecfc
+}
+
+.EditorZoneTitle
+{
+	PADDING-RIGHT: 7px; PADDING-LEFT: 3px; FONT-WEIGHT: bold; FONT-SIZE: 8pt; PADDING-BOTTOM: 3px; COLOR: white; PADDING-TOP: 3px; FONT-FAMILY: verdana, arial, helvetica, sans-serif; BACKGROUND-COLOR: #2254b1
+}
+
+.EditorPartTitle
+{
+	BACKGROUND-COLOR: #cbdbf8; PADDING-RIGHT: 0px; PADDING-LEFT: 4px; FONT-WEIGHT: bold; FONT-SIZE: 8pt; PADDING-BOTTOM: 2px; COLOR: midnightblue; PADDING-TOP: 2px; FONT-FAMILY: verdana, arial, helvetica, sans-serif
+}
+
+.EditorZoneVerb
+{
+	FONT-SIZE: 8pt; COLOR: black; FONT-FAMILY: Verdana, Arial, Sans-Serif
+}
+
+.WebPartBody {
+	FONT-SIZE: 8pt; FONT-FAMILY: verdana, arial, helvetica, sans-serif
+}
+.WebPartBody TABLE {
+	FONT-SIZE: 1em
+}
+.WebPartBody A:link {
+	COLOR: #003399; TEXT-DECORATION:underline;
+}
+.WebPartBody A:visited {
+	COLOR: #003399; TEXT-DECORATION:underline;
+}
+.WebPartBody A:hover {
+	COLOR: red; TEXT-DECORATION: underline
+}
+.WebPartBody TH {
+	FONT-WEIGHT: bold
+}
+.WebPartBody TD {
+	FONT-SIZE: 8pt; FONT-FAMILY: verdana, arial, helvetica, sans-serif
+}
+.WebPartBody H1 {
+	FONT-WEIGHT: bold; FONT-SIZE: 200%
+}
+
