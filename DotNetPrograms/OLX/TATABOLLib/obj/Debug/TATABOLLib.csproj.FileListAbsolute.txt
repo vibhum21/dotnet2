@@ -1,0 +1,5 @@
+E:\DotNetPrograms\OLX\TATABOLLib\bin\Debug\TATABOLLib.dll
+E:\DotNetPrograms\OLX\TATABOLLib\bin\Debug\TATABOLLib.pdb
+E:\DotNetPrograms\OLX\TATABOLLib\obj\Debug\TATABOLLib.csprojResolveAssemblyReference.cache
+E:\DotNetPrograms\OLX\TATABOLLib\obj\Debug\TATABOLLib.dll
+E:\DotNetPrograms\OLX\TATABOLLib\obj\Debug\TATABOLLib.pdb

@@ -1,0 +1,7 @@
+E:\DotNetPrograms\OLX\TATADALLib\bin\Debug\TATADALLib.dll
+E:\DotNetPrograms\OLX\TATADALLib\bin\Debug\TATADALLib.pdb
+E:\DotNetPrograms\OLX\TATADALLib\bin\Debug\TATABOLLib.dll
+E:\DotNetPrograms\OLX\TATADALLib\bin\Debug\TATABOLLib.pdb
+E:\DotNetPrograms\OLX\TATADALLib\obj\Debug\TATADALLib.csprojResolveAssemblyReference.cache
+E:\DotNetPrograms\OLX\TATADALLib\obj\Debug\TATADALLib.dll
+E:\DotNetPrograms\OLX\TATADALLib\obj\Debug\TATADALLib.pdb

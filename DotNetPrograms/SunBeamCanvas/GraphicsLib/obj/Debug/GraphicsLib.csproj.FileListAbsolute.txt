@@ -1,0 +1,5 @@
+E:\DotNetPrograms\SunBeamCanvas\GraphicsLib\bin\Debug\GraphicsLib.dll
+E:\DotNetPrograms\SunBeamCanvas\GraphicsLib\bin\Debug\GraphicsLib.pdb
+E:\DotNetPrograms\SunBeamCanvas\GraphicsLib\obj\Debug\GraphicsLib.dll
+E:\DotNetPrograms\SunBeamCanvas\GraphicsLib\obj\Debug\GraphicsLib.pdb
+E:\DotNetPrograms\SunBeamCanvas\GraphicsLib\obj\Debug\GraphicsLib.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+E:\DotNetPrograms\SunBeamCanvas\CentralGovernment\bin\Debug\CentralGovernment.exe.config
+E:\DotNetPrograms\SunBeamCanvas\CentralGovernment\bin\Debug\CentralGovernment.exe
+E:\DotNetPrograms\SunBeamCanvas\CentralGovernment\bin\Debug\CentralGovernment.pdb
+E:\DotNetPrograms\SunBeamCanvas\CentralGovernment\obj\Debug\CentralGovernment.exe
+E:\DotNetPrograms\SunBeamCanvas\CentralGovernment\obj\Debug\CentralGovernment.pdb

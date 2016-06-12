@@ -1,0 +1,164 @@
+﻿<%@ Master Language="C#" %>
+
+<%@ Register src="NavigationCtrl.ascx" tagname="NavigationCtrl" tagprefix="uc1" %>
+
+<!DOCTYPE html>
+
+<script runat="server">
+
+    protected void LinkButton6_Click(object sender, EventArgs e)
+    {
+
+    }
+
+    protected void Page_Load(object sender, EventArgs e)
+    {
+
+    }
+
+
+    protected void ListBox1_SelectedIndexChanged(object sender, EventArgs e)
+    {
+        
+    }
+</script>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .auto-style13 {
+            width: 686%;
+            height: 57px;
+        }
+        .auto-style14 {
+            width: 155px;
+            height: 55px;
+        }
+        .auto-style15 {
+            width: 143px;
+        }
+        .auto-style16 {
+            width: 52px;
+        }
+        .auto-style17 {
+            width: 637px;
+        }
+        .auto-style18 {
+            width: 22px;
+            height: 25px;
+        }
+        .auto-style20 {
+            width: 46px;
+        }
+        .auto-style22 {
+            height: 6px;
+        }
+        .auto-style23 {
+            height: 27px;
+        }
+        .auto-style30 {
+            height: 6px;
+            width: 100px;
+        }
+        .auto-style31 {
+            height: 27px;
+            width: 100px;
+        }
+        .auto-style41 {
+            width: 100%;
+        }
+        </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+ 
+                   <td >
+                              <div >
+                                    <table class="auto-style13">
+                                        <tr>
+                                            <td>
+                                                <table class="auto-style13">
+                                                    <tr>
+                                                        <td class="auto-style15">
+                                                            <img alt="" class="auto-style14" src="images/amazon.png" /></td>
+                                                        <td class="auto-style16">
+                                                            <asp:DropDownList ID="DropDownList2" runat="server" Height="21px" Width="50px">
+                                                                <asp:ListItem>All</asp:ListItem>
+                                                            </asp:DropDownList>
+                                                        </td>
+                                                        <td class="auto-style17">
+                                                            <asp:TextBox ID="TextBox1" runat="server" Width="625px"></asp:TextBox>
+                                                        </td>
+                                                        <td class="auto-style20">
+                                                            <img class="auto-style18" src="images/search.jpg" /></td>
+                                                        <td></td>
+                                                        <td></td>
+                                                        <td></td>
+                                                    </tr>
+                                                </table>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                               
+                                       
+        
+                                        <table class="auto-style13">
+                                            <tr>
+                                                <td class="auto-style30">
+                                                    &nbsp;</td>
+                                                <td class="auto-style22">&nbsp;</td>
+                                            </tr>
+                                            <tr>
+                                                <td class="auto-style31">
+    <table class="auto-style41">
+        
+    </table>
+                                                </td>
+                                                <td class="auto-style23">
+                                                    <uc1:NavigationCtrl ID="NavigationCtrl2" runat="server" />
+                                                </td>
+                                            </tr>
+                                        </table>
+        
+                                       
+        
+                                            </td>
+                                        </tr>
+                                    </table>
+                                    <asp:ContentPlaceHolder id="ContentPlaceHolder1"  runat="server">
+        
+                                       
+        
+                                        <table class="auto-style13">
+                                            <tr>
+                                                <td class="auto-style30">
+                                                    &nbsp;</td>
+                                                <td class="auto-style22">&nbsp;</td>
+                                            </tr>
+                                            <tr>
+                                                <td class="auto-style31">
+                                                    &nbsp;</td>
+                                                <td class="auto-style23">
+                                                    &nbsp;</td>
+                                            </tr>
+                                        </table>
+        
+                                       
+        
+                                    </asp:ContentPlaceHolder>
+                          </div>
+                         </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+            
+        </table>
+    </form>
+
+</body>
+</html>

@@ -1,0 +1,22 @@
+﻿@model System.Collections.Generic.List<eCommerceBOL.Customer>
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <div> 
+        @foreach(eCommerceBOL.Customer c in @Model)
+        {
+            @Html.DisplayFor(x=>c.FirstName)
+        }
+    </div>
+</body>
+</html>

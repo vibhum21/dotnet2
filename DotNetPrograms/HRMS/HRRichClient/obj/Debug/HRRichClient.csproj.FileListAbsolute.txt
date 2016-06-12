@@ -1,0 +1,9 @@
+E:\DotNetPrograms\HRMS\HRRichClient\bin\Debug\HRRichClient.exe.config
+E:\DotNetPrograms\HRMS\HRRichClient\bin\Debug\HRRichClient.exe
+E:\DotNetPrograms\HRMS\HRRichClient\bin\Debug\HRRichClient.pdb
+E:\DotNetPrograms\HRMS\HRRichClient\obj\Debug\HRRichClient.csprojResolveAssemblyReference.cache
+E:\DotNetPrograms\HRMS\HRRichClient\obj\Debug\HRRichClient.Form1.resources
+E:\DotNetPrograms\HRMS\HRRichClient\obj\Debug\HRRichClient.Properties.Resources.resources
+E:\DotNetPrograms\HRMS\HRRichClient\obj\Debug\HRRichClient.csproj.GenerateResource.Cache
+E:\DotNetPrograms\HRMS\HRRichClient\obj\Debug\HRRichClient.exe
+E:\DotNetPrograms\HRMS\HRRichClient\obj\Debug\HRRichClient.pdb

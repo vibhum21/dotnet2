@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WheelsInCloud", "WheelsInCloud\WheelsInCloud.csproj", "{F352D2A7-DA13-4DD6-9EB0-4C2D0317EAC8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TATAIdentityLib", "TATAIdentityLib\TATAIdentityLib.csproj", "{16907D16-B2AD-4EB9-B04D-474EB870EE08}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TATADALLib", "TATADALLib\TATADALLib.csproj", "{C8EA47D5-B95C-4343-A02C-F99550C99636}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TATABOLLib", "TATABOLLib\TATABOLLib.csproj", "{035908EA-F9A0-46F4-BAED-8FEE55485F0A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F352D2A7-DA13-4DD6-9EB0-4C2D0317EAC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F352D2A7-DA13-4DD6-9EB0-4C2D0317EAC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F352D2A7-DA13-4DD6-9EB0-4C2D0317EAC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F352D2A7-DA13-4DD6-9EB0-4C2D0317EAC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16907D16-B2AD-4EB9-B04D-474EB870EE08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16907D16-B2AD-4EB9-B04D-474EB870EE08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16907D16-B2AD-4EB9-B04D-474EB870EE08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16907D16-B2AD-4EB9-B04D-474EB870EE08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8EA47D5-B95C-4343-A02C-F99550C99636}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8EA47D5-B95C-4343-A02C-F99550C99636}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8EA47D5-B95C-4343-A02C-F99550C99636}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8EA47D5-B95C-4343-A02C-F99550C99636}.Release|Any CPU.Build.0 = Release|Any CPU
+		{035908EA-F9A0-46F4-BAED-8FEE55485F0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{035908EA-F9A0-46F4-BAED-8FEE55485F0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{035908EA-F9A0-46F4-BAED-8FEE55485F0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{035908EA-F9A0-46F4-BAED-8FEE55485F0A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

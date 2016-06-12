@@ -1,0 +1,5 @@
+E:\DotNetPrograms\HRMS\HRLib\bin\Debug\HRLib.dll
+E:\DotNetPrograms\HRMS\HRLib\bin\Debug\HRLib.pdb
+E:\DotNetPrograms\HRMS\HRLib\obj\Debug\HRLib.csprojResolveAssemblyReference.cache
+E:\DotNetPrograms\HRMS\HRLib\obj\Debug\HRLib.dll
+E:\DotNetPrograms\HRMS\HRLib\obj\Debug\HRLib.pdb

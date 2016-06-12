@@ -1,0 +1,5 @@
+E:\DotNetPrograms\SunBeamCanvas\GenericsDemo\bin\Debug\GenericsDemo.exe.config
+E:\DotNetPrograms\SunBeamCanvas\GenericsDemo\bin\Debug\GenericsDemo.exe
+E:\DotNetPrograms\SunBeamCanvas\GenericsDemo\bin\Debug\GenericsDemo.pdb
+E:\DotNetPrograms\SunBeamCanvas\GenericsDemo\obj\Debug\GenericsDemo.exe
+E:\DotNetPrograms\SunBeamCanvas\GenericsDemo\obj\Debug\GenericsDemo.pdb

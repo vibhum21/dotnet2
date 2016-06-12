@@ -1,0 +1,6 @@
+E:\DotNetPrograms\SunBeamCanvas\OOPsDemo\bin\Debug\OOPsDemo.exe.config
+E:\DotNetPrograms\SunBeamCanvas\OOPsDemo\bin\Debug\OOPsDemo.exe
+E:\DotNetPrograms\SunBeamCanvas\OOPsDemo\bin\Debug\OOPsDemo.pdb
+E:\DotNetPrograms\SunBeamCanvas\OOPsDemo\obj\Debug\OOPsDemo.csprojResolveAssemblyReference.cache
+E:\DotNetPrograms\SunBeamCanvas\OOPsDemo\obj\Debug\OOPsDemo.exe
+E:\DotNetPrograms\SunBeamCanvas\OOPsDemo\obj\Debug\OOPsDemo.pdb

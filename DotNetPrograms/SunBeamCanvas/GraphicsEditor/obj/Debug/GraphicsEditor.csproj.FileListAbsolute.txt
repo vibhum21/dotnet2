@@ -1,0 +1,13 @@
+E:\DotNetPrograms\SunBeamCanvas\GraphicsEditor\bin\Debug\GraphicsEditor.exe.config
+E:\DotNetPrograms\SunBeamCanvas\GraphicsEditor\bin\Debug\GraphicsEditor.exe
+E:\DotNetPrograms\SunBeamCanvas\GraphicsEditor\bin\Debug\GraphicsEditor.pdb
+E:\DotNetPrograms\SunBeamCanvas\GraphicsEditor\obj\Debug\GraphicsEditor.csprojResolveAssemblyReference.cache
+E:\DotNetPrograms\SunBeamCanvas\GraphicsEditor\obj\Debug\GraphicsEditor.Properties.Resources.resources
+E:\DotNetPrograms\SunBeamCanvas\GraphicsEditor\obj\Debug\GraphicsEditor.csproj.GenerateResource.Cache
+E:\DotNetPrograms\SunBeamCanvas\GraphicsEditor\obj\Debug\GraphicsEditor.exe
+E:\DotNetPrograms\SunBeamCanvas\GraphicsEditor\obj\Debug\GraphicsEditor.pdb
+E:\DotNetPrograms\SunBeamCanvas\GraphicsEditor\bin\Debug\GraphicsLib.dll
+E:\DotNetPrograms\SunBeamCanvas\GraphicsEditor\bin\Debug\GraphicsLib.pdb
+E:\DotNetPrograms\SunBeamCanvas\GraphicsEditor\obj\Debug\GraphicsEditor.Form1.resources
+E:\DotNetPrograms\SunBeamCanvas\GraphicsEditor\obj\Debug\GraphicsEditor.MainFrame.resources
+E:\DotNetPrograms\SunBeamCanvas\GraphicsEditor\obj\Debug\GraphicsEditor.ListForm.resources

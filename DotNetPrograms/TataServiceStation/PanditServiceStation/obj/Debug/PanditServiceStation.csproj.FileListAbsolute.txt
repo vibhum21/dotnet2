@@ -1,0 +1,1 @@
+E:\DotNetPrograms\TataServiceStation\PanditServiceStation\obj\Debug\PanditServiceStation.csprojResolveAssemblyReference.cache

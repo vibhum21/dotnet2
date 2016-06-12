@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "MyFirstWebSite1", "http://localhost:11997", "{77517010-4B2F-43B8-9FFD-D65B7CCD9EF4}"
+	ProjectSection(WebsiteProperties) = preProject
+		UseIISExpress = "true"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
+		ProjectReferences = "{eb0714ec-6f1d-41d3-a0de-7059a3726090}|eCommerceDAL.dll;{A49E501E-64AE-47F9-BF1F-4B81A8F4A43D}|eCommerceBOL.dll;"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_11997"
+		Debug.AspNetCompiler.PhysicalPath = "..\MyFirstWebSite1\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_11997\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_11997"
+		Release.AspNetCompiler.PhysicalPath = "..\MyFirstWebSite1\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_11997\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "..\MyFirstWebSite1\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eCommerceBOL", "C:\Users\user\Documents\SunBeam\DotNet\13_12_Branding\Branding\AmazonOnline\eCommerceBOL\eCommerceBOL.csproj", "{A49E501E-64AE-47F9-BF1F-4B81A8F4A43D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eCommerceDAL", "C:\Users\user\Documents\SunBeam\DotNet\13_12_Branding\Branding\AmazonOnline\eCommerceDAL\eCommerceDAL.csproj", "{EB0714EC-6F1D-41D3-A0DE-7059A3726090}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eCommerceCL", "C:\Users\user\Documents\SunBeam\DotNet\13_12_Branding\Branding\AmazonOnline\eCommerceCL\eCommerceCL.csproj", "{69049A76-DE8F-44FF-9CF6-96179B7565EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77517010-4B2F-43B8-9FFD-D65B7CCD9EF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77517010-4B2F-43B8-9FFD-D65B7CCD9EF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77517010-4B2F-43B8-9FFD-D65B7CCD9EF4}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{77517010-4B2F-43B8-9FFD-D65B7CCD9EF4}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{A49E501E-64AE-47F9-BF1F-4B81A8F4A43D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A49E501E-64AE-47F9-BF1F-4B81A8F4A43D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A49E501E-64AE-47F9-BF1F-4B81A8F4A43D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A49E501E-64AE-47F9-BF1F-4B81A8F4A43D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB0714EC-6F1D-41D3-A0DE-7059A3726090}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB0714EC-6F1D-41D3-A0DE-7059A3726090}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB0714EC-6F1D-41D3-A0DE-7059A3726090}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB0714EC-6F1D-41D3-A0DE-7059A3726090}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69049A76-DE8F-44FF-9CF6-96179B7565EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69049A76-DE8F-44FF-9CF6-96179B7565EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69049A76-DE8F-44FF-9CF6-96179B7565EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69049A76-DE8F-44FF-9CF6-96179B7565EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

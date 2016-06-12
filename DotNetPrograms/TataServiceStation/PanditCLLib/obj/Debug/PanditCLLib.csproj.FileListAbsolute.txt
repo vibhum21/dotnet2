@@ -1,0 +1,9 @@
+E:\DotNetPrograms\TataServiceStation\PanditCLLib\bin\Debug\PanditCLLib.dll
+E:\DotNetPrograms\TataServiceStation\PanditCLLib\bin\Debug\PanditCLLib.pdb
+E:\DotNetPrograms\TataServiceStation\PanditCLLib\bin\Debug\PanditBOL.dll
+E:\DotNetPrograms\TataServiceStation\PanditCLLib\bin\Debug\PanditDAL.dll
+E:\DotNetPrograms\TataServiceStation\PanditCLLib\bin\Debug\PanditBOL.pdb
+E:\DotNetPrograms\TataServiceStation\PanditCLLib\bin\Debug\PanditDAL.pdb
+E:\DotNetPrograms\TataServiceStation\PanditCLLib\obj\Debug\PanditCLLib.csprojResolveAssemblyReference.cache
+E:\DotNetPrograms\TataServiceStation\PanditCLLib\obj\Debug\PanditCLLib.dll
+E:\DotNetPrograms\TataServiceStation\PanditCLLib\obj\Debug\PanditCLLib.pdb

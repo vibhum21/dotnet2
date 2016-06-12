@@ -1,0 +1,4 @@
+E:\DotNetPrograms\TataServiceStation\PanditBOL\bin\Debug\PanditBOL.dll
+E:\DotNetPrograms\TataServiceStation\PanditBOL\bin\Debug\PanditBOL.pdb
+E:\DotNetPrograms\TataServiceStation\PanditBOL\obj\Debug\PanditBOL.dll
+E:\DotNetPrograms\TataServiceStation\PanditBOL\obj\Debug\PanditBOL.pdb

@@ -1,0 +1,8 @@
+E:\DotNetPrograms\HRMS\HRConsoleClient\bin\Debug\HRConsoleClient.exe.config
+E:\DotNetPrograms\HRMS\HRConsoleClient\bin\Debug\HRConsoleClient.exe
+E:\DotNetPrograms\HRMS\HRConsoleClient\bin\Debug\HRConsoleClient.pdb
+E:\DotNetPrograms\HRMS\HRConsoleClient\bin\Debug\HRLib.dll
+E:\DotNetPrograms\HRMS\HRConsoleClient\bin\Debug\HRLib.pdb
+E:\DotNetPrograms\HRMS\HRConsoleClient\obj\Debug\HRConsoleClient.csprojResolveAssemblyReference.cache
+E:\DotNetPrograms\HRMS\HRConsoleClient\obj\Debug\HRConsoleClient.exe
+E:\DotNetPrograms\HRMS\HRConsoleClient\obj\Debug\HRConsoleClient.pdb

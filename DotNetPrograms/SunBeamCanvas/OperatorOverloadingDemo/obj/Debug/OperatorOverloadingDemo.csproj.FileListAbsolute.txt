@@ -1,0 +1,5 @@
+E:\DotNetPrograms\SunBeamCanvas\OperatorOverloadingDemo\bin\Debug\OperatorOverloadingDemo.exe.config
+E:\DotNetPrograms\SunBeamCanvas\OperatorOverloadingDemo\bin\Debug\OperatorOverloadingDemo.exe
+E:\DotNetPrograms\SunBeamCanvas\OperatorOverloadingDemo\bin\Debug\OperatorOverloadingDemo.pdb
+E:\DotNetPrograms\SunBeamCanvas\OperatorOverloadingDemo\obj\Debug\OperatorOverloadingDemo.exe
+E:\DotNetPrograms\SunBeamCanvas\OperatorOverloadingDemo\obj\Debug\OperatorOverloadingDemo.pdb
